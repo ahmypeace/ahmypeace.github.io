@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "amaka-portfolio"
+  title: "My Portfolio Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

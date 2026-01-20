@@ -1,11 +1,20 @@
 ---
-title: "amaka-portfolio"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Amaka Peace Onebunne
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Tech and Media Researcher focused on human–machine communication, AI, and digital governance.
 
-```{r}
-1 + 1
-```
+### What I work on
+
+-   Responsible AI and policy discourse
+-   Privacy, surveillance, and platform power
+-   Computational text analysis (R and Python)
+
+### Quick links
+
+-   [Projects](projects.qmd)
+-   [Writing](writing.qmd)
+-   [CV](cv.qmd)
+-   [Contact](contact.qmd)
