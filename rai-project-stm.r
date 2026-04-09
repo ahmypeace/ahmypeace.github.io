@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "7643e5f8",
+   "id": "ffcf0938",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:19.108634Z",
-     "iopub.status.busy": "2026-04-09T21:39:19.106903Z",
-     "iopub.status.idle": "2026-04-09T21:39:25.295824Z",
-     "shell.execute_reply": "2026-04-09T21:39:25.294441Z"
+     "iopub.execute_input": "2026-04-09T22:00:54.000842Z",
+     "iopub.status.busy": "2026-04-09T22:00:53.998329Z",
+     "iopub.status.idle": "2026-04-09T22:01:03.622822Z",
+     "shell.execute_reply": "2026-04-09T22:01:03.620756Z"
     },
     "papermill": {
-     "duration": 6.198079,
-     "end_time": "2026-04-09T21:39:25.297447",
+     "duration": 9.638411,
+     "end_time": "2026-04-09T22:01:03.625700",
      "exception": false,
-     "start_time": "2026-04-09T21:39:19.099368",
+     "start_time": "2026-04-09T22:00:53.987289",
      "status": "completed"
     },
     "tags": []
@@ -147,19 +147,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "f9b51574",
+   "id": "347493ec",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:25.374008Z",
-     "iopub.status.busy": "2026-04-09T21:39:25.309213Z",
-     "iopub.status.idle": "2026-04-09T21:39:25.383444Z",
-     "shell.execute_reply": "2026-04-09T21:39:25.382167Z"
+     "iopub.execute_input": "2026-04-09T22:01:03.676019Z",
+     "iopub.status.busy": "2026-04-09T22:01:03.643640Z",
+     "iopub.status.idle": "2026-04-09T22:01:03.688849Z",
+     "shell.execute_reply": "2026-04-09T22:01:03.687125Z"
     },
     "papermill": {
-     "duration": 0.082756,
-     "end_time": "2026-04-09T21:39:25.385321",
+     "duration": 0.057389,
+     "end_time": "2026-04-09T22:01:03.691658",
      "exception": false,
-     "start_time": "2026-04-09T21:39:25.302565",
+     "start_time": "2026-04-09T22:01:03.634269",
      "status": "completed"
     },
     "tags": []
@@ -172,19 +172,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "d72ecdea",
+   "id": "af1f4b28",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:25.397783Z",
-     "iopub.status.busy": "2026-04-09T21:39:25.396550Z",
-     "iopub.status.idle": "2026-04-09T21:39:25.615019Z",
-     "shell.execute_reply": "2026-04-09T21:39:25.613446Z"
+     "iopub.execute_input": "2026-04-09T22:01:03.710076Z",
+     "iopub.status.busy": "2026-04-09T22:01:03.708334Z",
+     "iopub.status.idle": "2026-04-09T22:01:03.935412Z",
+     "shell.execute_reply": "2026-04-09T22:01:03.933193Z"
     },
     "papermill": {
-     "duration": 0.226281,
-     "end_time": "2026-04-09T21:39:25.616681",
+     "duration": 0.239552,
+     "end_time": "2026-04-09T22:01:03.938492",
      "exception": false,
-     "start_time": "2026-04-09T21:39:25.390400",
+     "start_time": "2026-04-09T22:01:03.698940",
      "status": "completed"
     },
     "tags": []
@@ -283,19 +283,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "b1823353",
+   "id": "123809ad",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:25.629534Z",
-     "iopub.status.busy": "2026-04-09T21:39:25.628350Z",
-     "iopub.status.idle": "2026-04-09T21:39:26.274447Z",
-     "shell.execute_reply": "2026-04-09T21:39:26.272704Z"
+     "iopub.execute_input": "2026-04-09T22:01:03.957573Z",
+     "iopub.status.busy": "2026-04-09T22:01:03.956071Z",
+     "iopub.status.idle": "2026-04-09T22:01:04.748225Z",
+     "shell.execute_reply": "2026-04-09T22:01:04.745437Z"
     },
     "papermill": {
-     "duration": 0.655414,
-     "end_time": "2026-04-09T21:39:26.277333",
+     "duration": 0.80654,
+     "end_time": "2026-04-09T22:01:04.752476",
      "exception": false,
-     "start_time": "2026-04-09T21:39:25.621919",
+     "start_time": "2026-04-09T22:01:03.945936",
      "status": "completed"
     },
     "tags": []
@@ -426,19 +426,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "fec12e24",
+   "id": "33540f17",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:26.291680Z",
-     "iopub.status.busy": "2026-04-09T21:39:26.289916Z",
-     "iopub.status.idle": "2026-04-09T21:39:26.311998Z",
-     "shell.execute_reply": "2026-04-09T21:39:26.310580Z"
+     "iopub.execute_input": "2026-04-09T22:01:04.773212Z",
+     "iopub.status.busy": "2026-04-09T22:01:04.771160Z",
+     "iopub.status.idle": "2026-04-09T22:01:04.810136Z",
+     "shell.execute_reply": "2026-04-09T22:01:04.806724Z"
     },
     "papermill": {
-     "duration": 0.031012,
-     "end_time": "2026-04-09T21:39:26.313937",
+     "duration": 0.053817,
+     "end_time": "2026-04-09T22:01:04.814373",
      "exception": false,
-     "start_time": "2026-04-09T21:39:26.282925",
+     "start_time": "2026-04-09T22:01:04.760556",
      "status": "completed"
     },
     "tags": []
@@ -479,19 +479,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "119f9eef",
+   "id": "6957b3b3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:26.328292Z",
-     "iopub.status.busy": "2026-04-09T21:39:26.326572Z",
-     "iopub.status.idle": "2026-04-09T21:39:27.074823Z",
-     "shell.execute_reply": "2026-04-09T21:39:27.073433Z"
+     "iopub.execute_input": "2026-04-09T22:01:04.835822Z",
+     "iopub.status.busy": "2026-04-09T22:01:04.833765Z",
+     "iopub.status.idle": "2026-04-09T22:01:05.830562Z",
+     "shell.execute_reply": "2026-04-09T22:01:05.828764Z"
     },
     "papermill": {
-     "duration": 0.756946,
-     "end_time": "2026-04-09T21:39:27.076527",
+     "duration": 1.010171,
+     "end_time": "2026-04-09T22:01:05.833359",
      "exception": false,
-     "start_time": "2026-04-09T21:39:26.319581",
+     "start_time": "2026-04-09T22:01:04.823188",
      "status": "completed"
     },
     "tags": []
@@ -759,19 +759,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "be2f2e5d",
+   "id": "1375d06f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:27.093034Z",
-     "iopub.status.busy": "2026-04-09T21:39:27.091735Z",
-     "iopub.status.idle": "2026-04-09T21:39:27.746110Z",
-     "shell.execute_reply": "2026-04-09T21:39:27.744823Z"
+     "iopub.execute_input": "2026-04-09T22:01:05.854554Z",
+     "iopub.status.busy": "2026-04-09T22:01:05.853052Z",
+     "iopub.status.idle": "2026-04-09T22:01:06.730286Z",
+     "shell.execute_reply": "2026-04-09T22:01:06.728105Z"
     },
     "papermill": {
-     "duration": 0.664792,
-     "end_time": "2026-04-09T21:39:27.748592",
+     "duration": 0.890596,
+     "end_time": "2026-04-09T22:01:06.733250",
      "exception": false,
-     "start_time": "2026-04-09T21:39:27.083800",
+     "start_time": "2026-04-09T22:01:05.842654",
      "status": "completed"
     },
     "tags": []
@@ -1032,19 +1032,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "2d45cac1",
+   "id": "c18ff845",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:27.764229Z",
-     "iopub.status.busy": "2026-04-09T21:39:27.762779Z",
-     "iopub.status.idle": "2026-04-09T21:39:27.778490Z",
-     "shell.execute_reply": "2026-04-09T21:39:27.776860Z"
+     "iopub.execute_input": "2026-04-09T22:01:06.755329Z",
+     "iopub.status.busy": "2026-04-09T22:01:06.753428Z",
+     "iopub.status.idle": "2026-04-09T22:01:06.775017Z",
+     "shell.execute_reply": "2026-04-09T22:01:06.772695Z"
     },
     "papermill": {
-     "duration": 0.025417,
-     "end_time": "2026-04-09T21:39:27.780338",
+     "duration": 0.035518,
+     "end_time": "2026-04-09T22:01:06.778357",
      "exception": false,
-     "start_time": "2026-04-09T21:39:27.754921",
+     "start_time": "2026-04-09T22:01:06.742839",
      "status": "completed"
     },
     "tags": []
@@ -1083,19 +1083,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "3c40340a",
+   "id": "ee9b5f1f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:27.797631Z",
-     "iopub.status.busy": "2026-04-09T21:39:27.796083Z",
-     "iopub.status.idle": "2026-04-09T21:39:30.508965Z",
-     "shell.execute_reply": "2026-04-09T21:39:30.507379Z"
+     "iopub.execute_input": "2026-04-09T22:01:06.800472Z",
+     "iopub.status.busy": "2026-04-09T22:01:06.798444Z",
+     "iopub.status.idle": "2026-04-09T22:01:10.554708Z",
+     "shell.execute_reply": "2026-04-09T22:01:10.552628Z"
     },
     "papermill": {
-     "duration": 2.724921,
-     "end_time": "2026-04-09T21:39:30.511026",
+     "duration": 3.771209,
+     "end_time": "2026-04-09T22:01:10.558031",
      "exception": false,
-     "start_time": "2026-04-09T21:39:27.786105",
+     "start_time": "2026-04-09T22:01:06.786822",
      "status": "completed"
     },
     "tags": []
@@ -1246,19 +1246,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "04beac1f",
+   "id": "5c1be29c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:39:30.526158Z",
-     "iopub.status.busy": "2026-04-09T21:39:30.524960Z",
-     "iopub.status.idle": "2026-04-09T21:42:50.561582Z",
-     "shell.execute_reply": "2026-04-09T21:42:50.559618Z"
+     "iopub.execute_input": "2026-04-09T22:01:10.579936Z",
+     "iopub.status.busy": "2026-04-09T22:01:10.578344Z",
+     "iopub.status.idle": "2026-04-09T22:06:33.667514Z",
+     "shell.execute_reply": "2026-04-09T22:06:33.663645Z"
     },
     "papermill": {
-     "duration": 200.064284,
-     "end_time": "2026-04-09T21:42:50.581740",
+     "duration": 323.132814,
+     "end_time": "2026-04-09T22:06:33.699999",
      "exception": false,
-     "start_time": "2026-04-09T21:39:30.517456",
+     "start_time": "2026-04-09T22:01:10.567185",
      "status": "completed"
     },
     "tags": []
@@ -1365,19 +1365,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "701ce07c",
+   "id": "ba86df47",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:42:50.606525Z",
-     "iopub.status.busy": "2026-04-09T21:42:50.604742Z",
-     "iopub.status.idle": "2026-04-09T21:42:50.627162Z",
-     "shell.execute_reply": "2026-04-09T21:42:50.625046Z"
+     "iopub.execute_input": "2026-04-09T22:06:33.743977Z",
+     "iopub.status.busy": "2026-04-09T22:06:33.742274Z",
+     "iopub.status.idle": "2026-04-09T22:06:33.765839Z",
+     "shell.execute_reply": "2026-04-09T22:06:33.763927Z"
     },
     "papermill": {
-     "duration": 0.037653,
-     "end_time": "2026-04-09T21:42:50.629662",
+     "duration": 0.046762,
+     "end_time": "2026-04-09T22:06:33.768814",
      "exception": false,
-     "start_time": "2026-04-09T21:42:50.592009",
+     "start_time": "2026-04-09T22:06:33.722052",
      "status": "completed"
     },
     "tags": []
@@ -1426,19 +1426,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "a3253125",
+   "id": "864c9fa1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:42:50.653587Z",
-     "iopub.status.busy": "2026-04-09T21:42:50.652181Z",
-     "iopub.status.idle": "2026-04-09T21:52:39.704297Z",
-     "shell.execute_reply": "2026-04-09T21:52:39.702214Z"
+     "iopub.execute_input": "2026-04-09T22:06:33.791764Z",
+     "iopub.status.busy": "2026-04-09T22:06:33.790079Z",
+     "iopub.status.idle": "2026-04-09T22:21:50.552936Z",
+     "shell.execute_reply": "2026-04-09T22:21:50.549840Z"
     },
     "papermill": {
-     "duration": 589.095119,
-     "end_time": "2026-04-09T21:52:39.735156",
+     "duration": 916.817936,
+     "end_time": "2026-04-09T22:21:50.596442",
      "exception": false,
-     "start_time": "2026-04-09T21:42:50.640037",
+     "start_time": "2026-04-09T22:06:33.778506",
      "status": "completed"
     },
     "tags": []
@@ -1458,27 +1458,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 1 (approx. per word bound = -7.314) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 2 (approx. per word bound = -6.954, relative change = 4.915e-02) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 3 (approx. per word bound = -6.882, relative change = 1.035e-02) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 4 (approx. per word bound = -6.845, relative change = 5.465e-03) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 5 (approx. per word bound = -6.824, relative change = 3.008e-03) \n",
       "Topic 1: scale, cryptograph, modul, journalist, -product \n",
       " Topic 2: breakthrough, agenc, podcast, well-resourc, exfiltr \n",
@@ -1495,27 +1495,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 6 (approx. per word bound = -6.815, relative change = 1.312e-03) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 7 (approx. per word bound = -6.809, relative change = 8.598e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 8 (approx. per word bound = -6.805, relative change = 6.665e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 9 (approx. per word bound = -6.802, relative change = 3.622e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 10 (approx. per word bound = -6.800, relative change = 3.500e-04) \n",
       "Topic 1: scale, modul, cryptograph, field”, journalist \n",
       " Topic 2: podcast, breakthrough, agenc, well-resourc, voluntari \n",
@@ -1532,27 +1532,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 11 (approx. per word bound = -6.797, relative change = 4.805e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 12 (approx. per word bound = -6.793, relative change = 6.032e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (26 seconds). \n",
       "Completing Iteration 13 (approx. per word bound = -6.784, relative change = 1.284e-03) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (28 seconds). \n",
       "Completing Iteration 14 (approx. per word bound = -6.777, relative change = 9.566e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (27 seconds). \n",
       "Completing Iteration 15 (approx. per word bound = -6.775, relative change = 3.445e-04) \n",
       "Topic 1: abus, modul, cryptograph, field”, -product \n",
       " Topic 2: podcast, agenc, well-resourc, breakthrough, voluntari \n",
@@ -1569,27 +1569,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (17 seconds). \n",
+      "Completed M-Step (26 seconds). \n",
       "Completing Iteration 16 (approx. per word bound = -6.774, relative change = 1.350e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (17 seconds). \n",
+      "Completed M-Step (26 seconds). \n",
       "Completing Iteration 17 (approx. per word bound = -6.773, relative change = 1.279e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 18 (approx. per word bound = -6.773, relative change = 1.127e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 19 (approx. per word bound = -6.772, relative change = 1.346e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 20 (approx. per word bound = -6.771, relative change = 1.017e-04) \n",
       "Topic 1: abus, modul, cryptograph, field”, -product \n",
       " Topic 2: durabl, podcast, agenc, voluntari, well-resourc \n",
@@ -1606,27 +1606,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 21 (approx. per word bound = -6.771, relative change = 4.924e-05) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (15 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 22 (approx. per word bound = -6.769, relative change = 1.587e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 23 (approx. per word bound = -6.767, relative change = 4.415e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 24 (approx. per word bound = -6.763, relative change = 5.016e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 25 (approx. per word bound = -6.760, relative change = 4.213e-04) \n",
       "Topic 1: abus, modul, cryptograph, -product, journalist \n",
       " Topic 2: domest, durabl, agenc, voluntari, podcast \n",
@@ -1643,27 +1643,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 26 (approx. per word bound = -6.758, relative change = 4.081e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (24 seconds). \n",
       "Completing Iteration 27 (approx. per word bound = -6.756, relative change = 2.447e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 28 (approx. per word bound = -6.754, relative change = 2.297e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (26 seconds). \n",
       "Completing Iteration 29 (approx. per word bound = -6.753, relative change = 2.088e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 30 (approx. per word bound = -6.752, relative change = 1.239e-04) \n",
       "Topic 1: modul, abus, -product, cryptograph, holist \n",
       " Topic 2: domest, durabl, foreign, agenc, voluntari \n",
@@ -1680,27 +1680,27 @@
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 31 (approx. per word bound = -6.751, relative change = 1.487e-04) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 32 (approx. per word bound = -6.751, relative change = 2.106e-05) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 33 (approx. per word bound = -6.751, relative change = 2.627e-05) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Completing Iteration 34 (approx. per word bound = -6.751, relative change = 3.121e-05) \n",
       "..........................................................\n",
       "Completed E-Step (0 seconds). \n",
       "....................................................................................................\n",
-      "Completed M-Step (16 seconds). \n",
+      "Completed M-Step (25 seconds). \n",
       "Model Converged \n"
      ]
     },
@@ -1765,19 +1765,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "a3144d4d",
+   "id": "3dabbcf2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:39.775491Z",
-     "iopub.status.busy": "2026-04-09T21:52:39.773756Z",
-     "iopub.status.idle": "2026-04-09T21:52:39.826476Z",
-     "shell.execute_reply": "2026-04-09T21:52:39.824908Z"
+     "iopub.execute_input": "2026-04-09T22:21:50.680351Z",
+     "iopub.status.busy": "2026-04-09T22:21:50.678658Z",
+     "iopub.status.idle": "2026-04-09T22:21:50.734066Z",
+     "shell.execute_reply": "2026-04-09T22:21:50.732094Z"
     },
     "papermill": {
-     "duration": 0.068387,
-     "end_time": "2026-04-09T21:52:39.828747",
+     "duration": 0.102558,
+     "end_time": "2026-04-09T22:21:50.737035",
      "exception": false,
-     "start_time": "2026-04-09T21:52:39.760360",
+     "start_time": "2026-04-09T22:21:50.634477",
      "status": "completed"
     },
     "tags": []
@@ -1894,19 +1894,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "40ee0815",
+   "id": "db37c19c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:39.845653Z",
-     "iopub.status.busy": "2026-04-09T21:52:39.844546Z",
-     "iopub.status.idle": "2026-04-09T21:52:39.857977Z",
-     "shell.execute_reply": "2026-04-09T21:52:39.856600Z"
+     "iopub.execute_input": "2026-04-09T22:21:50.761078Z",
+     "iopub.status.busy": "2026-04-09T22:21:50.759438Z",
+     "iopub.status.idle": "2026-04-09T22:21:50.778228Z",
+     "shell.execute_reply": "2026-04-09T22:21:50.776312Z"
     },
     "papermill": {
-     "duration": 0.023736,
-     "end_time": "2026-04-09T21:52:39.859775",
+     "duration": 0.033565,
+     "end_time": "2026-04-09T22:21:50.780788",
      "exception": false,
-     "start_time": "2026-04-09T21:52:39.836039",
+     "start_time": "2026-04-09T22:21:50.747223",
      "status": "completed"
     },
     "tags": []
@@ -1957,19 +1957,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "cf169fb1",
+   "id": "edba4849",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:39.876425Z",
-     "iopub.status.busy": "2026-04-09T21:52:39.875230Z",
-     "iopub.status.idle": "2026-04-09T21:52:39.906576Z",
-     "shell.execute_reply": "2026-04-09T21:52:39.905209Z"
+     "iopub.execute_input": "2026-04-09T22:21:50.804255Z",
+     "iopub.status.busy": "2026-04-09T22:21:50.802577Z",
+     "iopub.status.idle": "2026-04-09T22:21:50.846131Z",
+     "shell.execute_reply": "2026-04-09T22:21:50.844203Z"
     },
     "papermill": {
-     "duration": 0.041518,
-     "end_time": "2026-04-09T21:52:39.908295",
+     "duration": 0.057888,
+     "end_time": "2026-04-09T22:21:50.848520",
      "exception": false,
-     "start_time": "2026-04-09T21:52:39.866777",
+     "start_time": "2026-04-09T22:21:50.790632",
      "status": "completed"
     },
     "tags": []
@@ -2040,19 +2040,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "d6a33b56",
+   "id": "ef3b3c48",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:39.924650Z",
-     "iopub.status.busy": "2026-04-09T21:52:39.923423Z",
-     "iopub.status.idle": "2026-04-09T21:52:42.051369Z",
-     "shell.execute_reply": "2026-04-09T21:52:42.050068Z"
+     "iopub.execute_input": "2026-04-09T22:21:50.872045Z",
+     "iopub.status.busy": "2026-04-09T22:21:50.870319Z",
+     "iopub.status.idle": "2026-04-09T22:21:53.801188Z",
+     "shell.execute_reply": "2026-04-09T22:21:53.799138Z"
     },
     "papermill": {
-     "duration": 2.138214,
-     "end_time": "2026-04-09T21:52:42.053374",
+     "duration": 2.945631,
+     "end_time": "2026-04-09T22:21:53.803936",
      "exception": false,
-     "start_time": "2026-04-09T21:52:39.915160",
+     "start_time": "2026-04-09T22:21:50.858305",
      "status": "completed"
     },
     "tags": []
@@ -2232,19 +2232,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "588adbe7",
+   "id": "c96bc0a4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:42.070987Z",
-     "iopub.status.busy": "2026-04-09T21:52:42.069688Z",
-     "iopub.status.idle": "2026-04-09T21:52:42.082757Z",
-     "shell.execute_reply": "2026-04-09T21:52:42.081284Z"
+     "iopub.execute_input": "2026-04-09T22:21:53.828283Z",
+     "iopub.status.busy": "2026-04-09T22:21:53.826676Z",
+     "iopub.status.idle": "2026-04-09T22:21:53.842674Z",
+     "shell.execute_reply": "2026-04-09T22:21:53.840859Z"
     },
     "papermill": {
-     "duration": 0.024785,
-     "end_time": "2026-04-09T21:52:42.085633",
+     "duration": 0.03089,
+     "end_time": "2026-04-09T22:21:53.845251",
      "exception": false,
-     "start_time": "2026-04-09T21:52:42.060848",
+     "start_time": "2026-04-09T22:21:53.814361",
      "status": "completed"
     },
     "tags": []
@@ -2262,19 +2262,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "981e8bd2",
+   "id": "003a8c35",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:42.102191Z",
-     "iopub.status.busy": "2026-04-09T21:52:42.101084Z",
-     "iopub.status.idle": "2026-04-09T21:52:42.554069Z",
-     "shell.execute_reply": "2026-04-09T21:52:42.552118Z"
+     "iopub.execute_input": "2026-04-09T22:21:53.869491Z",
+     "iopub.status.busy": "2026-04-09T22:21:53.867901Z",
+     "iopub.status.idle": "2026-04-09T22:21:54.424475Z",
+     "shell.execute_reply": "2026-04-09T22:21:54.422687Z"
     },
     "papermill": {
-     "duration": 0.463556,
-     "end_time": "2026-04-09T21:52:42.556430",
+     "duration": 0.571696,
+     "end_time": "2026-04-09T22:21:54.427375",
      "exception": false,
-     "start_time": "2026-04-09T21:52:42.092874",
+     "start_time": "2026-04-09T22:21:53.855679",
      "status": "completed"
     },
     "tags": []
@@ -2308,19 +2308,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "5c26ea3b",
+   "id": "a8c16209",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:42.576716Z",
-     "iopub.status.busy": "2026-04-09T21:52:42.575545Z",
-     "iopub.status.idle": "2026-04-09T21:52:42.837201Z",
-     "shell.execute_reply": "2026-04-09T21:52:42.835058Z"
+     "iopub.execute_input": "2026-04-09T22:21:54.456345Z",
+     "iopub.status.busy": "2026-04-09T22:21:54.454790Z",
+     "iopub.status.idle": "2026-04-09T22:21:54.848280Z",
+     "shell.execute_reply": "2026-04-09T22:21:54.846410Z"
     },
     "papermill": {
-     "duration": 0.276789,
-     "end_time": "2026-04-09T21:52:42.842127",
+     "duration": 0.412363,
+     "end_time": "2026-04-09T22:21:54.852652",
      "exception": false,
-     "start_time": "2026-04-09T21:52:42.565338",
+     "start_time": "2026-04-09T22:21:54.440289",
      "status": "completed"
     },
     "tags": []
@@ -2351,19 +2351,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "08088d2e",
+   "id": "a8913ca8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:42.870919Z",
-     "iopub.status.busy": "2026-04-09T21:52:42.869629Z",
-     "iopub.status.idle": "2026-04-09T21:52:44.161097Z",
-     "shell.execute_reply": "2026-04-09T21:52:44.159777Z"
+     "iopub.execute_input": "2026-04-09T22:21:54.889055Z",
+     "iopub.status.busy": "2026-04-09T22:21:54.887460Z",
+     "iopub.status.idle": "2026-04-09T22:21:56.715438Z",
+     "shell.execute_reply": "2026-04-09T22:21:56.713396Z"
     },
     "papermill": {
-     "duration": 1.307428,
-     "end_time": "2026-04-09T21:52:44.163023",
+     "duration": 1.849185,
+     "end_time": "2026-04-09T22:21:56.718264",
      "exception": false,
-     "start_time": "2026-04-09T21:52:42.855595",
+     "start_time": "2026-04-09T22:21:54.869079",
      "status": "completed"
     },
     "tags": []
@@ -2467,19 +2467,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "dc6dafef",
+   "id": "2f329d7e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:44.200609Z",
-     "iopub.status.busy": "2026-04-09T21:52:44.199336Z",
-     "iopub.status.idle": "2026-04-09T21:52:44.517777Z",
-     "shell.execute_reply": "2026-04-09T21:52:44.516490Z"
+     "iopub.execute_input": "2026-04-09T22:21:56.771159Z",
+     "iopub.status.busy": "2026-04-09T22:21:56.769419Z",
+     "iopub.status.idle": "2026-04-09T22:21:57.205035Z",
+     "shell.execute_reply": "2026-04-09T22:21:57.203181Z"
     },
     "papermill": {
-     "duration": 0.338661,
-     "end_time": "2026-04-09T21:52:44.519596",
+     "duration": 0.465396,
+     "end_time": "2026-04-09T22:21:57.208282",
      "exception": false,
-     "start_time": "2026-04-09T21:52:44.180935",
+     "start_time": "2026-04-09T22:21:56.742886",
      "status": "completed"
     },
     "tags": []
@@ -2530,19 +2530,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "9635802a",
+   "id": "94797f2b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:44.560715Z",
-     "iopub.status.busy": "2026-04-09T21:52:44.559589Z",
-     "iopub.status.idle": "2026-04-09T21:52:44.590228Z",
-     "shell.execute_reply": "2026-04-09T21:52:44.588746Z"
+     "iopub.execute_input": "2026-04-09T22:21:57.267875Z",
+     "iopub.status.busy": "2026-04-09T22:21:57.266339Z",
+     "iopub.status.idle": "2026-04-09T22:21:57.310047Z",
+     "shell.execute_reply": "2026-04-09T22:21:57.307890Z"
     },
     "papermill": {
-     "duration": 0.054058,
-     "end_time": "2026-04-09T21:52:44.592753",
+     "duration": 0.076811,
+     "end_time": "2026-04-09T22:21:57.313243",
      "exception": false,
-     "start_time": "2026-04-09T21:52:44.538695",
+     "start_time": "2026-04-09T22:21:57.236432",
      "status": "completed"
     },
     "tags": []
@@ -2603,19 +2603,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "bc15e42b",
+   "id": "b8d583f5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:44.633516Z",
-     "iopub.status.busy": "2026-04-09T21:52:44.632277Z",
-     "iopub.status.idle": "2026-04-09T21:52:44.643432Z",
-     "shell.execute_reply": "2026-04-09T21:52:44.642109Z"
+     "iopub.execute_input": "2026-04-09T22:21:57.372408Z",
+     "iopub.status.busy": "2026-04-09T22:21:57.370841Z",
+     "iopub.status.idle": "2026-04-09T22:21:57.386354Z",
+     "shell.execute_reply": "2026-04-09T22:21:57.384696Z"
     },
     "papermill": {
-     "duration": 0.033273,
-     "end_time": "2026-04-09T21:52:44.645093",
+     "duration": 0.050099,
+     "end_time": "2026-04-09T22:21:57.389597",
      "exception": false,
-     "start_time": "2026-04-09T21:52:44.611820",
+     "start_time": "2026-04-09T22:21:57.339498",
      "status": "completed"
     },
     "tags": []
@@ -2631,19 +2631,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "c0eca9a0",
+   "id": "59e92f80",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:44.687593Z",
-     "iopub.status.busy": "2026-04-09T21:52:44.686276Z",
-     "iopub.status.idle": "2026-04-09T21:52:55.635773Z",
-     "shell.execute_reply": "2026-04-09T21:52:55.634433Z"
+     "iopub.execute_input": "2026-04-09T22:21:57.447683Z",
+     "iopub.status.busy": "2026-04-09T22:21:57.446047Z",
+     "iopub.status.idle": "2026-04-09T22:22:12.708800Z",
+     "shell.execute_reply": "2026-04-09T22:22:12.705909Z"
     },
     "papermill": {
-     "duration": 10.973842,
-     "end_time": "2026-04-09T21:52:55.637740",
+     "duration": 15.297455,
+     "end_time": "2026-04-09T22:22:12.713777",
      "exception": false,
-     "start_time": "2026-04-09T21:52:44.663898",
+     "start_time": "2026-04-09T22:21:57.416322",
      "status": "completed"
     },
     "tags": []
@@ -3199,19 +3199,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "0ddce196",
+   "id": "0e212980",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:55.690690Z",
-     "iopub.status.busy": "2026-04-09T21:52:55.689568Z",
-     "iopub.status.idle": "2026-04-09T21:52:57.423898Z",
-     "shell.execute_reply": "2026-04-09T21:52:57.422591Z"
+     "iopub.execute_input": "2026-04-09T22:22:12.790773Z",
+     "iopub.status.busy": "2026-04-09T22:22:12.789220Z",
+     "iopub.status.idle": "2026-04-09T22:22:15.185181Z",
+     "shell.execute_reply": "2026-04-09T22:22:15.183166Z"
     },
     "papermill": {
-     "duration": 1.763362,
-     "end_time": "2026-04-09T21:52:57.426137",
+     "duration": 2.437876,
+     "end_time": "2026-04-09T22:22:15.188244",
      "exception": false,
-     "start_time": "2026-04-09T21:52:55.662775",
+     "start_time": "2026-04-09T22:22:12.750368",
      "status": "completed"
     },
     "tags": []
@@ -3276,19 +3276,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "70d18f0d",
+   "id": "55e8434c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:57.490795Z",
-     "iopub.status.busy": "2026-04-09T21:52:57.489615Z",
-     "iopub.status.idle": "2026-04-09T21:52:57.764003Z",
-     "shell.execute_reply": "2026-04-09T21:52:57.762005Z"
+     "iopub.execute_input": "2026-04-09T22:22:15.278823Z",
+     "iopub.status.busy": "2026-04-09T22:22:15.277231Z",
+     "iopub.status.idle": "2026-04-09T22:22:15.608747Z",
+     "shell.execute_reply": "2026-04-09T22:22:15.605946Z"
     },
     "papermill": {
-     "duration": 0.308027,
-     "end_time": "2026-04-09T21:52:57.766133",
+     "duration": 0.37983,
+     "end_time": "2026-04-09T22:22:15.611956",
      "exception": false,
-     "start_time": "2026-04-09T21:52:57.458106",
+     "start_time": "2026-04-09T22:22:15.232126",
      "status": "completed"
     },
     "tags": []
@@ -3455,19 +3455,19 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "f398a4f2",
+   "id": "2175d0ca",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:57.834534Z",
-     "iopub.status.busy": "2026-04-09T21:52:57.833175Z",
-     "iopub.status.idle": "2026-04-09T21:52:57.845543Z",
-     "shell.execute_reply": "2026-04-09T21:52:57.844267Z"
+     "iopub.execute_input": "2026-04-09T22:22:15.707181Z",
+     "iopub.status.busy": "2026-04-09T22:22:15.705639Z",
+     "iopub.status.idle": "2026-04-09T22:22:15.723342Z",
+     "shell.execute_reply": "2026-04-09T22:22:15.721393Z"
     },
     "papermill": {
-     "duration": 0.046536,
-     "end_time": "2026-04-09T21:52:57.847208",
+     "duration": 0.068939,
+     "end_time": "2026-04-09T22:22:15.726799",
      "exception": false,
-     "start_time": "2026-04-09T21:52:57.800672",
+     "start_time": "2026-04-09T22:22:15.657860",
      "status": "completed"
     },
     "tags": []
@@ -3498,19 +3498,19 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "28414b84",
+   "id": "95d7d3dd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-04-09T21:52:57.910990Z",
-     "iopub.status.busy": "2026-04-09T21:52:57.909802Z",
-     "iopub.status.idle": "2026-04-09T21:52:58.098411Z",
-     "shell.execute_reply": "2026-04-09T21:52:58.096815Z"
+     "iopub.execute_input": "2026-04-09T22:22:15.816151Z",
+     "iopub.status.busy": "2026-04-09T22:22:15.814592Z",
+     "iopub.status.idle": "2026-04-09T22:22:16.083786Z",
+     "shell.execute_reply": "2026-04-09T22:22:16.081430Z"
     },
     "papermill": {
-     "duration": 0.22261,
-     "end_time": "2026-04-09T21:52:58.100166",
+     "duration": 0.316641,
+     "end_time": "2026-04-09T22:22:16.086333",
      "exception": false,
-     "start_time": "2026-04-09T21:52:57.877556",
+     "start_time": "2026-04-09T22:22:15.769692",
      "status": "completed"
     },
     "tags": []
@@ -3819,20 +3819,83 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "cbe7721e",
+   "execution_count": 29,
+   "id": "b7c9d40f",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-04-09T22:22:16.178176Z",
+     "iopub.status.busy": "2026-04-09T22:22:16.176520Z",
+     "iopub.status.idle": "2026-04-09T22:22:16.196382Z",
+     "shell.execute_reply": "2026-04-09T22:22:16.194523Z"
+    },
     "papermill": {
-     "duration": 0.033164,
-     "end_time": "2026-04-09T21:52:58.165874",
+     "duration": 0.068829,
+     "end_time": "2026-04-09T22:22:16.199095",
      "exception": false,
-     "start_time": "2026-04-09T21:52:58.132710",
+     "start_time": "2026-04-09T22:22:16.130266",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "# INTEGRATING STM TOPICS WITH OBLIGATION AND RESPONSIBILITY MEASURES\n",
+    "\n",
+    "# This step links the thematic structure of documents, derived from the\n",
+    "# Structural Topic Model (STM), with document-level measures of obligation\n",
+    "# language and responsibility allocation. The goal is to move beyond treating\n",
+    "# topics as descriptive outputs and instead use them as predictor variables\n",
+    "# that help explain how governance discourse is constructed.\n",
+    "#\n",
+    "# STM produces, for each document, a vector of topic proportions (theta),\n",
+    "# where each value represents the extent to which a given topic is present\n",
+    "# in that document. These topic proportions are merged with:\n",
+    "#   (1) obligation metrics (e.g., counts or proportions of strong, moderate,\n",
+    "#       and weak modal expressions), and\n",
+    "#   (2) responsibility measures (e.g., attribution of responsibility to\n",
+    "#       organizations, users, systems, or processes).\n",
+    "#\n",
+    "# By combining these components into a single dataset, I create a structured\n",
+    "# basis for examining how different thematic patterns relate to how documents:\n",
+    "#   - express expectations through varying levels of obligation language\n",
+    "#   - distribute responsibility across actors\n",
+    "#\n",
+    "# In this setup, topic proportions are treated as continuous explanatory\n",
+    "# variables. This allows us to test whether particular topics are associated\n",
+    "# with:\n",
+    "#   - stronger or softer expressions of commitment\n",
+    "#   - more centralized versus distributed responsibility\n",
+    "#\n",
+    "# This step is critical because it connects two layers of the analysis:\n",
+    "#   - semantic structure (what the documents are about)\n",
+    "#   - governance logic (how responsibility and expectations are articulated)\n",
+    "#\n",
+    "# Instead of interpreting topics in isolation, this approach makes it\n",
+    "# possible to ask how specific ways of framing AI governance are tied to\n",
+    "# concrete patterns in obligation and responsibility. For example, a topic\n",
+    "# centered on safety or risk may co-occur with stronger obligation language,\n",
+    "# while a topic focused on user interaction may shift responsibility outward\n",
+    "# toward end users.\n",
+    "#\n",
+    "# The resulting dataset supports subsequent analyses such as:\n",
+    "#   - correlation analysis between topic prevalence and obligation strength\n",
+    "#   - regression models using topic proportions as predictors\n",
+    "#   - comparative analysis across organizations or document types\n",
+    "#\n",
+    "# Overall, this integration step enables a more interpretive reading of STM\n",
+    "# outputs by situating them within a broader analysis of how corporate\n",
+    "# Responsible AI documents organize responsibility and express expectations.\n",
+    "\n",
+    "# Debugging was done using Claude\n",
+    "\n",
+    "# I hope you enjoy reading this notebook. I welcome thoughtful critique\n",
+    "# and opportunities for collaboration to extend this line of work.\n",
+    "#\n",
+    "# Thank you.\n",
+    "#\n",
+    "# Author: Amaka Peace Onebunne\n",
+    "# PhD Fellow, Media and Communication, Temple University"
+   ]
   }
  ],
  "metadata": {
@@ -3871,14 +3934,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 821.966473,
-   "end_time": "2026-04-09T21:52:58.419144",
+   "duration": 1286.156974,
+   "end_time": "2026-04-09T22:22:16.467527",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-04-09T21:39:16.452671",
+   "start_time": "2026-04-09T22:00:50.310553",
    "version": "2.6.0"
   }
  },
