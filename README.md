@@ -10,7 +10,7 @@ My work sits at the intersection of natural language processing, AI governance, 
 ## Research Focus
 
 - AI governance and accountability  
-- Computational analysis of policy and organizational documents  
+- Computational analysis  
 - Human interaction with automated systems  
 - Global technology systems and uneven data infrastructures  
 
