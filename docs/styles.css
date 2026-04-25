@@ -1,1 +1,77 @@
-/* css styles */
+/* STyle */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fa;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+h1, h2, h3 {
+    color: #0a1f44; /* deep navy */
+}
+
+/* LINKS */
+a {
+    color: #1f4e8c;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3a7bd5;
+    text-decoration: underline;
+}
+
+/* NAV BAR / TOP SECTION */
+header {
+    background: linear-gradient(90deg, #0a1f44, #1f4e8c, #3a7bd5);
+    color: white;
+    padding: 2rem;
+}
+
+/* SECTION BLOCKS */
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* BUTTONS */
+button {
+    background: linear-gradient(90deg, #1f4e8c, #3a7bd5);
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #163b6d, #2f6ecb);
+}
+
+/* FOOTER */
+footer {
+    background: #0a1f44;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* HIGHLIGHT CARDS */
+.card {
+    border-left: 5px solid #3a7bd5;
+    padding: 15px;
+    background: #ffffff;
+}
+
+/* SUBTLE ACCENTS */
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, #0a1f44, #3a7bd5);
+}
