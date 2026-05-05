@@ -12,6 +12,8 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
+      - href: futures_analysis.qmd 
+        text: Futures Analysis
       - href: writing.qmd
         text: Writing
       - href: cv.qmd
