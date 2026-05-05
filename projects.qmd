@@ -4,6 +4,15 @@ title: "Projects"
 
 ## Selected Projects
 
+### Computational Analysis of Technoscientific Futures
+
+This project analyzes future-oriented discourse using computational text methods.
+
+🔗 [View full analysis](futures_analysis.html)
+
+**Methods:** R, Python, text mining, embeddings\
+**Status:** In progress
+
 ### Responsible AI Discourse Analysis
 
 Computational analysis of how major technology firms frame responsibility, safety, and governance in AI policy documents.
