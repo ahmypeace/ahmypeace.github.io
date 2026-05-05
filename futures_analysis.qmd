@@ -1,1 +1,9 @@
+---
+title: "Futures Analysis"
+---
 
+## Computational Analysis of Technoscientific Futures
+
+This project analyzes future-oriented discourse using computational text analysis.
+
+[Open full analysis](futures_analysis.html)
