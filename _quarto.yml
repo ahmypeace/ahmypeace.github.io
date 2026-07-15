@@ -4,28 +4,119 @@ project:
 
 website:
   title: "Amaka Peace Onebunne"
+  site-url: "https://ahmypeace.github.io"
+  description: "Amaka Peace Onebunne is a researcher studying artificial intelligence, communication, trust, governance, and digital society."
+
+  favicon: assets/images/favicon.png
+
   navbar:
+    pinned: true
+
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: writing.qmd
-        text: Writing
-      - href: cv.qmd
-        text: CV
-      - href: contact.qmd
-        text: Contact
+      - text: "APO"
+        href: index.qmd
+        aria-label: "Amaka Peace Onebunne Home"
+
+    right:
+      - text: "Home"
+        href: index.qmd
+
+      - text: "About"
+        href: about.qmd
+
+      - text: "Research"
+        href: research.qmd
+
+      - text: "Publications"
+        href: publications.qmd
+
+      - text: "Writing"
+        href: writing.qmd
+
+      - text: "News"
+        href: news.qmd
+
+      - text: "More"
+        menu:
+          - text: "Open Research"
+            href: open-research.qmd
+
+          - text: "Methods"
+            href: methods.qmd
+
+          - text: "Talks and Presentations"
+            href: talks.qmd
+
+          - text: "Media"
+            href: media.qmd
+
+          - text: "Service and Leadership"
+            href: leadership.qmd
+
+          - text: "Contact"
+            href: contact.qmd
+
+          - text: "Download CV"
+            href: assets/documents/amaka-onebunne-cv.pdf
+            target: _blank
+
+  page-footer:
+    border: true
+
+    left: |
+      © 2026 Amaka Peace Onebunne  
+      Temple University · Philadelphia, PA
+
+    center:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
+
+      - text: "ORCID"
+        href: "https://orcid.org/0009-0000-3029-5987"
+
+    right:
+      - icon: github
+        href: "https://github.com/ahmypeace"
+        aria-label: "GitHub"
+
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/amakapeace/"
+        aria-label: "LinkedIn"
+
+      - icon: twitter-x
+        href: "https://x.com/Ahmypeace"
+        aria-label: "X"
+
+      - icon: youtube
+        href: "https://www.youtube.com/@ahmypeace"
+        aria-label: "YouTube"
+
+      - icon: facebook
+        href: "https://www.facebook.com/amaka.peace.50"
+        aria-label: "Facebook"
+
+      - icon: envelope
+        href: "mailto:amaka.onebunne@temple.edu"
+        aria-label: "Email"
+
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  open-graph: true
+
+  repo-url: "https://github.com/ahmypeace/ahmypeace.github.io"
+  repo-actions:
+    - source
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: none
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    lang: en
 
-editor: visual
-
+execute:
+  freeze: auto
