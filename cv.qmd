@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
--   [Download my CV](files/Amaka_Onebunne_CV.pdf)
