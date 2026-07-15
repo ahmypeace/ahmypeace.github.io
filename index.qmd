@@ -1,20 +1,377 @@
 ---
-title: "Home"
+title: ""
+page-layout: full
+title-block-banner: false
 ---
 
-## Amaka Peace Onebunne
+::: {.hero}
+::: {.site-container}
+::: {.hero-grid}
 
-Tech and Media Researcher focused on human–machine communication, AI, and digital governance.
+::: {.hero-content}
 
-### What I work on
+<div class="hero-status">
+Ph.D. Researcher · Temple University
+</div>
 
--   Responsible AI and policy discourse
--   Privacy, surveillance, and platform power
--   Computational text analysis (R and Python)
+<h1 class="hero-name">
+<span>Amaka Peace</span>
+<span class="accent">Onebunne</span>
+</h1>
 
-### Quick links
+<p class="hero-role">
+Researcher in AI, Communication, and Society
+</p>
 
--   [Projects](projects.qmd)
--   [Writing](writing.qmd)
--   [CV](cv.qmd)
--   [Contact](contact.qmd)
+<p class="hero-affiliation">
+Temple University · Philadelphia, Pennsylvania
+</p>
+
+<p class="hero-summary">
+I study the relationships among artificial intelligence, communication,
+institutions, and public life. Combining computational and qualitative methods,
+I examine questions of trust, governance, information integrity, and
+technological power, with particular attention to Africa and the Global South.
+</p>
+
+<div class="hero-actions">
+
+<a class="hero-button button-primary" href="#research">
+View Research
+</a>
+
+<a class="hero-button button-secondary"
+   href="assets/documents/amaka-onebunne-cv.pdf"
+   target="_blank">
+Download CV
+</a>
+
+</div>
+
+<div class="hero-links">
+
+<a href="mailto:amaka.onebunne@temple.edu">
+Email
+</a>
+
+<a href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
+   target="_blank">
+Google Scholar
+</a>
+
+<a href="https://orcid.org/0009-0000-3029-5987"
+   target="_blank">
+ORCID
+</a>
+
+<a href="https://github.com/ahmypeace"
+   target="_blank">
+GitHub
+</a>
+
+<a href="https://www.linkedin.com/in/amakapeace/"
+   target="_blank">
+LinkedIn
+</a>
+
+</div>
+
+:::
+
+::: {.hero-image}
+![](assets/images/amaka-headshot.jpg){alt="Portrait of Amaka Peace Onebunne"}
+:::
+
+:::
+:::
+:::
+
+
+::: {#research .site-section}
+::: {.site-container}
+
+::: {.research-intro}
+
+<div>
+<p class="section-label">Research Focus</p>
+</div>
+
+<div>
+
+<h2 class="section-title">Areas of Inquiry</h2>
+
+<p class="section-description">
+My work sits at the intersection of Human–Machine Communication,
+AI governance, computational social science, and critical technology studies.
+</p>
+
+</div>
+
+:::
+
+
+::: {.research-grid}
+
+::: {.research-card}
+<span class="research-number">01</span>
+
+### Responsible AI and Corporate Accountability
+
+Examining how AI companies define safety, responsibility, evaluation,
+and institutional accountability in official governance documents.
+
+<a class="research-card-link"
+   href="projects/responsible-ai-framing.html">
+Explore project
+</a>
+:::
+
+
+::: {.research-card}
+<span class="research-number">02</span>
+
+### AI Expansion and the Global South
+
+Studying how Africa and Latin America are constructed as emerging markets,
+testing grounds, and strategic frontiers for artificial intelligence.
+
+<a class="research-card-link"
+   href="projects/speculative-markets.html">
+Explore project
+</a>
+:::
+
+
+::: {.research-card}
+<span class="research-number">03</span>
+
+### Synthetic Media and Information Integrity
+
+Investigating how African news organizations frame deepfakes, political risk,
+criminality, governance, and emerging forms of synthetic media.
+
+<a class="research-card-link"
+   href="projects/deepfake-framing.html">
+Explore project
+</a>
+:::
+
+
+::: {.research-card}
+<span class="research-number">04</span>
+
+### Digital Culture and Human–Machine Communication
+
+Exploring how people interpret intelligent technologies and how digital media
+create new forms of intimacy, identity, knowledge, and social interaction.
+
+<a class="research-card-link"
+   href="research.html">
+View research
+</a>
+:::
+
+:::
+:::
+:::
+
+
+::: {.site-section}
+::: {.site-container}
+
+::: {.section-header}
+
+<div>
+<p class="section-label">Selected Work</p>
+</div>
+
+<div>
+
+<h2 class="section-title">
+Research across AI, media, institutions, and society
+</h2>
+
+</div>
+
+:::
+
+
+::: {.work-list}
+
+::: {.work-item}
+
+<div class="work-year">2026</div>
+
+<div>
+
+<h3 class="work-title">
+Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market
+</h3>
+
+<p class="work-description">
+An analysis of how corporate, policy, and investment narratives construct
+the Global South as an emerging market and strategic frontier for artificial
+intelligence.
+</p>
+
+</div>
+
+<div class="work-meta">
+4S Annual Meeting
+</div>
+
+:::
+
+
+::: {.work-item}
+
+<div class="work-year">2025</div>
+
+<div>
+
+<h3 class="work-title">
+Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms
+</h3>
+
+<p class="work-description">
+A qualitative study of how Nigerian journalists understand, adopt,
+and negotiate artificial intelligence within newsroom practice.
+</p>
+
+</div>
+
+<div class="work-meta">
+Digital Journalism
+</div>
+
+:::
+
+
+::: {.work-item}
+
+<div class="work-year">2026</div>
+
+<div>
+
+<h3 class="work-title">
+Algorithmic Gaze and the Feedback Loop of Othering
+</h3>
+
+<p class="work-description">
+A study of how algorithmic visibility and recommendation systems reproduce
+stereotypical representations and reinforce recurring patterns of othering.
+</p>
+
+</div>
+
+<div class="work-meta">
+Research Article
+</div>
+
+:::
+
+:::
+
+<div class="hero-actions">
+<a class="hero-button button-secondary"
+   href="publications.html">
+View All Publications
+</a>
+</div>
+
+:::
+:::
+
+
+::: {.site-section}
+::: {.site-container}
+
+::: {.section-header}
+
+<div>
+<p class="section-label">Latest</p>
+</div>
+
+<div>
+
+<h2 class="section-title">
+News, writing, and public scholarship
+</h2>
+
+<p class="section-description">
+Updates from my research, conference activities, publications, and writing
+on artificial intelligence, communication, and digital society.
+</p>
+
+</div>
+
+:::
+
+
+::: {.research-grid}
+
+::: {.research-card}
+<span class="research-number">News</span>
+
+### Recent Updates
+
+Paper acceptances, conference presentations, awards, fellowships,
+research milestones, and other professional updates.
+
+<a class="research-card-link" href="news.html">
+View news
+</a>
+:::
+
+
+::: {.research-card}
+<span class="research-number">Writing</span>
+
+### Essays and Commentary
+
+Research explainers, Medium articles, conference reflections,
+and public-facing writing on AI and society.
+
+<a class="research-card-link" href="writing.html">
+Read my writing
+</a>
+:::
+
+:::
+:::
+:::
+
+
+::: {.site-section .contact-section}
+::: {.site-container}
+
+::: {.contact-grid}
+
+<div>
+
+<p class="section-label">Get in Touch</p>
+
+<h2 class="section-title">
+Research collaborations, speaking, and scholarly opportunities
+</h2>
+
+<a class="contact-email"
+   href="mailto:amaka.onebunne@temple.edu">
+amaka.onebunne@temple.edu
+</a>
+
+</div>
+
+<div>
+
+<p>
+I welcome conversations about collaborative research, computational
+communication, responsible AI, Human–Machine Communication, and emerging
+technologies.
+</p>
+
+</div>
+
+:::
+:::
+:::
