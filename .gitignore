@@ -1,7 +1,19 @@
-.Rproj.user
+# RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 
+# Quarto
 /.quarto/
+/_site/
+
+# Jupyter
 **/*.quarto_ipynb
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
