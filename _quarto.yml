@@ -39,7 +39,7 @@ website:
       - text: "More"
         menu:
           - text: "Open Research"
-            href: open-research.qmd
+            href: open-science.qmd
 
           - text: "Methods"
             href: methods.qmd
@@ -110,7 +110,7 @@ website:
 
 format:
   html:
-    theme: none
+    theme: cosmo
     css: styles.css
     toc: false
     page-layout: full
