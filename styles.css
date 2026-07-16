@@ -1706,13 +1706,32 @@ button:focus-visible,
   color: #ffffff;
 }
 
-.about-eyebrow {
-  margin: 0 0 1.2rem;
-  color: #e3a9b3;
+.about-scripture {
+  max-width: 760px;
+  margin-bottom: 3rem;
+
+  color: rgba(255,255,255,.82);
+
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.8;
+
+  border-left: 3px solid var(--temple-crimson);
+  padding-left: 1.6rem;
+}
+
+.about-scripture strong {
+  display: block;
+  margin-top: 1rem;
+
+  color: #fff;
+
   font-family: var(--sans);
-  font-size: 0.8rem;
-  font-weight: 800;
-  letter-spacing: 0.18em;
+  font-size: .82rem;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .14em;
   text-transform: uppercase;
 }
 

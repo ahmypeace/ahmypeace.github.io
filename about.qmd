@@ -8,16 +8,10 @@ title-block-banner: false
 ::: {.about-hero}
 ::: {.site-container}
 
-<p class="about-eyebrow">About Me</p>
-
-# Studying the social life of artificial intelligence
-
-<p class="about-lead">
-I am a researcher working at the intersection of artificial intelligence,
-communication, media, and society. My work examines how emerging technologies
-reshape trust, institutions, information systems, and public life, particularly
-across Africa and the Global South.
-</p>
+<blockquote class="about-quote">
+“My grace is sufficient for you, for My power is made perfect in weakness.”
+<footer>2 Corinthians 12:9</footer>
+</blockquote>
 
 :::
 :::
@@ -25,14 +19,14 @@ across Africa and the Global South.
 
 ::: {.about-section}
 ::: {.site-container}
+
 ::: {.about-layout}
 
 ::: {.about-main}
 
-## My Story
+## Hi! This is Me...
 
-I am a Ph.D. researcher in the
-[Media and Communication doctoral program at Temple University](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd),
+I am a Ph.D. student in the [Lew Klein College of Media and Communication’s](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd),
 where I study the relationships among artificial intelligence, communication,
 institutions, and public life.
 
@@ -230,11 +224,13 @@ the people who build it, the organizations that govern it, the stories through
 which it is made meaningful, and the communities whose futures are increasingly
 shaped by it.
 
-::: {.about-card}
+:::
+
+
+::: {.about-sidebar}
 
 ::: {.about-card}
 
-::: {.about-card}
 
 ### Academic Trajectory
 
@@ -243,10 +239,9 @@ shaped by it.
 <span class="trajectory-year">2025–Present</span>
 
 **Ph.D. in Media and Communication**  
-[Temple University](https://klein.temple.edu/academics/media-communication-doctoral-program)
+[Temple University](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd)
 
-Presidential Fellow  
-Advisor: [Andrew Iliadis](https://andrewiliadis.com/)
+Presidential Fellow
 
 </div>
 
@@ -255,28 +250,78 @@ Advisor: [Andrew Iliadis](https://andrewiliadis.com/)
 <span class="trajectory-year">2022–2024</span>
 
 **M.A. in Communication Studies**  
-[Northern Illinois University](https://www.niu.edu/comm/)
+Northern Illinois University
 
-Human–Machine Communication  
-Advisor: [Andrea L. Guzman](https://www.niu.edu/comm/contact-us/directory/guzman-andrea.shtml)
+Concentration in Human–Machine Communication
 
 </div>
 
 <div class="trajectory-item">
 
-<span class="trajectory-year">Completed 2016</span>
+<span class="trajectory-year">2010–2016</span>
 
 **Higher National Diploma in Mass Communication**  
-[Federal Polytechnic Oko](https://federalpolyoko.edu.ng/)
+Federal Polytechnic Oko, Anambra State, Nigeria
 
-Training in journalism, broadcasting, media production, public communication,
-and communication research.
+Foundation in journalism, media studies, broadcasting, public relations, and communication research.
 
 </div>
 
 :::
 
-### Professional Experience
+::: {.about-card}
+
+### Scholarly Mentors
+
+<div class="trajectory-item">
+
+**[Andrew Iliadis](https://andrewiliadis.com/)**
+
+Ph.D. Advisor  
+Temple University
+
+Artificial intelligence, semantic infrastructures, data science, digital media, and critical infrastructure studies.
+
+</div>
+
+<div class="trajectory-item">
+
+**[Andrea L. Guzman](https://www.niu.edu/comm/contact-us/directory/guzman-andrea.shtml)**
+
+Master's Advisor  
+Northern Illinois University
+
+Human–Machine Communication, artificial intelligence, and communication theory.
+
+</div>
+
+<div class="trajectory-item">
+
+**[David J. Gunkel](https://gunkelweb.com/)**
+
+Master's Thesis Committee  
+Northern Illinois University
+
+AI ethics, philosophy of technology, robotics, and Human–Machine Communication.
+
+</div>
+
+<div class="trajectory-item">
+
+**[Bill Cassidy](https://olemiss.edu/profiles/bcassidy)**
+
+Master's Thesis Committee  
+University of Mississippi (formerly Northern Illinois University)
+
+Journalism, media sociology, influences on media content, and content analysis.
+
+</div>
+
+:::
+
+::: {.about-card}
+
+### Research Appointments
 
 <div class="experience-item">
 
@@ -285,42 +330,77 @@ and communication research.
 **Duckworth Scholars Studio Extern**  
 Temple University
 
-Collaborative research and computational media work through the Loretta C.
-Duckworth Scholars Studio.
+Conducting interdisciplinary computational media research through the Loretta C. Duckworth Scholars Studio while collaborating on digital scholarship and computational communication projects.
 
 </div>
 
 <div class="experience-item">
 
-<span class="experience-period">Before Doctoral Study</span>
+<span class="experience-period">2025–Present</span>
 
-**Senior Specialist**  
-KeHE Distributors
+**Ph.D. Researcher**  
+Temple University
 
-Corporate communication, organizational coordination, data-informed work, and
-cross-functional professional experience.
+Conducting research in artificial intelligence, Human–Machine Communication, computational social science, and digital media.
+
+</div>
+
+:::
+
+::: {.about-card}
+
+### Professional Experience
+
+<div class="experience-item">
+
+<span class="experience-period">2024–2025</span>
+
+**Senior Communications Specialist**  
+KeHE Distributors, Inc.
+
+Led strategic communications and cross-functional organizational initiatives before beginning full-time doctoral study.
+
+</div>
+<div class="experience-item">
+
+<span class="experience-period">2022–2024</span>
+
+**Administrative Assistant, Illinois Tutoring Initiative**  
+Northern Illinois University
+
+Supported the administration of NIU’s Illinois Tutoring Initiative regional hub, which coordinated high-impact tutoring partnerships with school districts across northern Illinois. 
+</div>
+
+<div class="experience-item">
+
+<span class="experience-period">May–July 2023</span>
+
+**Communications Intern**  
+US Xpress
+
+Supported corporate communications, internal communication initiatives, and organizational projects while completing my master's degree.
 
 </div>
 
 <div class="experience-item">
 
-<span class="experience-period">Earlier Experience</span>
+<span class="experience-period">2020–2022</span>
+
+**Communications & Public Relations Specialist**  
+Finotel Classique Hotel & Reservations
+
+Led communication strategy, public relations, marketing, and brand development initiatives.
+
+</div>
+
+<div class="experience-item">
+
+<span class="experience-period">2018–2020</span>
 
 **Field Journalist**  
 Anambra State Ministry of Transportation
 
-Reporting, public-sector communication, and institutional storytelling.
-
-</div>
-
-<div class="experience-item">
-
-<span class="experience-period">Education Service</span>
-
-**Tutor**  
-Illinois Tutoring Initiative
-
-Supported K–12 learning through a statewide educational program.
+Covered transportation, infrastructure, and public policy while producing news stories and public communication materials.
 
 </div>
 
@@ -381,88 +461,6 @@ reviewing, mentorship, and public scholarship on AI, media, and society.
 ::: {.about-sidebar}
 
 ::: {.about-card}
-
-### Academic Trajectory
-
-<div class="trajectory-item">
-
-<span class="trajectory-year">2025–Present</span>
-
-**Ph.D. in Media and Communication**  
-[Temple University](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd)
-
-Presidential Fellow  
-Advisor: [Andrew Iliadis](https://andrewiliadis.com/)
-
-</div>
-
-<div class="trajectory-item">
-
-<span class="trajectory-year">Completed 2024</span>
-
-**M.A. in Communication Studies**  
-Northern Illinois University
-
-Concentration in Human–Machine Communication  
-Advisor: [Andrea L. Guzman](https://www.niu.edu/comm/contact-us/directory/guzman-andrea.shtml)
-
-</div>
-
-<div class="trajectory-item">
-
-<span class="trajectory-year">Undergraduate</span>
-
-**Degree in Mass Communication**  
-Nigeria
-
-Foundation in journalism, media, public communication, and communication research.
-
-</div>
-
-:::
-
-
-::: {.about-card}
-
-### Professional Experience
-
-<div class="experience-item">
-
-<span class="experience-period">2024–2025</span>
-
-**Senior Specialist**  
-KeHE Distributors
-
-Worked within a large organizational environment before leaving industry to
-begin full-time doctoral study.
-
-</div>
-
-<div class="experience-item">
-
-<span class="experience-period">2026–Present</span>
-
-**Duckworth Scholars Studio Extern**  
-Temple University
-
-Contributing to collaborative research and computational media projects through
-the Loretta C. Duckworth Scholars Studio.
-
-</div>
-
-<div class="experience-item">
-
-<span class="experience-period">Current</span>
-
-**Researcher and Computational Analyst**
-
-Designing qualitative and computational studies of AI governance, media,
-digital platforms, information integrity, and emerging technologies.
-
-</div>
-
-:::
-
 
 ::: {.about-card}
 
