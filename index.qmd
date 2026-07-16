@@ -1,6 +1,7 @@
 ---
 title: ""
 page-layout: full
+toc: false
 title-block-banner: false
 ---
 
@@ -11,7 +12,8 @@ title-block-banner: false
 ::: {.hero-content}
 
 <div class="hero-status">
-Ph.D. Researcher · Temple University
+<span class="hero-status-icon" aria-hidden="true"><i class="bi bi-award-fill" aria-hidden="true"></i></span>
+<span>Ph.D. Researcher — <strong>Temple University</strong></span>
 </div>
 
 <h1 class="hero-name">
@@ -48,30 +50,35 @@ Download CV
 
 </div>
 
-<div class="hero-links">
+<div class="hero-links hero-links-inline">
 
-<a href="mailto:amaka.onebunne@temple.edu">
-Email
+<a class="hero-link" href="mailto:amaka.onebunne@temple.edu">
+  <i class="bi bi-envelope" aria-hidden="true"></i>
+  Email
 </a>
 
-<a href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
+<a class="hero-link" href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
    target="_blank">
-Google Scholar
+  <i class="bi bi-google" aria-hidden="true"></i>
+  Scholar
 </a>
 
-<a href="https://orcid.org/0009-0000-3029-5987"
+<a class="hero-link" href="https://orcid.org/0009-0000-3029-5987"
    target="_blank">
-ORCID
+  <i class="bi bi-journal" aria-hidden="true"></i>
+  ORCID
 </a>
 
-<a href="https://github.com/ahmypeace"
+<a class="hero-link" href="https://github.com/ahmypeace"
    target="_blank">
-GitHub
+  <i class="bi bi-github" aria-hidden="true"></i>
+  GitHub
 </a>
 
-<a href="https://www.linkedin.com/in/amakapeace/"
+<a class="hero-link" href="https://www.linkedin.com/in/amakapeace/"
    target="_blank">
-LinkedIn
+  <i class="bi bi-linkedin" aria-hidden="true"></i>
+  LinkedIn
 </a>
 
 </div>
@@ -86,8 +93,44 @@ LinkedIn
 :::
 :::
 
+::: {.topic-carousel aria-label="Research areas carousel"}
+::: {.topic-carousel-inner}
+- Human–Machine Communication
+- Responsible AI
+- AI Governance
+- AI Trust & Safety
+- Computational Communication Research
+- Computational Social Science
+- Digital Media
+- Information Integrity
+- Generative AI
+- Media & Technology
+- Platform Governance
+- Algorithmic Accountability
+- AI and Journalism
+- Digital Society
+- Global South
+- Emerging Technologies
+- Human–Machine Communication
+- Responsible AI
+- AI Governance
+- AI Trust & Safety
+- Computational Communication Research
+- Computational Social Science
+- Digital Media
+- Information Integrity
+- Generative AI
+- Media & Technology
+- Platform Governance
+- Algorithmic Accountability
+- AI and Journalism
+- Digital Society
+- Global South
+- Emerging Technologies
+:::
+:::
 
-::: {#research .site-section}
+::: {#research .site-section .section-soft .reveal-section}
 ::: {.site-container}
 
 ::: {.research-intro}
@@ -113,7 +156,11 @@ AI governance, computational social science, and critical technology studies.
 ::: {.research-grid}
 
 ::: {.research-card}
+
+<div class="research-card-top">
+<div class="research-card-icon bi bi-shield-check" aria-hidden="true"></div>
 <span class="research-number">01</span>
+</div>
 
 ### Responsible AI and Corporate Accountability
 
@@ -122,13 +169,19 @@ and institutional accountability in official governance documents.
 
 <a class="research-card-link"
    href="projects/responsible-ai-framing.html">
-Explore project
+  Explore project
+  <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
+
 :::
 
 
 ::: {.research-card}
+
+<div class="research-card-top">
+<div class="research-card-icon bi bi-globe-americas" aria-hidden="true"></div>
 <span class="research-number">02</span>
+</div>
 
 ### AI Expansion and the Global South
 
@@ -137,13 +190,19 @@ testing grounds, and strategic frontiers for artificial intelligence.
 
 <a class="research-card-link"
    href="projects/speculative-markets.html">
-Explore project
+  Explore project
+  <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
+
 :::
 
 
 ::: {.research-card}
+
+<div class="research-card-top">
+<div class="research-card-icon bi bi-file-earmark-play" aria-hidden="true"></div>
 <span class="research-number">03</span>
+</div>
 
 ### Synthetic Media and Information Integrity
 
@@ -152,13 +211,19 @@ criminality, governance, and emerging forms of synthetic media.
 
 <a class="research-card-link"
    href="projects/deepfake-framing.html">
-Explore project
+  Explore project
+  <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
+
 :::
 
 
 ::: {.research-card}
+
+<div class="research-card-top">
+<div class="research-card-icon bi bi-people" aria-hidden="true"></div>
 <span class="research-number">04</span>
+</div>
 
 ### Digital Culture and Human–Machine Communication
 
@@ -166,17 +231,29 @@ Exploring how people interpret intelligent technologies and how digital media
 create new forms of intimacy, identity, knowledge, and social interaction.
 
 <a class="research-card-link"
-   href="research.html">
-View research
+   href="research.qmd">
+  View research
+  <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
+
 :::
 
 :::
+
+
+<div class="research-footer">
+  <a class="view-all-projects" href="research.qmd">
+    View All Projects
+    <i class="bi bi-arrow-right" aria-hidden="true"></i>
+  </a>
+</div>
+
+
 :::
 :::
 
 
-::: {.site-section}
+::: {.site-section .section-dark .reveal-section}
 ::: {.site-container}
 
 ::: {.section-header}
@@ -225,6 +302,29 @@ intelligence.
 
 ::: {.work-item}
 
+<div class="work-year">2026</div>
+
+<div>
+
+<h3 class="work-title">
+Algorithmic Gaze and the Feedback Loop of Othering
+</h3>
+
+<p class="work-description">
+A study of how algorithmic visibility and recommendation systems reproduce stereotypical representations and reinforce recurring patterns of othering.
+</p>
+
+</div>
+
+<div class="work-meta">
+Research Article
+</div>
+
+:::
+
+
+::: {.work-item}
+
 <div class="work-year">2025</div>
 
 <div>
@@ -246,30 +346,6 @@ Digital Journalism
 
 :::
 
-
-::: {.work-item}
-
-<div class="work-year">2026</div>
-
-<div>
-
-<h3 class="work-title">
-Algorithmic Gaze and the Feedback Loop of Othering
-</h3>
-
-<p class="work-description">
-A study of how algorithmic visibility and recommendation systems reproduce
-stereotypical representations and reinforce recurring patterns of othering.
-</p>
-
-</div>
-
-<div class="work-meta">
-Research Article
-</div>
-
-:::
-
 :::
 
 <div class="hero-actions">
@@ -283,7 +359,7 @@ View All Publications
 :::
 
 
-::: {.site-section}
+::: {.site-section .section-light .reveal-section}
 ::: {.site-container}
 
 ::: {.section-header}
@@ -299,8 +375,7 @@ News, writing, and public scholarship
 </h2>
 
 <p class="section-description">
-Updates from my research, conference activities, publications, and writing
-on artificial intelligence, communication, and digital society.
+Updates from my research, conference activities, publications, and writing on artificial intelligence, communication, and digital society.
 </p>
 
 </div>
@@ -341,37 +416,61 @@ Read my writing
 :::
 :::
 
-
-::: {.site-section .contact-section}
+::: {.site-section .contact-section .reveal-section}
 ::: {.site-container}
 
-::: {.contact-grid}
+<div class="contact-inner">
 
-<div>
+<p class="contact-kicker">Get in Touch</p>
 
-<p class="section-label">Get in Touch</p>
-
-<h2 class="section-title">
-Research collaborations, speaking, and scholarly opportunities
+<h2 class="contact-title">
+Let’s connect
 </h2>
 
-<a class="contact-email"
+<p class="contact-description">
+Open to research collaborations, invited talks, and interdisciplinary projects.
+</p>
+
+<div class="contact-buttons">
+
+<a class="contact-button contact-button-primary"
    href="mailto:amaka.onebunne@temple.edu">
-amaka.onebunne@temple.edu
+Email Me
+</a>
+
+<a class="contact-button"
+   href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
+   target="_blank">
+Google Scholar
+</a>
+
+<a class="contact-button"
+   href="https://orcid.org/0009-0000-3029-5987"
+   target="_blank">
+ORCID
+</a>
+
+<a class="contact-button"
+   href="https://github.com/ahmypeace"
+   target="_blank">
+GitHub
+</a>
+
+<a class="contact-button"
+   href="https://www.linkedin.com/in/amakapeace/"
+   target="_blank">
+LinkedIn
+</a>
+
+<a class="contact-button"
+   href="assets/documents/amaka-onebunne-cv.pdf"
+   target="_blank">
+Download CV
 </a>
 
 </div>
 
-<div>
-
-<p>
-I welcome conversations about collaborative research, computational
-communication, responsible AI, Human–Machine Communication, and emerging
-technologies.
-</p>
-
 </div>
 
-:::
 :::
 :::
