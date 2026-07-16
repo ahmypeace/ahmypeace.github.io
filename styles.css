@@ -339,14 +339,20 @@ main.content {
 
 .hero-image {
   position: relative;
+  max-width: 470px;
+  margin-left: auto;
+  padding: 0 1rem 1rem 0;
 }
 
 .hero-image::before {
   position: absolute;
-  inset: 1rem -1rem -1rem 1rem;
+  top: 1.15rem;
+  right: 0;
+  bottom: 0;
+  left: 1.15rem;
   z-index: 0;
   background: var(--temple-crimson-soft);
-  border: 1px solid var(--border);
+  border-radius: 18px;
   content: "";
 }
 
@@ -358,7 +364,8 @@ main.content {
   aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center top;
-  filter: saturate(0.9);
+  border-radius: 18px;
+  box-shadow: 0 20px 50px rgba(35, 31, 32, 0.12);
 }
 
 
