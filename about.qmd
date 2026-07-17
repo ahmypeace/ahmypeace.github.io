@@ -8,9 +8,9 @@ title-block-banner: false
 ::: {.about-hero}
 ::: {.site-container}
 
-<blockquote class="about-quote">
-“My grace is sufficient for you, for My power is made perfect in weakness.”
-<footer>2 Corinthians 12:9</footer>
+<blockquote class="about-scripture">
+“My grace is sufficient for you, for My strength is made perfect in weakness.”
+<footer><em>2 Corinthians 12:9</em></footer>
 </blockquote>
 
 :::
@@ -24,7 +24,7 @@ title-block-banner: false
 
 ::: {.about-main}
 
-## Hi! This is Me...
+## Hi! This is me...
 
 I am a Ph.D. student in the [Lew Klein College of Media and Communication’s](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd),
 where I study the relationships among artificial intelligence, communication,
@@ -58,8 +58,8 @@ Higher National Diploma in Mass Communication. My training introduced me to
 journalism, broadcasting, public communication, media production, and the processes through which societies interpret change, and the professional
 routines that determine what becomes visible.
 
-During my master's degree in Communication Studies at Northern Illinois
-University, I became increasingly interested in the arrival of artificial
+During my master's degree in Communication Studies at 
+[Northern Illinois University](https://www.niu.edu/comm/), I became increasingly interested in the arrival of artificial
 intelligence in newsrooms. I wanted to understand AI not only as a collection
 of tools, but also as a communicative presence that journalists were learning
 to interpret, trust, question, and incorporate into their work.
@@ -239,7 +239,7 @@ shaped by it.
 <span class="trajectory-year">2025–Present</span>
 
 **Ph.D. in Media and Communication**  
-[Temple University](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd)
+<em>[Temple University](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd)</em>
 
 Presidential Fellow
 
@@ -250,7 +250,7 @@ Presidential Fellow
 <span class="trajectory-year">2022–2024</span>
 
 **M.A. in Communication Studies**  
-Northern Illinois University
+<em>Northern Illinois University</em>
 
 Concentration in Human–Machine Communication
 
@@ -261,7 +261,7 @@ Concentration in Human–Machine Communication
 <span class="trajectory-year">2010–2016</span>
 
 **Higher National Diploma in Mass Communication**  
-Federal Polytechnic Oko, Anambra State, Nigeria
+<em>Federal Polytechnic Oko, Anambra State, Nigeria</em>
 
 Foundation in journalism, media studies, broadcasting, public relations, and communication research.
 
@@ -278,7 +278,7 @@ Foundation in journalism, media studies, broadcasting, public relations, and com
 **[Andrew Iliadis](https://andrewiliadis.com/)**
 
 Ph.D. Advisor  
-Temple University
+<em>Temple University</em>
 
 Artificial intelligence, semantic infrastructures, data science, digital media, and critical infrastructure studies.
 
@@ -289,7 +289,7 @@ Artificial intelligence, semantic infrastructures, data science, digital media, 
 **[Andrea L. Guzman](https://www.niu.edu/comm/contact-us/directory/guzman-andrea.shtml)**
 
 Master's Advisor  
-Northern Illinois University
+<em>Northern Illinois University</em>
 
 Human–Machine Communication, artificial intelligence, and communication theory.
 
@@ -300,7 +300,7 @@ Human–Machine Communication, artificial intelligence, and communication theory
 **[David J. Gunkel](https://gunkelweb.com/)**
 
 Master's Thesis Committee  
-Northern Illinois University
+<em>Northern Illinois University</em>
 
 AI ethics, philosophy of technology, robotics, and Human–Machine Communication.
 
@@ -311,7 +311,7 @@ AI ethics, philosophy of technology, robotics, and Human–Machine Communication
 **[Bill Cassidy](https://olemiss.edu/profiles/bcassidy)**
 
 Master's Thesis Committee  
-University of Mississippi (formerly Northern Illinois University)
+<em>University of Mississippi (formerly Northern Illinois University)</em>
 
 Journalism, media sociology, influences on media content, and content analysis.
 
@@ -328,7 +328,7 @@ Journalism, media sociology, influences on media content, and content analysis.
 <span class="experience-period">2026–Present</span>
 
 **Duckworth Scholars Studio Extern**  
-Temple University
+<em>Temple University</em>
 
 Conducting interdisciplinary computational media research through the Loretta C. Duckworth Scholars Studio while collaborating on digital scholarship and computational communication projects.
 
@@ -339,7 +339,7 @@ Conducting interdisciplinary computational media research through the Loretta C.
 <span class="experience-period">2025–Present</span>
 
 **Ph.D. Researcher**  
-Temple University
+<em>Temple University</em>
 
 Conducting research in artificial intelligence, Human–Machine Communication, computational social science, and digital media.
 
@@ -356,7 +356,7 @@ Conducting research in artificial intelligence, Human–Machine Communication, c
 <span class="experience-period">2024–2025</span>
 
 **Senior Communications Specialist**  
-KeHE Distributors, Inc.
+<em>KeHE Distributors, Inc.</em>
 
 Led strategic communications and cross-functional organizational initiatives before beginning full-time doctoral study.
 
@@ -365,8 +365,8 @@ Led strategic communications and cross-functional organizational initiatives bef
 
 <span class="experience-period">2022–2024</span>
 
-**Administrative Assistant, Illinois Tutoring Initiative**  
-Northern Illinois University
+**Graduate Assistant, Illinois Tutoring Initiative**  
+<em>Northern Illinois University</em>
 
 Supported the administration of NIU’s Illinois Tutoring Initiative regional hub, which coordinated high-impact tutoring partnerships with school districts across northern Illinois. 
 </div>
@@ -376,7 +376,7 @@ Supported the administration of NIU’s Illinois Tutoring Initiative regional hu
 <span class="experience-period">May–July 2023</span>
 
 **Communications Intern**  
-US Xpress
+<em>US Xpress</em>
 
 Supported corporate communications, internal communication initiatives, and organizational projects while completing my master's degree.
 
@@ -387,7 +387,7 @@ Supported corporate communications, internal communication initiatives, and orga
 <span class="experience-period">2020–2022</span>
 
 **Communications & Public Relations Specialist**  
-Finotel Classique Hotel & Reservations
+<em>Finotel Classique Hotel & Reservations</em>
 
 Led communication strategy, public relations, marketing, and brand development initiatives.
 
@@ -398,7 +398,7 @@ Led communication strategy, public relations, marketing, and brand development i
 <span class="experience-period">2018–2020</span>
 
 **Field Journalist**  
-Anambra State Ministry of Transportation
+<em>Anambra State Ministry of Transportation</em>
 
 Covered transportation, infrastructure, and public policy while producing news stories and public communication materials.
 
@@ -444,56 +444,46 @@ to children and families.
 
 </div>
 
-<div class="experience-item">
-
-**Graduate Researcher and Speaker**
-
-Research presentations, invited forums, conference participation, academic
-reviewing, mentorship, and public scholarship on AI, media, and society.
-
-</div>
-
 :::
-
 :::
-
 
 ::: {.about-sidebar}
 
 ::: {.about-card}
 
-::: {.about-card}
-
 ### Research Areas
 
-- Human–Machine Communication
-- Responsible AI
-- AI risk, trust, and safety
-- Computational social science
-- AI governance
-- Information integrity
-- Digital journalism
-- Platform governance
-- Global South technology studies
-- Computational media analysis
+<div class="about-pill-grid">
+<span class="about-pill">Human–Machine Communication</span>
+<span class="about-pill">Responsible AI</span>
+<span class="about-pill">AI Risk, Trust & Safety</span>
+<span class="about-pill">Computational Social Science</span>
+<span class="about-pill">AI Governance</span>
+<span class="about-pill">Information Integrity</span>
+<span class="about-pill">Digital Journalism</span>
+<span class="about-pill">Platform Governance</span>
+<span class="about-pill">Global South Technology Studies</span>
+<span class="about-pill">Computational Media Analysis</span>
+</div>
 
 :::
-
 
 ::: {.about-card}
 
 ### Methods
 
-- Natural language processing
-- Computational text analysis
-- Statistical analysis
-- Network analysis
-- In-depth interviewing
-- Thematic analysis
-- Critical discourse analysis
-- Media framing analysis
-- Comparative research
-- Mixed-methods design
+<div class="about-pill-grid">
+<span class="about-pill">Natural Language Processing</span>
+<span class="about-pill">Computational Text Analysis</span>
+<span class="about-pill">Statistical Analysis</span>
+<span class="about-pill">Network Analysis</span>
+<span class="about-pill">In-depth Interviewing</span>
+<span class="about-pill">Thematic Analysis</span>
+<span class="about-pill">Critical Discourse Analysis</span>
+<span class="about-pill">Media Framing Analysis</span>
+<span class="about-pill">Comparative Research</span>
+<span class="about-pill">Mixed-methods Design</span>
+</div>
 
 :::
 
@@ -502,16 +492,27 @@ reviewing, mentorship, and public scholarship on AI, media, and society.
 
 ### Connect
 
-[Email Me](mailto:amaka.onebunne@temple.edu){.about-card-button}
+<div class="about-connect-buttons">
 
-[View My Research](research.qmd){.about-card-button}
+<a class="about-connect-button"
+   href="mailto:amaka.onebunne@temple.edu">
+  <i class="bi bi-envelope" aria-hidden="true"></i>
+  <span>Email Me</span>
+</a>
 
-[Download CV](assets/documents/amaka-onebunne-cv.pdf){.about-card-button target="_blank"}
+<a class="about-connect-button"
+   href="research.qmd">
+  <i class="bi bi-folder2-open" aria-hidden="true"></i>
+  <span>View My Research</span>
+</a>
 
-:::
+<a class="about-connect-button"
+   href="assets/documents/amaka-onebunne-cv.pdf"
+   target="_blank">
+  <i class="bi bi-download" aria-hidden="true"></i>
+  <span>Download CV</span>
+</a>
 
-:::
+</div>
 
-:::
-:::
 :::

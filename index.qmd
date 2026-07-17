@@ -136,7 +136,7 @@ Download CV
 ::: {.research-intro}
 
 <div>
-<p class="section-label">Research Focus</p>
+<p class="section-label">Research</p>
 </div>
 
 <div>
@@ -144,7 +144,7 @@ Download CV
 <h2 class="section-title">Areas of Inquiry</h2>
 
 <p class="section-description">
-My work sits at the intersection of Human–Machine Communication,
+My work sits at the intersection of Human–Machine Communication,Responsible AI,
 AI governance, computational social science, and critical technology studies.
 </p>
 

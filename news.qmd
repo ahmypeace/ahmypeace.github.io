@@ -1,1 +1,196 @@
+---
+title: "News & Recognition
+page-layout: full
+---
 
+# In the News
+
+Selected media coverage, university features, awards, and professional recognition highlighting my research, leadership, and academic contributions.
+
+## 2025
+
+::: {.news-grid}
+
+::: {.news-card}
+
+![](images/news/vanguard-deepfake.jpg)
+
+**AI, Deepfakes, and the Battle for Truth**
+
+*Vanguard* • February 2025
+
+Featured discussing artificial intelligence, deepfakes, misinformation, and the societal implications of emerging technologies.
+
+[Read Article](https://www.vanguardngr.com/2025/02/ai-deepfakes-battle-for-truth-combating-digital-misinformation-in-age-of-emerging-technologies/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/guardian-disinformation.jpg)
+
+**Disinformation and Public Perception**
+
+*The Guardian Nigeria* • 2025
+
+Featured discussing disinformation, public perception, governance, and policy implementation.
+
+[Read Article](https://guardian.ng/news/amaka-onebunne-on-disinformation-and-public-perception-the-silent-threat-to-governance-and-policy-implementation/){target="_blank"}
+
+:::
+
+:::
+
+---
+
+## 2024
+
+::: {.news-grid}
+
+::: {.news-card}
+
+![](images/news/vanguard-ai.jpg)
+
+**Future of Journalism**
+
+*Vanguard* • July 2024
+
+Interview discussing AI adoption in Nigerian newsrooms, fact-checking, and the future of journalism.
+
+[Read Article](https://www.vanguardngr.com/2024/07/future-of-journalism-how-ai-can-enhance-fact-checking-combat-misinformation-onebunne/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/punch-ai.jpg)
+
+**AI Bias in Nigerian Newsrooms**
+
+*Punch Newspapers* • 2024
+
+Featured discussing algorithmic bias and challenges facing Nigerian news organizations.
+
+[Read Article](https://punchng.com/ai-bias-the-challenges-faced-by-nigerian-newsrooms/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/niu.jpg)
+
+**Graduate Student Programming Promotes Inclusivity and Opportunity**
+
+*NIU Today* • March 2024
+
+Featured by Northern Illinois University for contributions to graduate student leadership and programming.
+
+[Read Article](https://niutoday.info/2024/03/12/niu-graduate-student-programming-promotes-inclusivity-and-opportunity/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/northernstar.jpg)
+
+**Student Government Elections**
+
+*Northern Star* • 2024
+
+Featured in coverage of Student Government Association election initiatives.
+
+[Read Article](https://northernstar.info/109605/news/sga-looks-to-promote-elections/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/technovation.jpg)
+
+**Technovation Girls Regional Winner**
+
+*Technovation* • 2024
+
+Recognized among the 2024 Technovation Girls Regional Winners.
+
+[Read Article](https://www.technovation.org/blogs/2024-technovation-girls-finalists-and-regional-winners/){target="_blank"}
+
+:::
+
+:::
+
+---
+
+## Conference Recognition
+
+::: {.news-grid}
+
+::: {.news-card}
+
+![](images/news/csca.jpg)
+
+**Central States Communication Association**
+
+Featured in official CSCA conference announcements and award recognitions.
+
+[Conference Announcement](https://www.csca-net.org/aws/CSCA/pt/fli/153119/false){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/csca2.jpg)
+
+**CSCA Conference Recognition**
+
+Official conference feature highlighting presentations and recognition.
+
+[View Announcement](https://www.csca-net.org/aws/CSCA/pt/fli/150594/false){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/aejmc.jpg)
+
+**AEJMC Southeast Colloquium**
+
+Research accepted and featured in the official conference program.
+
+[Conference Program](https://ci.uky.edu/sites/default/files/2024-03/2024%20SE%20AEJMC%20Final_0.pdf){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/ndsu.jpg)
+
+**CSCA Conference Highlights**
+
+Featured by North Dakota State University following conference presentations.
+
+[View Post](https://www.facebook.com/NDSUCOMM/photos/our-graduate-students-represented-the-department-well-at-cscabukola-oloba-veroni/1145525877372000/){target="_blank"}
+
+:::
+
+::: {.news-card}
+
+![](images/news/temple-forum.jpg)
+
+**Temple University Graduate Research Forum**
+
+Invited presenter at the Klein College Graduate Research Forum.
+
+:::
+
+::: {.news-card}
+
+![](images/news/temple-talk.jpg)
+
+**Temple Research Presentation**
+
+Invited to present research at Temple University.
+
+:::
+
+:::
