@@ -2,7 +2,52 @@
 title: "Contact"
 ---
 
--   Email: [amaka.onebunne\@temple.edu](mailto:amaka.onebunne@temple.edu)
--   GitHub: [Ahmypeace](https://github.com/ahmypeace)
--   LinkedIn: [Amaka Peace Onebunne](https://www.linkedin.com/in/amakapeace/)
--   Google Scholar: [Amaka Peace Onebunne](https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en&authuser=1)
+<div class="contact-page">
+
+## Let's Connect
+
+I welcome opportunities to collaborate on research, interdisciplinary projects, conference panels, invited talks, and other academic or industry initiatives related to artificial intelligence, media and communication, computational social science, and technology governance.
+
+If you'd like to discuss a project or just get in touch, I'd be happy to hear from you.
+
+### Find Me Online
+<div class="contact-buttons">
+
+<a class="contact-button contact-button-primary"
+   href="mailto:amaka.onebunne@temple.edu">
+Email Me
+</a>
+
+<a class="contact-button"
+   href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en"
+   target="_blank">
+Google Scholar
+</a>
+
+<a class="contact-button"
+   href="https://orcid.org/0009-0000-3029-5987"
+   target="_blank">
+ORCID
+</a>
+
+<a class="contact-button"
+   href="https://github.com/ahmypeace"
+   target="_blank">
+GitHub
+</a>
+
+<a class="contact-button"
+   href="https://www.linkedin.com/in/amakapeace/"
+   target="_blank">
+LinkedIn
+</a>
+
+<a class="contact-button"
+   href="assets/documents/amaka-onebunne-cv.pdf"
+   target="_blank">
+Download CV
+</a>
+
+</div>
+
+</div>

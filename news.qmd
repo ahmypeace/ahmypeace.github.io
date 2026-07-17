@@ -1,5 +1,5 @@
 ---
-title: "News & Recognition
+title: "News & Recognition"
 page-layout: full
 ---
 
