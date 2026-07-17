@@ -407,7 +407,7 @@ View news
 Research explainers, Medium articles, conference reflections,
 and public-facing writing on AI and society.
 
-<a class="research-card-link" href="writing.html">
+<a class="research-card-link" href="writing/index.html">
 Read my writing
 </a>
 :::

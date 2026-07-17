@@ -1,0 +1,133 @@
+---
+title: "Writing"
+page-layout: full
+toc: false
+---
+
+::: {.writing-hero}
+
+# Writing
+
+Ideas develop long before they become journal articles. This collection brings together essays, research notes, and commentary on artificial intelligence, communication, journalism, governance, and society. Some pieces expand on published research, while others explore questions still taking shape.
+
+:::
+
+## Explore
+
+::: {.writing-grid}
+
+::: {.writing-category}
+
+### Essays
+
+Long-form pieces that develop original arguments, synthesize research, and examine the broader implications of technology and society.
+
+<div class="writing-tags">
+
+<span class="writing-tag">AI Governance</span>
+
+<span class="writing-tag">Journalism</span>
+
+<span class="writing-tag">Trust & Safety</span>
+
+<span class="writing-tag">Global South</span>
+
+<span class="writing-tag">Human–Machine Communication</span>
+
+<span class="writing-tag">Platform Governance</span>
+
+</div>
+
+[Browse Essays →](essays/index.qmd)
+
+:::
+
+::: {.writing-category}
+
+### Research Notes
+
+Working ideas, methodological reflections, conference takeaways, datasets, and behind-the-scenes insights from ongoing research projects.
+
+<div class="writing-tags">
+
+<span class="writing-tag">Computational Methods</span>
+
+<span class="writing-tag">Natural Language Processing</span>
+
+<span class="writing-tag">Datasets</span>
+
+<span class="writing-tag">Methodological Notes</span>
+
+<span class="writing-tag">Conference Notes</span>
+
+<span class="writing-tag">Reading Notes</span>
+
+</div>
+
+[Browse Research Notes →](research-notes/index.qmd)
+
+:::
+
+::: {.writing-category}
+
+### Commentary
+
+Short reflections on current developments in artificial intelligence, technology policy, digital media, and emerging technologies.
+
+<div class="writing-tags">
+
+<span class="writing-tag">AI News</span>
+
+<span class="writing-tag">Technology Policy</span>
+
+<span class="writing-tag">Emerging Technologies</span>
+
+<span class="writing-tag">Research Reactions</span>
+
+<span class="writing-tag">Academic Life</span>
+
+</div>
+
+[Browse Commentary →](commentary/index.qmd)
+
+:::
+
+:::
+
+---
+
+## Featured Writing
+
+::: {.featured-writing}
+
+### Why Responsible AI Needs the Global South
+
+Artificial intelligence governance is often discussed as though it were universal. This essay argues that many of today's governance frameworks overlook the social, political, and technological realities of the Global South, and that these regions should shape—not simply adopt—the future of responsible AI.
+
+*12 min read · Essay*
+
+[Read the Essay →](essays/why-responsible-ai-needs-the-global-south.qmd)
+
+:::
+
+::: {.featured-writing}
+
+### Journalism After Generative AI
+
+What happens when journalists increasingly work alongside generative AI? This essay explores how automation is reshaping verification, professional identity, editorial judgment, and public trust, drawing on newsroom experiences from the Global South.
+
+*10 min read · Essay*
+
+[Read the Essay →](essays/journalism-after-generative-ai.qmd)
+
+:::
+
+---
+
+## Why I Write
+
+::: {.writing-purpose} 
+
+Research papers answer specific questions. Writing creates space to ask new ones.
+
+These essays and notes allow me to think beyond the constraints of academic publishing, reflect on work in progress, and engage broader conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.

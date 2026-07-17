@@ -31,7 +31,7 @@ website:
         href: publications.qmd
 
       - text: "Writing"
-        href: writing.qmd
+        href: writing/
 
       - text: "News"
         href: news.qmd
