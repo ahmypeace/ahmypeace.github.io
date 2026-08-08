@@ -1,0 +1,349 @@
+---
+
+title: "Journalism After Generative AI"
+description: "What happens when journalists increasingly work with generative AI? This essay explores how automation is reshaping verification, professional identity, editorial judgment, and public trust, drawing on newsroom experiences from the Global South."
+date: "2026-07-07"
+categories:
+
+* Artificial Intelligence
+* Journalism
+* Generative AI
+* Global South
+
+---
+
+## I have been thinking about what is left
+
+Before I became a researcher studying artificial intelligence, I was a journalist. I spent years reporting, writing, and editing news stories in Nigeria. I have also spent years studying how journalists work with technology, including AI. Maybe, just maybe, that is why I find some of the conversations about generative AI and journalism strangely incomplete.
+
+A lot of our attention has been on whether AI will replace journalists. I understand why. Journalism has already lived through decades of shrinking newsrooms, declining advertising revenue, platform dependence, and changing audience habits. A technology that can summarize documents, transcribe interviews, suggest headlines, rewrite copy, generate images, search large collections of text, and produce something resembling a news story in seconds understandably raises questions about what is left for the journalists to do.
+
+But, let us take some moment and think about a different question.
+
+**What is left of journalism when more of the work of journalism can be automated?**
+
+That is quite different from asking whether journalists will still have jobs. Journalism has never been only the production of text. A journalist decides whom to call and whom not to call, what stories to be skeptical about, which detail changes the meaning of a story, whether a source knows what they claim to know, when two technically accurate statements create a misleading impression when placed together, and whether something should be published simply because it can be verified.
+
+These decisions are so embedded in everyday newsroom work that we sometimes talk about them simply as *judgment*. Generative AI is entering that process, and I think that changes things considerably.
+
+## AI did not suddenly arrive in journalism
+
+It is worth remembering that journalism's relationship with artificial intelligence did not begin with ChatGPT. News organizations have used automation for years to produce earnings reports, sports stories, election results, recommendation systems, transcription, translation, content moderation, and other forms of computational journalism. What changed with generative AI is partly the range of activities that can now be automated, thus moving the technology much closer to the intellectual center of journalistic work.
+
+A global JournalismAI survey by Charlie Beckett and Mira Yaseen, ["Generating Change"](https://eprints.lse.ac.uk/129643/), surveyed 105 news organizations across 46 countries and found widespread experimentation with AI across newsgathering, production, and distribution. Nearly three-quarters of the organizations surveyed believed generative AI presented new opportunities for journalism. ([LSE](https://eprints.lse.ac.uk/129643/)). The optimism makes sense. A reporter can use AI to work through a long government document, generate possible interview questions, transcribe an hour-long conversation, translate material, summarize background information, restructure notes, or identify patterns in a dataset.
+
+For journalists working under constant deadline pressure, these are not trivial conveniences. I remember what newsroom work feels like. There is always another story, you know, something that needs to go out,information that still needs to be confirmed while the clock keeps moving.So when a technology promises to give journalists some of that time back, I understand the attraction. I am not interested in pretending otherwise.
+
+The harder question is what happens after we accept the convenience.
+
+## Verification becomes more important precisely when production becomes easier
+
+There is a strange contradiction at the center of generative AI and journalism.
+
+We have developed machines that can produce plausible information extraordinarily quickly at exactly the moment when determining whether information is trustworthy has become extraordinarily difficult.
+
+A language model can produce a clean summary of a complicated document.
+
+But clean is not the same thing as correct.
+
+It can collapse uncertainty. It can omit an inconvenient qualification. It can confidently connect things that were never connected. It can produce a citation that looks completely ordinary until someone tries to find it.
+
+For most professions, these are reliability problems.
+
+For journalism, they touch something closer to its reason for existing.
+
+Verification is one of the practices through which journalism distinguishes itself from the enormous amount of information circulating around it.
+
+Generative AI therefore creates an interesting reversal. The easier it becomes to *produce* information, the more valuable the difficult work of verifying information becomes.
+
+And yet verification is exactly the part that refuses to become conveniently fast.
+
+If AI summarizes twenty documents for me, I still need some way of knowing that the summary faithfully represents those documents. If it translates an interview, someone needs to know whether the translation preserved what the source actually meant. If it suggests that two events are connected, a journalist still has to establish whether that relationship exists.
+
+At some point, a human being has to decide: **I am willing to put my name, or my newsroom's name, behind this.**
+
+That decision cannot simply be another output in the pipeline.
+
+## The journalist is becoming an editor of machine output
+
+This is where I think something more subtle is happening to journalistic work.
+
+Generative AI does not have to replace journalists to transform the profession.
+
+It only has to redistribute what journalists spend their time doing.
+
+A recent study by Chang Sup Park and Temitope Akintade is especially useful here. In ["Artificial intelligence in Nigerian newsrooms: Navigating jurisdictional hybridization, retreat, and maintenance"](https://journals.sagepub.com/doi/10.1177/14614448261429426), the authors interviewed 50 journalists in Nigerian newsrooms and examined AI through the question of professional jurisdiction: essentially, what work belongs to journalists and what happens when technology begins doing some of it. They found AI being used for activities including transcription, copyediting, and preliminary drafting, producing different configurations in which journalists maintain, share, or retreat from areas of professional work. ([SAGE](https://journals.sagepub.com/doi/10.1177/14614448261429426))
+
+I find the idea of jurisdiction useful because it gets us beyond the dramatic question of replacement.
+
+Professions are partly defined by the tasks over which they claim expertise.
+
+So what happens when those tasks begin moving?
+
+If a journalist no longer transcribes the interview, writes the first draft, develops the headline, summarizes the background documents, or rewrites the copy, perhaps the journalist's role increasingly shifts toward supervising, selecting, correcting, verifying, and approving.
+
+That does not necessarily make the journalist less important.
+
+But it does make the journalist different.
+
+And I am not sure we have fully considered what that difference means.
+
+## There are things I learned by doing the "inefficient" work
+
+This is where I become slightly uncomfortable with the language of efficiency.
+
+Some newsroom tasks are genuinely tedious.
+
+I do not think anyone needs to romanticize transcription.
+
+But not every inefficient part of journalism is useless.
+
+Sometimes the work is where knowledge is acquired.
+
+Listening to an interview again while transcribing it means hearing the hesitation you missed the first time. Reading a long report yourself means noticing the paragraph that would never survive an automated summary but changes how you understand the document. Writing a bad first draft forces you to discover that you do not yet understand your own story.
+
+Even rewriting can be epistemic work.
+
+You are not merely rearranging sentences. You are deciding what happened.
+
+That distinction matters.
+
+If generative AI increasingly performs the intermediate work between gathering information and producing a finished story, journalists may become more efficient while simultaneously becoming more distant from the material from which their judgment is supposed to emerge.
+
+That does not mean we should return to typewriters and handwritten notebooks.
+
+It means efficiency cannot be our only measure of successful AI integration.
+
+We should also ask what journalists learn through the work being automated.
+
+## And then there is the Global South
+
+The conversation becomes even more complicated when we leave the best-resourced newsrooms.
+
+Gregory Gondwe's study, ["CHATGPT and the Global South: How are journalists in sub-Saharan Africa engaging with generative AI?"](https://www.degruyter.com/document/doi/10.1515/omgc-2023-0023/html), interviewed journalists across several sub-Saharan African countries and found both enthusiasm and serious concern around generative AI. Journalists were navigating questions of misinformation, plagiarism, stereotypes, and the poor representation of African contexts within the data underlying these systems. ([De Gruyter](https://www.degruyter.com/document/doi/10.1515/omgc-2023-0023/html))
+
+This matters because the same tool does not enter every newsroom under the same conditions.
+
+Imagine two journalists using the same generative AI system.
+
+One works in a large newsroom with dedicated technology staff, legal counsel, an AI policy, paid access to several tools, editors trained to recognize AI-related failures, and enough institutional resources to experiment carefully.
+
+The other works in an understaffed newsroom where reporters already perform several roles, institutional AI guidelines barely exist, access to premium tools is limited, internet infrastructure is inconsistent, and the languages and local realities being reported are poorly represented in the systems themselves.
+
+They are technically using the same technology.
+
+They are not experiencing the same technological transition.
+
+Allen Munoriyarwa's research on Southern African newsrooms makes this point particularly well. His study of AI integration across newsrooms in South Africa, Lesotho, Eswatini, Botswana, and Zimbabwe identifies barriers that are simultaneously social and technological. AI adoption is shaped not simply by whether tools exist, but by infrastructure, organizational resources, professional practices, and the environments in which journalists actually work. ([SAGE](https://journals.sagepub.com/doi/10.1177/27523543241288814))
+
+This is why I am wary of universal predictions about the "AI newsroom."
+
+There is no single newsroom into which AI is arriving.
+
+## In some places, AI may fill gaps before it replaces jobs
+
+There is another possibility worth considering.
+
+Much of the anxiety around AI and journalism assumes that automation enters an existing role and removes the human performing it.
+
+But what happens in newsrooms where that human role barely exists?
+
+A newsroom may need a dedicated data journalist but cannot afford one.
+
+It may need transcription services but reporters transcribe their own interviews.
+
+It may want to translate stories into several local languages but lack the staff.
+
+It may need someone monitoring thousands of government documents but have three reporters covering an entire beat.
+
+In these environments, AI may not initially replace existing capacity.
+
+It may provide capacity that the newsroom never had.
+
+That can be genuinely valuable.
+
+But it also introduces another dependency.
+
+If resource-constrained newsrooms become dependent on AI systems developed elsewhere, trained primarily on data from elsewhere, priced by companies elsewhere, and governed through infrastructures they do not control, then automation may solve one inequality while deepening another.
+
+This is one reason I think the political economy of newsroom AI deserves far more attention.
+
+The question is not simply whether journalists have access to AI.
+
+It is what kind of access they have, under whose terms, and what happens when that access becomes essential to producing news.
+
+## What happens to professional identity?
+
+There is also something more personal at stake.
+
+Journalists develop identities around what they know how to do.
+
+You learn how to interview.
+
+You learn how to write quickly.
+
+You learn how to recognize when someone is avoiding your question.
+
+You learn what your editor will send back.
+
+You learn that the apparently insignificant sentence in a document is sometimes the story.
+
+Eventually, these things become part of what it means to say, *I am a journalist.*
+
+So I wonder what happens when some of those competencies are increasingly shared with machines.
+
+Maybe journalistic identity moves upward toward judgment.
+
+Perhaps the valuable journalist becomes less the person who can produce 800 words quickly and more the person who knows whether those 800 words deserve to exist.
+
+Perhaps verification, source relationships, contextual knowledge, ethical reasoning, investigation, and editorial judgment become more central precisely because writing itself becomes cheaper.
+
+I actually find something hopeful in that possibility.
+
+Generative AI might force journalism to become clearer about what journalism contributes that text generation does not.
+
+## But judgment cannot become a slogan
+
+There is a danger here too.
+
+It is easy to respond to every concern about newsroom automation by saying that humans will retain editorial judgment.
+
+That sounds reassuring.
+
+But what exactly does it mean?
+
+Judgment is not something a journalist simply possesses by virtue of being human.
+
+It is developed through experience.
+
+Through making mistakes.
+
+Through reporting.
+
+Through editing.
+
+Through learning a beat.
+
+Through understanding communities.
+
+Through being corrected by people who know more than you do.
+
+Through doing many of the mundane tasks that automation now promises to remove.
+
+If entry-level journalists increasingly begin their careers supervising AI-generated material rather than developing stories from the ground up, where will the next generation of editorial judgment come from?
+
+That question interests me much more than whether AI can write a convincing news article.
+
+We should not only ask which tasks AI can perform.
+
+We should ask which professional capabilities humans develop while performing those tasks.
+
+If we automate the task, we need to know whether we are also interrupting the process through which expertise is produced.
+
+## The audience is also in the room
+
+And then there is trust.
+
+News organizations are introducing generative AI during a period when public trust in news is already fragile.
+
+This creates a difficult problem.
+
+Newsrooms may see AI primarily as an internal production technology. An audience may see something else entirely.
+
+Was this written by a journalist?
+
+Was this image real?
+
+Did someone actually check this?
+
+Was the interview conducted by a person?
+
+Did an editor read this before I did?
+
+These questions are becoming part of the audience's encounter with news whether journalists want them to be or not.
+
+This is why transparency matters, but I do not think disclosure alone solves the problem.
+
+A small label saying "AI assisted" tells me that AI was involved.
+
+It does not tell me what it did.
+
+There is an enormous difference between using AI to transcribe a recorded interview and asking it to generate the first version of an investigative story. There is a difference between translation and verification. There is a difference between using AI to search a document collection and allowing it to determine what claims appear in the published story.
+
+Perhaps news organizations will eventually need a much richer vocabulary for describing human-machine collaboration.
+
+Not because audiences need a technical report attached to every article.
+
+Because trust depends partly on understanding how knowledge was produced.
+
+## Maybe the future journalist is not competing with AI
+
+I no longer find the question *Will AI replace journalists?* particularly useful.
+
+It is too large to tell us much.
+
+Some jobs may disappear. Some tasks almost certainly will. Others will become more valuable. Entirely new forms of journalistic work may emerge.
+
+The more interesting transformation is happening inside the occupation itself.
+
+What journalists do.
+
+What they know.
+
+What they are expected to verify.
+
+Which decisions remain theirs.
+
+Which decisions quietly migrate into technical systems.
+
+And which skills stop being learned because a machine performs the work first.
+
+This is why I think the future of journalism will depend less on drawing a clean boundary between human journalism and artificial intelligence.
+
+That boundary is already becoming difficult to maintain.
+
+The harder work is deciding **where human judgment must remain consequential**.
+
+Not ceremonially present.
+
+Not a reporter clicking "approve" at the end of an automated workflow.
+
+Consequential.
+
+## Journalism after generative AI
+
+I am not nostalgic for a journalism untouched by technology.
+
+That journalism never existed.
+
+Journalists have always worked through technologies: notebooks, telephones, cameras, recorders, databases, search engines, content management systems, social media, analytics platforms, and now generative AI.
+
+Each changed what journalists could do.
+
+Some changed what journalism became.
+
+Generative AI feels different because it does not simply help journalists transmit, record, retrieve, or distribute information. It increasingly participates in interpreting and producing it.
+
+That puts the technology unusually close to the epistemic heart of journalism.
+
+And perhaps that is where our attention should be.
+
+The future of journalism will not be secured simply by keeping humans somewhere in the workflow. It will depend on preserving the conditions under which journalists can still know what they are publishing, understand why they believe it, challenge the systems assisting them, and take responsibility for the decisions made along the way.
+
+Especially in the Global South, that future cannot be designed around an imaginary universal newsroom with unlimited tools, stable infrastructure, abundant staff, and well-resourced verification systems.
+
+It has to begin with the newsrooms that actually exist.
+
+I still believe generative AI can make journalism better.
+
+But I think the real measure of that success will not be how much faster journalists can produce news.
+
+It will be whether, after all that automation, they remain capable of telling us why we should believe it.
+
+## Further reading
+
+* Beckett, C., & Yaseen, M. (2023). [*Generating Change: A Global Survey of What News Organisations Are Doing with AI*](https://eprints.lse.ac.uk/129643/). JournalismAI, London School of Economics and Political Science.
+* Gondwe, G. (2023). [CHATGPT and the Global South: How are journalists in sub-Saharan Africa engaging with generative AI?](https://www.degruyter.com/document/doi/10.1515/omgc-2023-0023/html). *Online Media and Global Communication, 2*(2), 228–249.
+* Munoriyarwa, A. (2024). [Unravelling Socio-Technological Barriers to AI Integration: A Qualitative Study of Southern African Newsrooms](https://journals.sagepub.com/doi/10.1177/27523543241288814).
+* Park, C. S., & Akintade, T. (2026). [Artificial intelligence in Nigerian newsrooms: Navigating jurisdictional hybridization, retreat, and maintenance](https://journals.sagepub.com/doi/10.1177/14614448261429426). *New Media & Society*.
+* Reuters Institute for the Study of Journalism. (2023). [*Changing Newsrooms 2023*](https://reutersinstitute.politics.ox.ac.uk/changing-newsrooms).
