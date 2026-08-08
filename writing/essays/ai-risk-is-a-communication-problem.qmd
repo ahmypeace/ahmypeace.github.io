@@ -1,5 +1,4 @@
 ---
-
 title: "AI Risk Is a Communication Problem"
 description: "We often treat AI risk as a technical problem. But many failures happen through communication: what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act."
 date: "2026-08-08"
@@ -9,7 +8,6 @@ categories:
 * AI Risk
 * Communication
 * Sociotechnical Systems
-
 ---
 
 ## I think we are looking at AI risk too late
