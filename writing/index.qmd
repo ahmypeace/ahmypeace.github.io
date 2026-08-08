@@ -114,9 +114,9 @@ Artificial intelligence governance, and truthfully, a huge chunk of technologica
 
 ### Journalism After Generative AI
 
-What happens when journalists increasingly work alongside generative AI? This essay explores how automation is reshaping verification, professional identity, editorial judgment, and public trust, drawing on newsroom experiences from the Global South.
+What happens when journalists increasingly work integrated with generative AI? This essay explores how automation is reshaping verification, professional identity, editorial judgment, and public trust, drawing on newsroom experiences from the Global South.
 
-*10 min read · Essay*
+*13 min read · Essay*
 
 [Read the Essay →](essays/journalism-after-generative-ai.qmd)
 
@@ -128,6 +128,6 @@ What happens when journalists increasingly work alongside generative AI? This es
 
 ::: {.writing-purpose} 
 
-Research papers answer specific questions. Writing creates space to ask new ones.
+Research papers answer specific questions, but writing creates space to ask new ones.
 
-These essays and notes allow me to think beyond the constraints of academic publishing, reflect on work in progress, and engage broader conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.
+Specifically, these essays and notes allow me to think beyond the rigid walls of academic publishing, reflect on work in progress, and engage broader conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.

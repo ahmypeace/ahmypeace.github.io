@@ -4,11 +4,10 @@ title: "Journalism After Generative AI"
 description: "What happens when journalists increasingly work with generative AI? This essay explores how automation is reshaping verification, professional identity, editorial judgment, and public trust, drawing on newsroom experiences from the Global South."
 date: "2026-07-07"
 categories:
-
-* Artificial Intelligence
-* Journalism
-* Generative AI
-* Global South
+  - Artificial Intelligence
+  - Journalism
+  - Generative AI
+  - Global South
 
 ---
 

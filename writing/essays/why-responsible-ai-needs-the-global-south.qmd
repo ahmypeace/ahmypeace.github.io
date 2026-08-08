@@ -4,11 +4,10 @@ title: "Responsible AI Is Not Universal"
 description: "Thinking about what is lost when AI governance travels, and why the Global South should help determine what responsible AI becomes."
 date: "2026-08-07"
 categories:
-
-* Artificial Intelligence
-* AI Governance
-* Global South
-* Sociotechnical Systems
+  - Artificial Intelligence
+  - AI Governance
+  - Global South
+  - Sociotechnical Systems
 
 ---
 
