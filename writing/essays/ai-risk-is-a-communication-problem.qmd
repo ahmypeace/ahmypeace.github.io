@@ -1,0 +1,544 @@
+---
+
+title: "AI Risk Is a Communication Problem"
+description: "We often treat AI risk as a technical problem. But many failures happen through communication: what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act."
+date: "2026-08-08"
+categories:
+
+* Artificial Intelligence
+* AI Risk
+* Communication
+* Sociotechnical Systems
+
+---
+
+## I think we are looking at AI risk too late
+
+When we talk about AI risk, we tend to talk about systems.
+
+Is the model accurate?
+
+Is it biased?
+
+Can it be manipulated?
+
+Does it hallucinate?
+
+Is private information leaking?
+
+Can someone jailbreak it?
+
+Does it behave safely under adversarial conditions?
+
+These are important questions. I spend a great deal of time thinking about them myself.
+
+But lately I have been wondering whether our understanding of AI risk begins too late.
+
+By the time we identify a harmful output, something else has often already happened. Someone trusted information they should have questioned. A warning failed to reach the person who needed it. An uncertain prediction appeared more authoritative than it really was. A decision-maker misunderstood what a model could do. A worker noticed something was wrong but did not have the institutional authority to stop deployment. A system technically disclosed its limitations, but in a way nobody could reasonably use.
+
+These do not look like conventional model failures.
+
+They look like communication failures.
+
+And that has made me increasingly interested in a fairly simple proposition:
+
+**AI risk is also a communication problem.**
+
+Not because technical risk does not matter.
+
+Because AI systems do not produce consequences by themselves. Their outputs enter relationships among people, organizations, institutions, and other technologies. Somewhere between what a system produces and what eventually happens, information has to be interpreted, trusted, contested, communicated, ignored, escalated, or acted upon.
+
+Risk lives there too.
+
+## A model output is not yet a social consequence
+
+Imagine that an AI system produces an incorrect answer.
+
+At the model level, we might call this a hallucination.
+
+But a hallucination does not automatically become harm.
+
+Someone has to encounter it.
+
+That person has to interpret it.
+
+They may trust it, reject it, verify it, misunderstand it, forward it to someone else, use it to make a decision, or feed it into another system.
+
+The same incorrect output could therefore disappear without consequence in one setting and produce substantial harm in another.
+
+That difference interests me.
+
+Because if the model output remains identical while the outcome changes, then something outside the model is doing important causal work.
+
+Communication is part of that process.
+
+This is one reason I find the sociotechnical framing of AI risk so useful. In their paper ["Concrete Problems in AI Safety"](https://arxiv.org/abs/1606.06565), Dario Amodei and colleagues identified problems such as avoiding negative side effects, reward hacking, scalable supervision, safe exploration, and robustness to distributional shift. The paper became foundational partly because it helped translate broad concerns about AI safety into concrete technical research problems.
+
+That work remains important.
+
+But once AI systems leave experimental settings and enter workplaces, hospitals, schools, government agencies, financial institutions, newsrooms, and homes, technical properties interact with social ones.
+
+The question is no longer only whether the system fails.
+
+It is also whether anyone recognizes the failure as a failure.
+
+## Uncertainty has to be communicated
+
+I keep returning to uncertainty.
+
+AI systems are probabilistic, but the interfaces through which we encounter them often do not feel probabilistic at all.
+
+A chatbot does not usually look uncertain.
+
+It gives you an answer.
+
+Often a very good answer.
+
+Sometimes an excellent one.
+
+And sometimes an answer that is completely wrong with exactly the same confidence, fluency, and grammatical composure.
+
+This creates an unusual communication problem.
+
+Humans use communicative cues to evaluate other humans constantly. Hesitation tells us something. Qualification tells us something. "I think" means something different from "I know." A physician saying "the evidence is unclear" communicates something different from one saying "your test confirms this."
+
+Generative AI complicates those cues because linguistic confidence and epistemic confidence are not the same thing.
+
+The system can *sound* certain without possessing anything equivalent to human certainty.
+
+That gap matters.
+
+Research on automation has been warning us about related problems for decades. Raja Parasuraman and Victor Riley's classic paper, ["Humans and Automation: Use, Misuse, Disuse, Abuse"](https://doi.org/10.1518/001872097778543886), showed that the relationship between people and automated systems cannot be understood simply by asking whether automation works. People can over-rely on it, underuse it, or use it in ways its designers did not anticipate.
+
+AI intensifies this problem because many contemporary systems communicate through language.
+
+The interface itself can generate trust.
+
+So perhaps one AI risk question should be:
+
+**Does the system communicate what it knows, what it does not know, and when the distinction matters?**
+
+That is partly an engineering problem.
+
+But it is unmistakably a communication problem too.
+
+## Transparency is useless if nobody understands it
+
+We often respond to these concerns by asking for transparency.
+
+Disclose that AI was used.
+
+Publish a model card.
+
+Document the training process.
+
+Explain the limitations.
+
+Provide confidence scores.
+
+Add a warning.
+
+I support many of these interventions.
+
+But I think we sometimes confuse *making information available* with *communicating*.
+
+They are not the same thing.
+
+A forty-page technical document sitting on a website is technically transparent.
+
+A model card that only an ML engineer can interpret is technically transparent.
+
+A disclaimer that users click through without reading is technically transparent.
+
+A confidence score that a decision-maker does not understand is technically transparent.
+
+The information exists.
+
+That does not mean it has successfully communicated anything.
+
+This distinction is important in the work of Timnit Gebru and colleagues on ["Datasheets for Datasets"](https://arxiv.org/abs/1803.09010), and Margaret Mitchell and colleagues on ["Model Cards for Model Reporting"](https://arxiv.org/abs/1810.03993). Both interventions recognized that responsible AI development requires information to travel across boundaries. Dataset creators need to communicate information to dataset users. Model developers need to communicate intended uses, performance characteristics, limitations, and evaluation conditions to people who did not build the system.
+
+I think their importance extends beyond documentation.
+
+They reveal something fundamental about AI governance:
+
+**Responsibility depends on successful information transfer.**
+
+Someone knows something about the system.
+
+Someone else needs to know it.
+
+And the structure connecting those two people determines whether that knowledge becomes actionable.
+
+## The person who knows about the risk may not be the person who can stop it
+
+This becomes even more obvious inside organizations.
+
+Imagine an engineer discovers a serious limitation in an AI system scheduled for deployment.
+
+What happens next?
+
+Technically, the risk has been identified.
+
+Organizationally, almost nothing has happened yet.
+
+The engineer has to communicate it.
+
+Someone has to believe them.
+
+The issue has to move through whatever reporting structure exists.
+
+A manager may have to escalate it.
+
+A product team may disagree about its severity.
+
+Legal may interpret it differently.
+
+Leadership may have commercial incentives to proceed.
+
+Someone eventually has to possess both enough information to understand the problem and enough authority to act on it.
+
+This is where I think some discussions of AI governance become too focused on principles and not focused enough on communication structures.
+
+An organization can have excellent AI principles and still be unsafe if bad news does not travel upward.
+
+It can have a responsible AI team whose recommendations arrive after product decisions have effectively been made.
+
+It can have technically sophisticated evaluators whose findings are translated into a dashboard that senior decision-makers barely understand.
+
+It can have employees who recognize risks but do not feel safe raising them.
+
+At that point, the problem is not that nobody knew.
+
+The problem is that knowledge could not move.
+
+## Risk communication has been studying this problem for a long time
+
+This is also where AI research can learn from fields that have spent decades studying how people understand hazards.
+
+Risk communication did not begin with artificial intelligence.
+
+Scholars working in public health, environmental communication, disaster communication, nuclear safety, and other areas have long asked how institutions communicate uncertainty, how people perceive hazards, why experts and publics understand risk differently, and what makes warnings credible.
+
+Paul Slovic's influential work on ["Perception of Risk"](https://www.science.org/doi/10.1126/science.3563507) showed that public perceptions of risk do not simply mirror technical probability calculations. People respond to characteristics such as unfamiliarity, controllability, catastrophic potential, and dread.
+
+That seems remarkably relevant to artificial intelligence.
+
+Experts may estimate one kind of risk.
+
+Developers may prioritize another.
+
+Policymakers may emphasize another.
+
+Workers interacting with the system every day may notice something entirely different.
+
+The public may fear something that engineers consider unlikely while overlooking something engineers consider routine but consequential.
+
+These differences are sometimes described as misunderstanding.
+
+I am not sure that is always the right interpretation.
+
+Different groups may simply be encountering different dimensions of the same technology.
+
+Communication is how those understandings meet.
+
+Or fail to.
+
+## We need to talk about who gets believed
+
+Communication is also about power.
+
+This part matters to me because saying "improve communication" can sound deceptively neutral.
+
+Communication does not occur between equally positioned people.
+
+Who can raise an AI risk?
+
+Whose assessment counts?
+
+Who gets dismissed as technically uninformed?
+
+Who has access to the information needed to challenge a system?
+
+Who can demand an explanation?
+
+Who has enough institutional authority to stop deployment?
+
+A content moderator may understand a system's failures differently from the engineer who built it.
+
+A nurse may notice something about a clinical tool that does not appear in benchmark results.
+
+A journalist may discover that a language model consistently misunderstands a local political context.
+
+A user in Nigeria may encounter linguistic or cultural failures that never appeared during evaluations conducted in California.
+
+These people possess knowledge.
+
+But knowledge and authority are not the same thing.
+
+This is why I do not think communication should be treated as the final step of AI risk management, something that happens after the technical people have identified the "real" risks.
+
+Communication is part of how risk becomes knowable in the first place.
+
+## Human oversight depends on communication
+
+We hear constantly that humans should remain "in the loop."
+
+I have become increasingly suspicious of how easily we say this.
+
+Putting a human somewhere in an automated process does not tell us very much.
+
+What does the human see?
+
+What information does the system provide?
+
+Can the human understand why the system produced its recommendation?
+
+How much time do they have to intervene?
+
+Can they override it?
+
+What happens when they disagree?
+
+Does disagreement carry a professional cost?
+
+Does the system communicate uncertainty in a form the human can actually interpret?
+
+A human who cannot understand, challenge, or meaningfully alter an automated decision is not providing much oversight.
+
+They are present.
+
+That is different.
+
+This is one reason the work of Madeleine Elish on ["Moral Crumple Zones"](https://estsjournal.org/index.php/ests/article/view/260) remains so useful. Elish describes situations in which humans positioned around complex automated systems can absorb responsibility when those systems fail, even when meaningful control was distributed much more broadly.
+
+I think there is a communication dimension to this too.
+
+If we want humans to provide oversight, we have to design the informational relationship between humans and machines in ways that make oversight possible.
+
+Human oversight is not a person.
+
+It is a relationship.
+
+## AI risk also travels between organizations
+
+The problem becomes even harder as AI systems become embedded in larger technical ecosystems.
+
+A company develops a foundation model.
+
+Another company builds an application on top of it.
+
+A third organization deploys that application.
+
+Employees use it to make decisions involving customers.
+
+Customers experience the consequences.
+
+Now imagine a vulnerability, bias, data problem, or reliability issue emerges upstream.
+
+Who needs to know?
+
+How quickly?
+
+In what language?
+
+With what level of technical detail?
+
+Who is responsible for informing downstream users?
+
+How do downstream organizations determine whether the issue affects their particular implementation?
+
+What happens when the system is updated?
+
+AI supply chains are also communication chains.
+
+This becomes especially important as we move toward increasingly agentic systems in which one model's output can become another system's input.
+
+A misleading output may no longer need a human to act on it before producing consequences.
+
+Machines can communicate with machines.
+
+Agents can call tools, retrieve information, update databases, trigger workflows, and pass generated information to other agents.
+
+The communication problem does not disappear when the human leaves the interaction.
+
+It becomes more complicated.
+
+## The Global South makes this harder to ignore
+
+These questions become especially important when AI systems travel across borders.
+
+A risk discovered in one context may not even have the same meaning somewhere else.
+
+Documentation may be written in English while systems are deployed in multilingual environments.
+
+Safety evaluations may assume institutional resources that do not exist everywhere.
+
+A model may be considered sufficiently accurate globally while performing poorly for languages or populations poorly represented in its training and evaluation data.
+
+Organizations may depend on systems developed by companies to which they have little regulatory or commercial leverage.
+
+And users may have very limited ability to contest automated outcomes.
+
+This is why I think global AI risk cannot only be about creating better universal standards.
+
+We also have to ask whether risk information survives translation across technical, linguistic, institutional, and cultural boundaries.
+
+A safety warning produced in San Francisco does not automatically become meaningful governance in Lagos simply because someone published it online.
+
+Information has to travel.
+
+Meaning has to travel with it.
+
+And sometimes it does not.
+
+## Maybe AI literacy is not enough
+
+Another common answer to these problems is AI literacy.
+
+Teach people how AI works.
+
+Teach users not to trust everything a chatbot says.
+
+Train employees to recognize hallucinations.
+
+Educate the public.
+
+Again, useful.
+
+But there is something uncomfortable about making literacy our primary solution.
+
+At some point, we risk transferring responsibility from systems and institutions to users.
+
+If an AI system routinely communicates uncertainty badly, the answer cannot simply be to train millions of people to become better interpreters of bad uncertainty communication.
+
+If an organization deploys a complicated automated system without meaningful pathways for contesting its decisions, the answer cannot simply be to educate users about algorithms.
+
+Literacy matters.
+
+Design matters too.
+
+Institutions matter.
+
+Power matters.
+
+Responsibility has to travel in more than one direction.
+
+## I think communication scholars belong in this conversation
+
+AI risk has understandably been shaped by computer science.
+
+Many of the most serious problems require technical expertise. Security vulnerabilities need technical solutions. Models need rigorous evaluations. Robustness needs to be measured. Dangerous capabilities need to be understood.
+
+I am not interested in replacing any of that with communication theory.
+
+I am interested in what happens after we acknowledge that technical evaluation cannot tell us everything about whether an AI system will be safe in the world.
+
+Because the moment an AI system encounters a person, a team, an organization, or an institution, communication begins doing causal work.
+
+People form expectations about the system.
+
+They interpret its outputs.
+
+They decide whether to trust it.
+
+Organizations communicate policies about its use.
+
+Workers communicate failures upward.
+
+Companies communicate limitations outward.
+
+Interfaces communicate certainty.
+
+Documentation communicates intended use.
+
+Governments communicate acceptable risk.
+
+Journalists communicate AI failures to publics.
+
+And publics communicate back through resistance, adoption, reinterpretation, and demands for accountability.
+
+This is not communication sitting beside AI risk.
+
+It is part of the infrastructure through which AI risk becomes socially consequential.
+
+## So what would it mean to take communication seriously?
+
+Perhaps AI evaluation would examine not only whether a model knows the right answer but whether it appropriately communicates when it does not.
+
+Perhaps red teaming would test not only dangerous outputs but how users interpret those outputs.
+
+Perhaps organizations would evaluate whether risk information can actually travel from technical teams to decision-makers.
+
+Perhaps model documentation would be tested with the people expected to use it.
+
+Perhaps human oversight would be evaluated as an interaction rather than confirmed by the presence of a human somewhere in a workflow.
+
+Perhaps incident reporting would examine who knew what, when they knew it, whom they told, and where the information stopped moving.
+
+Perhaps global AI governance would ask not only whether standards exist but whether their meaning survives across institutional and cultural contexts.
+
+And perhaps communication researchers would stop treating AI primarily as another technology people talk about and begin treating communication itself as part of the safety architecture.
+
+That last possibility interests me most.
+
+## The risk is not only in the model
+
+None of this means every AI problem can be solved through better communication.
+
+A dangerous model remains dangerous.
+
+A security vulnerability does not disappear because we explain it clearly.
+
+Discriminatory systems require more than better messaging.
+
+Some systems should not be deployed at all.
+
+But technical risk and communication risk are not competing explanations.
+
+They interact.
+
+A system can fail technically and recover because people recognize the problem quickly and have the information and authority to intervene.
+
+A relatively small technical failure can become catastrophic because warnings were ignored, uncertainty was hidden, responsibility was unclear, or nobody understood what the system was doing.
+
+That is why I keep coming back to the same thought.
+
+Perhaps the important question is not simply:
+
+*How risky is this AI system?*
+
+It is also:
+
+*What happens to information about risk once this system enters the world?*
+
+Who sees it?
+
+Who understands it?
+
+Who believes it?
+
+Who can communicate it?
+
+Who can challenge it?
+
+And, ultimately, who has the power to do something about it?
+
+AI risk is a technical problem.
+
+It is an organizational problem.
+
+It is an institutional problem.
+
+It is a political problem.
+
+And much more than we currently acknowledge, **AI risk is a communication problem.**
+
+## Further reading
+
+* Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565).
+* Elish, M. C. (2019). [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://estsjournal.org/index.php/ests/article/view/260). *Engaging Science, Technology, and Society, 5*, 40–60.
+* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2021). [Datasheets for Datasets](https://arxiv.org/abs/1803.09010). *Communications of the ACM, 64*(12), 86–92.
+* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., & Gebru, T. (2019). [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993). *Proceedings of the Conference on Fairness, Accountability, and Transparency*.
+* Parasuraman, R., & Riley, V. (1997). [Humans and Automation: Use, Misuse, Disuse, Abuse](https://doi.org/10.1518/001872097778543886). *Human Factors, 39*(2), 230–253.
+* Slovic, P. (1987). [Perception of Risk](https://www.science.org/doi/10.1126/science.3563507). *Science, 236*(4799), 280–285.
