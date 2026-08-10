@@ -122,6 +122,18 @@ What happens when journalists increasingly work integrated with generative AI? T
 
 :::
 
+::: {.featured-writing}
+
+### AI Risk Is a Communication Problem
+
+AI risk is often framed as a technical problem, but many failures emerge through communication: what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act.
+
+*15 min read · Essay*
+
+[Read the Essay →](essays/ai-risk-is-a-communication-problem.qmd)
+
+:::
+
 ---
 
 ## Why I Write
@@ -131,3 +143,5 @@ What happens when journalists increasingly work integrated with generative AI? T
 Research papers answer specific questions, but writing creates space to ask new ones.
 
 Specifically, these essays and notes allow me to think beyond the rigid walls of academic publishing, reflect on work in progress, and engage broader conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.
+
+:::

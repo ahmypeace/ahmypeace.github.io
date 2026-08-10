@@ -13,7 +13,7 @@ Selected media coverage, university features, awards, and professional recogniti
 
 ::: {.news-card}
 
-![](images/news/vanguard-deepfake.jpg)
+![](images/news/vanguard-deepfake.webp)
 
 **AI, Deepfakes, and the Battle for Truth**
 
@@ -31,7 +31,7 @@ Featured discussing artificial intelligence, deepfakes, misinformation, and the 
 
 **Disinformation and Public Perception**
 
-*The Guardian Nigeria* • 2025
+*The Guardian Nigeria* • 2020
 
 Featured discussing disinformation, public perception, governance, and policy implementation.
 
@@ -49,7 +49,7 @@ Featured discussing disinformation, public perception, governance, and policy im
 
 ::: {.news-card}
 
-![](images/news/vanguard-ai.jpg)
+![](images/news/vanguard-ai.webp)
 
 **Future of Journalism**
 
@@ -77,13 +77,13 @@ Featured discussing algorithmic bias and challenges facing Nigerian news organiz
 
 ::: {.news-card}
 
-![](images/news/niu.jpg)
+![](images/news/niu.jpeg)
 
 **Graduate Student Programming Promotes Inclusivity and Opportunity**
 
 *NIU Today* • March 2024
 
-Featured by Northern Illinois University for contributions to graduate student leadership and programming.
+Featured by Northern Illinois University for graduate student education and programming.
 
 [Read Article](https://niutoday.info/2024/03/12/niu-graduate-student-programming-promotes-inclusivity-and-opportunity/){target="_blank"}
 
@@ -107,11 +107,11 @@ Featured in coverage of Student Government Association election initiatives.
 
 ![](images/news/technovation.jpg)
 
-**Technovation Girls Regional Winner**
+**Technovation Girls Regional Judges**
 
 *Technovation* • 2024
 
-Recognized among the 2024 Technovation Girls Regional Winners.
+Recognized among the 2024 Technovation Girls Regional judges.
 
 [Read Article](https://www.technovation.org/blogs/2024-technovation-girls-finalists-and-regional-winners/){target="_blank"}
 
@@ -179,7 +179,7 @@ Featured by North Dakota State University following conference presentations.
 
 **Temple University Graduate Research Forum**
 
-Invited presenter at the Klein College Graduate Research Forum.
+Presented at the Klein College Graduate Research Forum.
 
 :::
 

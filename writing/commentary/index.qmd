@@ -1,0 +1,21 @@
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.coming-soon-page .coming-soon-commentary}
+<div class="coming-soon-icon" aria-hidden="true">💭</div>
+<p class="coming-soon-kicker">Commentary</p>
+
+# Thoughtful takes are cooling on the counter.
+
+Short reflections on AI, technology policy, media, and academic life are on the
+way. No microwaved hot takes, just ideas given enough time to be useful. Chillax!
+
+::: {.coming-soon-actions}
+[Explore Writing](../index.qmd){.coming-soon-button .coming-soon-button-primary}
+[About me](../../about.qmd){.coming-soon-button}
+:::
+:::

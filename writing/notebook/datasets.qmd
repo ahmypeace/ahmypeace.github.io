@@ -1,0 +1,21 @@
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.coming-soon-page .coming-soon-data}
+<div class="coming-soon-icon" aria-hidden="true">📊</div>
+<p class="coming-soon-kicker">Datasets</p>
+
+# The data is loading—responsibly.
+
+Dataset notes, documentation, provenance, and reuse guidance are being prepared.
+Because “just upload the CSV” is not always the whole story.
+
+::: {.coming-soon-actions}
+[Visit my GitHub](https://github.com/ahmypeace){.coming-soon-button .coming-soon-button-primary target="_blank"}
+[Open the notebook](index.qmd){.coming-soon-button}
+:::
+:::

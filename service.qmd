@@ -1,83 +1,242 @@
 ---
-title: "Service"
+title: "Service & Leadership"
+page-layout: full
+toc: false
+title-block-banner: false
 ---
 
-## Academic Leadership
+::: {.leadership-hero}
+::: {.site-container}
+
+<p class="leadership-kicker">Service & Leadership</p>
+
+# Building communities around scholarship, opportunity, and public service
+
+My service work brings together academic leadership, peer review, mentorship,
+and community engagement. Across these roles, I work to strengthen the
+institutions and relationships that make scholarship more rigorous, inclusive,
+and publicly meaningful.
+
+::: {.leadership-stats}
+
+::: {.leadership-stat}
+<strong>10+</strong>
+<span>Academic and professional service roles</span>
+:::
+
+::: {.leadership-stat}
+<strong>2015–Present</strong>
+<span>Community and student leadership</span>
+:::
+
+::: {.leadership-stat}
+<strong>5+</strong>
+<span>Journal and conference review roles</span>
+:::
+
+:::
+:::
+:::
+
+::: {.leadership-section}
+::: {.site-container}
+
+<p class="leadership-section-label">Institutional Service</p>
+
+## Academic leadership
+
+::: {.leadership-grid}
+
+::: {.leadership-card .leadership-card-featured}
+<span class="leadership-period">2026</span>
 
 ### Treasurer
-**Media and Communication Graduate Student Association, Temple University (2026–Present)**
-- Manage organizational finances and budgeting.
-- Support graduate student programming and events.
-- Coordinate with student leaders and faculty.
 
-### Chair & Commissioner, Board of Elections
-**Student Government Association, Northern Illinois University (2023–2024)**
-- Oversaw student government elections.
-- Managed election procedures and compliance.
-- Coordinated election committees and volunteers.
+**Media and Communication Graduate Student Association**  
+*Temple University*
+
+Manage organizational finances and budgeting while supporting graduate student
+programming, events, and coordination among student leaders and faculty.
+:::
+
+::: {.leadership-card}
+<span class="leadership-period">2023–2024</span>
+
+### Chair and Commissioner, Board of Elections
+
+**Student Government Association**  
+*Northern Illinois University*
+
+Oversaw student government elections, managed election procedures and
+compliance, and coordinated election committees and volunteers.
+:::
+
+::: {.leadership-card}
+<span class="leadership-period">2023–2024</span>
 
 ### Secretary
-**Graduate Communication Students Advisory Council, NIU (2023–2024)**
-- Organized meetings and maintained official records.
-- Facilitated communication between students and faculty.
-- Supported departmental initiatives.
 
-### Committee Member
-**Curriculum Committee, Department of Communication, NIU**
-- Contributed student perspectives to curriculum discussions.
-- Participated in departmental planning.
+**Graduate Communication Students Advisory Council**  
+*Northern Illinois University*
+
+Organized meetings, maintained official records, facilitated communication
+between students and faculty, and supported departmental initiatives.
+:::
+
+::: {.leadership-card}
+<span class="leadership-period">2023–2024</span>
+
+### Curriculum Committee Member
+
+**Department of Communication**  
+*Northern Illinois University*
+
+Contributed graduate student perspectives to curriculum discussions and
+departmental planning.
+:::
+
+::: {.leadership-card}
+<span class="leadership-period">2023–2024</span>
 
 ### Graduate Student Representative
-**Faculty Meetings, Department of Communication, NIU**
-- Represented graduate student interests.
-- Served as a liaison between students and faculty.
 
----
+**Faculty Meetings, Department of Communication**  
+*Northern Illinois University*
 
-## Peer Review & Editorial Service
+Represented graduate student interests and served as a liaison between students
+and faculty.
+:::
 
-### Journal Reviewer
-- *New Media & Society*
-- *Media and Communication* (Cogitatio Press)
-- *Cognexus*
+::: {.leadership-card}
+<span class="leadership-period">2023–2024</span>
 
-Reviewed manuscripts on AI, media, technology, and digital communication.
+### Committee Member
 
-### Conference Reviewer
-- International Communication Association (ICA)
-- National Communication Association (NCA)
-- Association of Internet Researchers (AoIR)
-- Temple University Graduate Research Forum
+**Diversity, Equity, and Inclusion Committee · Public Affairs Committee**  
+*NIU Student Government Association*
 
-Reviewed conference submissions and provided scholarly feedback.
+Contributed to student-government initiatives focused on inclusion, public
+engagement, and campus affairs.
+:::
 
-### Editorial Board Member
-**Carl Advance Multidisciplinary Journal of Social Sciences**
-- Supported editorial review and publication activities.
+:::
+:::
+:::
 
----
+::: {.leadership-section .leadership-section-soft}
+::: {.site-container}
 
-## Mentorship
+<p class="leadership-section-label">Scholarly Community</p>
 
-### Leadership Coach
-**Braven (2023–Present)**
-- Mentored college students preparing for professional careers.
-- Facilitated leadership development workshops.
-- Provided career and professional guidance.
+## Peer review and editorial service
 
----
+<p class="leadership-intro">
+I contribute to the scholarly community by reviewing research across artificial
+intelligence, media, communication, and digital society.
+</p>
 
-## Community Engagement
+::: {.service-columns}
 
-### Outreach Coordinator
-**Nigerian Red Cross Society (2015–2022)**
-- Coordinated outreach and community engagement activities.
-- Supported humanitarian and public awareness initiatives.
+::: {.service-panel}
+<div class="service-icon bi bi-journal-check" aria-hidden="true"></div>
 
-### Volunteer
-**National Communication Association Annual Convention (2024)**
-- Assisted with conference logistics and attendee support.
+### Journal and editorial service
 
-### Scholarship Reviewer
-**Zeribe Nwosu Foundation**
-- Evaluated scholarship applications.
+- **Invited Reviewer**, *Media and Communication*, Cogitatio Press (2026)
+- **Invited Reviewer**, *New Media & Society*, SAGE Publications (2025)
+- **Editorial Board Member**, *Carl Advance Multidisciplinary Journal of Social Sciences* (2025)
+- **Reviewer**, *Cognexus*, Wenjibra University Press (2025)
+
+These roles include reviewing manuscripts on AI, media, technology, and digital
+communication and contributing constructive scholarly feedback.
+:::
+
+::: {.service-panel}
+<div class="service-icon bi bi-people-fill" aria-hidden="true"></div>
+
+### Conference review and service
+
+- **Conference Reviewer**, International Communication Association (2025)
+- **Conference Reviewer**, Association of Internet Researchers (2023–2025)
+- **Conference Reviewer**, National Communication Association (2023–2024)
+- **Reviewer**, Klein College Graduate Research Forum (2025)
+- **Convention Volunteer**, NCA 110th Annual Convention (2024)
+
+My conference service includes evaluating submissions, providing scholarly
+feedback, and supporting conference logistics and attendees.
+:::
+
+:::
+:::
+:::
+
+::: {.leadership-section .leadership-section-dark}
+::: {.site-container}
+
+<p class="leadership-section-label">Beyond the University</p>
+
+## Mentorship and community engagement
+
+::: {.community-list}
+
+::: {.community-item}
+<span class="leadership-period">2023–2026</span>
+
+### Leadership Coach · Braven
+
+Mentor college students preparing for professional careers, facilitate
+leadership-development workshops, and provide career and professional guidance.
+:::
+
+::: {.community-item}
+<span class="leadership-period">2024–2025</span>
+
+### Judge Advisor · Technovation Girls Global
+
+Supported the evaluation of technology projects created by young women and
+girls addressing challenges in their communities.
+:::
+
+::: {.community-item}
+<span class="leadership-period">2024</span>
+
+### Scholarship Reviewer · Zeribe Nwosu Foundation
+
+Evaluated scholarship applications as part of an initiative supporting
+educational opportunity and student development.
+:::
+
+::: {.community-item}
+<span class="leadership-period">2015–2022</span>
+
+### Outreach Coordinator · Nigerian Red Cross Society
+
+Coordinated outreach, humanitarian engagement, community activities, and public
+awareness initiatives.
+:::
+
+:::
+:::
+:::
+
+::: {.leadership-section}
+::: {.site-container}
+
+::: {.leadership-recognition}
+<div>
+<p class="leadership-section-label">Recognition</p>
+
+## Leadership grounded in service
+
+My institutional and community contributions have been recognized with the
+**President’s Student Service and Leadership Award** and the **Champagne Award**
+from Northern Illinois University in 2024.
+</div>
+
+<a class="leadership-cv-button" href="assets/documents/amaka-onebunne-cv.pdf" target="_blank">
+  View Full CV <i class="bi bi-arrow-up-right" aria-hidden="true"></i>
+</a>
+:::
+
+:::
+:::

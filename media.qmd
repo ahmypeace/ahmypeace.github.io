@@ -1,1 +1,22 @@
 
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.coming-soon-page .coming-soon-media}
+<div class="coming-soon-icon" aria-hidden="true">📡</div>
+<p class="coming-soon-kicker">Media</p>
+
+# The press room is warming up.
+
+Interviews, media appearances, and public conversations are being assembled.
+Until then, the News page has a few stories ready for you.
+
+::: {.coming-soon-actions}
+[Visit News](news.qmd){.coming-soon-button .coming-soon-button-primary}
+[Contact me](contact.qmd){.coming-soon-button}
+:::
+:::

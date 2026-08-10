@@ -1,0 +1,21 @@
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.coming-soon-page .coming-soon-ai-news}
+<div class="coming-soon-icon" aria-hidden="true">🤖</div>
+<p class="coming-soon-kicker">AI News</p>
+
+# Oh, you beat the news cycle.
+
+I am preparing clear, grounded notes on developments in artificial
+intelligence. Check back soon, preferably before the next model drops.
+
+::: {.coming-soon-actions}
+[Read current essays](../index.qmd){.coming-soon-button .coming-soon-button-primary}
+[Back home](../../index.qmd){.coming-soon-button}
+:::
+:::

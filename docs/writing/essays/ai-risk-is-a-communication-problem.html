@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2026-06-08">
+<meta name="description" content="We usually treat AI risk as a technical problem. But many failures happen through communication. In what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act.">
+
+<title>AI Risk Is a Communication Problem – Amaka Peace Onebunne</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/images/favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700;800&amp;family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="AI Risk Is a Communication Problem – Amaka Peace Onebunne">
+<meta property="og:description" content="We usually treat AI risk as a technical problem. But many failures happen through communication. In what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act.">
+<meta property="og:site_name" content="Amaka Peace Onebunne">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Amaka Peace Onebunne</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">APO</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../writing/"> 
+<span class="menu-text">Writing</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">More</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-more">    
+        <li>
+    <a class="dropdown-item" href="../../open-science.html">
+ <span class="dropdown-text">Open Research</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../methods.html">
+ <span class="dropdown-text">Methods</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../talks.html">
+ <span class="dropdown-text">Talks and Presentations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">Media</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../service.html">
+ <span class="dropdown-text">Service and Leadership</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../assets/documents/amaka-onebunne-cv.pdf" target="_blank">
+ <span class="dropdown-text">Download CV</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">AI Risk Is a Communication Problem</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Artificial Intelligence</div>
+    <div class="quarto-category">AI Risk</div>
+    <div class="quarto-category">Communication</div>
+    <div class="quarto-category">Sociotechnical Systems</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    We usually treat AI risk as a technical problem. But many failures happen through communication. In what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta column-page">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 8, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="i-think-we-are-looking-at-ai-risk-too-late" class="level2">
+<h2 class="anchored" data-anchor-id="i-think-we-are-looking-at-ai-risk-too-late">I think we are looking at AI risk too late</h2>
+<p>Systems surround much of the conversations when we talk about AI risk. We ask whether a model is accurate, biased, can be manipulated, hallucinates, whether private information is leaking, someone can jailbreak it, and whether it behaves safely under adversarial conditions.</p>
+<p>These are quite frankly important concerns. I spend a great deal of time thinking about them myself. But of lately I have been wondering whether our understanding of AI risk starts too late. Because by the time we are asking whether a model is biased, hallucinating, or leaking private information, the system has already been deployed. It has already entered workplaces, hospitals, schools, government agencies, financial institutions, newsrooms, and homes. It has already produced outputs that someone has to interpret and act on. Someone trusted information they should have questioned. A warning failed to reach the person who needed it. An uncertain prediction appeared more authoritative than it really was. A decision-maker misunderstood what a model could do. A worker noticed something was wrong but did not have the institutional authority to stop deployment. A system technically disclosed its limitations, but in a way nobody could reasonably use.</p>
+<p>From where I sit, these do not look like conventional model failures. They look like communication failures. Thus, I have come to an alternate viewpoint that <strong>AI risk is also a communication problem.</strong> This is not to say that technical risk does not matter. But AI systems do not produce consequences by themselves. Their outputs enter relationships among people, organizations, institutions, and other technologies. Somewhere between what a system produces and what eventually happens, information has to be interpreted, trusted, contested, communicated, ignored, escalated, or acted upon. In those in betweens, risk abounds.</p>
+</section>
+<section id="a-model-output-is-not-yet-a-social-consequence" class="level2">
+<h2 class="anchored" data-anchor-id="a-model-output-is-not-yet-a-social-consequence">A model output is not yet a social consequence</h2>
+<p>Imagine that an AI system produces an incorrect answer. At the model level, we might call this a hallucination, and hallucination at that point is not yet a social problem. It becomes a social problem only when someone encounters it and interprets it in a way that produces consequences. They may trust it, reject it, verify it, misunderstand it, forward it to someone else, use it to make a decision, or feed it into another system.</p>
+<p>The same incorrect output could therefore disappear without consequence in one setting and produce substantial harm in another. But if the model output stays largely the same with varying outcomes, then something outside the model is doing important causal work.</p>
+<p>Communication is part of that process.</p>
+<p>This is one reason I find the sociotechnical framing of AI risk so integral. In their paper <a href="https://arxiv.org/abs/1606.06565">“Concrete Problems in AI Safety”</a>, Dario Amodei et al identified problems like avoiding negative side effects, reward hacking, scalable supervision, safe exploration, and robustness to distributional shift. The paper became foundational partly because it helped interpret broad concerns about AI safety into concrete technical research problems.</p>
+<p>But once AI systems leave experimental settings and enter workplaces, hospitals, schools, government agencies, financial institutions, newsrooms, and homes, technical properties interact with social ones. So beyond whether the system fails technically, we also have to ask whether anyone recognizes the failure as a failure.</p>
+</section>
+<section id="uncertainty-has-to-be-communicated" class="level2">
+<h2 class="anchored" data-anchor-id="uncertainty-has-to-be-communicated">Uncertainty has to be communicated</h2>
+<p>AI systems are probabilistic, but the interfaces through which we encounter them often do not feel probabilistic at all. A chatbot does not usually look uncertain. It gives you an answer, good ones, I must add, sometimes, even an excellent one, and sometimes an answer that is completely wrong with exactly the same confidence, fluency, and grammatical composure.</p>
+<p>This creates an unusual communication problem. Humans use communicative cues to evaluate other humans all the time. Hesitation tells us something, so does qualification. “I think” means something different from “I know.” A physician saying “the evidence is unclear” communicates something different from one saying “your test confirms this.” Generative AI complicates those cues because linguistic confidence and epistemic confidence are not the same thing.</p>
+<p>The system can <em>sound</em> certain without possessing anything equivalent to human certainty.</p>
+<p>I read this research on automation which warned about related problems for decades. Raja Parasuraman and Victor Riley’s classic paper, <a href="https://doi.org/10.1518/001872097778543886">“Humans and Automation: Use, Misuse, Disuse, Abuse”</a>, showed that the relationship between people and automated systems cannot be understood simply by asking whether automation works. People can over-rely on it, underuse it, or use it in ways its designers did not anticipate.</p>
+<p>AI intensifies this problem because many contemporary systems communicate through language. The interface can be persuasive, can sound like a human, an expert or a friend. It can sound like a doctor, lawyer, or journalist. It can sound like someone who knows what they are talking about even when they do not. So, just maybe, one AI risk question should be: <strong>Does the system communicate what it knows, what it does not know, and when that difference is important</strong></p>
+<p>That is partly an engineering problem, but it is unmistakably a communication problem too.</p>
+</section>
+<section id="transparency-is-useless-if-nobody-understands-it" class="level2">
+<h2 class="anchored" data-anchor-id="transparency-is-useless-if-nobody-understands-it">Transparency is useless if nobody understands it</h2>
+<p>Our default response to these concerns is usually asking for transparency. Disclose that AI was used, publish a model card, document the training process, explain the limitations, provide confidence scores, add a warning.</p>
+<p>I support many of these interventions, but I think we sometimes confuse <em>making information available</em> with <em>communicating</em>. They are not the same thing.</p>
+<p>A forty-page technical document sitting on a website is technically transparent. Same goes for a model card that only an ML engineer can interpret, a disclaimer that users click through without reading, or a confidence score that a decision-maker does not understand. The information exists, but that does not mean it has successfully communicated anything.</p>
+<p>This brings to mind the works of Timnit Gebruet al on <a href="https://arxiv.org/abs/1803.09010">“Datasheets for Datasets”</a>, and Margaret Mitchell et al on <a href="https://arxiv.org/abs/1810.03993">“Model Cards for Model Reporting”</a>. Both interventions recognized that responsible AI development requires information to travel across boundaries. Dataset creators, therefore, need to communicate information to dataset users, and so does model developers need to communicate intended uses, performance characteristics, limitations, and evaluation conditions to people who did not build the system.</p>
+<p>I think their importance go beyond documentation, as it also highlight that in AI governance, <strong>Responsibility depends on successful information transfer.</strong> Because if someone knows something about the system, someone else needs to know it. But it is the structure connecting those two people determines whether that knowledge becomes actionable.</p>
+</section>
+<section id="the-person-who-knows-about-the-risk-may-not-be-the-person-who-can-stop-it" class="level2">
+<h2 class="anchored" data-anchor-id="the-person-who-knows-about-the-risk-may-not-be-the-person-who-can-stop-it">The person who knows about the risk may not be the person who can stop it</h2>
+<p>This one is more apparent inside organizations. Imagine an engineer finds out a serious limitation in an AI system scheduled for deployment. What happens next?</p>
+<p>Technically, the risk has been identified, but organizationally, almost nothing has happened yet. So, the engineer has to communicate it, and someone has to believe them. In the typical setting, the issue has to move through whatever reporting structure exists. A manager may have to escalate it, and the product team may disagree on its severity, legal may see things differently, while leadership may have commercial incentives to proceed. So, at the end of the day, someone eventually has to possess both enough information to understand the problem and enough authority to act on it.</p>
+<p>This is where I think some discussions of AI governance is too fixated on principles and not enough on communication structures. An organization can have excellent AI principles and still be unsafe if bad news does not travel upward. It can have, say, a responsible AI team whose recommendations arrive after product decisions have effectively been made; or a technically sophisticated evaluators whose findings are put across in a dashboard that senior decision-makers barely understand. More generally, it can have a culture in which people are afraid to raise concerns, or even the ones who do are ignored. So you see, the problem is not that nobody knew about the risk, the problem is that the knowledge could not move to the right person at the right time.</p>
+</section>
+<section id="risk-communication-has-been-studying-this-problem-for-a-long-time" class="level2">
+<h2 class="anchored" data-anchor-id="risk-communication-has-been-studying-this-problem-for-a-long-time">Risk communication has been studying this problem for a long time</h2>
+<p>I believe this is also where AI research can learn from fields that have spent decades studying how people understand hazards. The way people perceive risk, how they respond to uncertainty, and how organizations communicate hazards has been studied in public health, environmental communication, disaster communication, nuclear safety, and other areas. It did not begin with artificial intelligence.</p>
+<p>Paul Slovic’s work on <a href="https://www.science.org/doi/10.1126/science.3563507">“Perception of Risk”</a> showed that public perceptions of risk do not simply mirror technical probability calculations. People respond to characteristics such as unfamiliarity, controllability, catastrophic potential, and dread. This is quite similar to artificial intelligence, and like, I mentioned earlier, different groups may encounter different dimensions of the same technology. Those experiences are sometimes described as misunderstanding, which I am unsure of, regardless, communication is how those understandings meet or fail to.</p>
+</section>
+<section id="we-need-to-talk-about-who-gets-believed" class="level2">
+<h2 class="anchored" data-anchor-id="we-need-to-talk-about-who-gets-believed">We need to talk about who gets believed</h2>
+<p>Communication is also about power. It is about who can speak, who can be heard, and who can be believed. In this kind of conversation, communication rarely occurs between equally positioned people. Who can raise an AI risk, whose assessment is valued, and who gets dismissed as technically uninformed, who has access to the information needed to challenge a system, and who can demand an explanation, and who has enough institutional authority to stop deployment are all questions of power.</p>
+<p>All users of a system may encounter different aspects of its failures, but knowledge is knowledge, and power is power (thank you Cersei Lannister). Therefore, communication should not be treated as a final step in AI risk management, for communication is part of how risk becomes known from the get go</p>
+</section>
+<section id="human-oversight-depends-on-communication" class="level2">
+<h2 class="anchored" data-anchor-id="human-oversight-depends-on-communication">Human oversight depends on communication</h2>
+<p>We hear all the time that humans should remain “in the loop.” This one, I have a controversial take on (<em>coming soon</em>).</p>
+<p>Putting a human somewhere in an automated process does not tell us very much. Starting off, what does the human see? What information does the system provide? Can the human understand why the system produced its recommendation? How much time do they have to intervene? Can they override it? What happens when they disagree? Does disagreement carry a professional cost? Does the system communicate its limbo in a form the human can actually interpret?</p>
+<p>Take it or leave it, but I think the human-in-the-loop framing is often a red herring. It is not the presence of a human that matters, it is the quality of the interaction between the human and the system. A human who cannot understand, challenge, or meaningfully alter an automated decision is not providing much oversight.</p>
+<p>Permit me to tap into the work of Madeleine Elish on <a href="https://estsjournal.org/index.php/ests/article/view/260">“Moral Crumple Zones”</a> who describes situations in which humans positioned around complex automated systems can absorb responsibility when those systems fail, even when meaningful control was distributed much more broadly.</p>
+<p>As a communication scholar, I see a communication dimension to this too. For if we want humans to provide oversight, we have to design the informational relationship between humans and machines in ways that make oversight possible. Human oversight is not a person, it is a relationship.</p>
+</section>
+<section id="ai-risk-also-travels-between-organizations" class="level2">
+<h2 class="anchored" data-anchor-id="ai-risk-also-travels-between-organizations">AI risk also travels between organizations</h2>
+<p>Take some time to imagine how AI systems become embedded in larger technical ecosystems. One company develops a foundation model, another company builds an application on top of it, and a third organization deploys that application. Employees use it to make decisions involving customers, and customers experience the consequences.</p>
+<p>Now imagine a vulnerability, bias, data problem, or reliability issue surges up upstream. Who needs to know? How quickly? In what language? With what level of technical detail? Who is responsible for informing downstream users? How do downstream organizations determine whether the issue affects their particular implementation? What happens when the system is updated? So AI supply chains are also communication chains.</p>
+<p>This becomes especially important as we move toward increasingly agentic systems in which one model’s output can become another system’s input. A misleading output may not need a human to act on it before producing consequences. Here, machines can communicate with machines without human intervention. Agents can call tools, retrieve information, update databases, trigger workflows, and pass generated information to other agents. Even so, the communication problem is still there even when the human leaves the interaction. It only becomes more complicated.</p>
+</section>
+<section id="the-global-south-makes-this-more-complicated" class="level2">
+<h2 class="anchored" data-anchor-id="the-global-south-makes-this-more-complicated">The Global South makes this more complicated</h2>
+<p>Lets talk about borders. Many of the most serious AI risks are technical and also social, institutional, and political. The contextual risks of AI systems vary across countries, cultures, and institutions. For example, a system may be considered sufficiently accurate globally while performing poorly for languages or populations poorly represented in its training and evaluation data, it could be safe in one country but not in another because of differences in regulatory regimes, institutional capacity, or cultural norms.</p>
+<p>So beyond responding to AI risk from by clamouring for better universal standards, we also have to ask whether risk information survives translation across technical, linguistic, institutional, and cultural boundaries. A safety warning produced in San Francisco does not automatically become meaningful governance in Onitsha or Aba simply because someone published it online.</p>
+<p>As information travel, meaning travel with it, and sometimes it does not.</p>
+</section>
+<section id="maybe-ai-literacy-is-not-enough" class="level2">
+<h2 class="anchored" data-anchor-id="maybe-ai-literacy-is-not-enough">Maybe AI literacy is not enough</h2>
+<p>Another common answer to these problems is AI literacy. The assumption is that if we teach people how AI works, to not trust everything a chatbot says, to recognize hallucinations, they will be able to interpret its outputs, recognize its limitations, and understand its risks. Again, a very useful idea. I support it. I have taught AI literacy myself, and I think it is useful. But it is rather confining to make literacy our primary solution.</p>
+<p>At some point, we may default to transferring responsibility from systems and institutions to users. If an AI system routinely communicates its limitations badly, the answer cannot simply be to train millions of people to become better interpreters of unclear or unreliable outputs. If an organization deploys a complex automated system without meaningful ways for people to challenge its decisions, simply educating users about algorithms is not an adequate solution. Literacy matters, so does design, institutional structure, and power.</p>
+<p>Responsibility has to travel in more than one direction.</p>
+</section>
+<section id="i-think-communication-scholars-belong-in-this-conversation" class="level2">
+<h2 class="anchored" data-anchor-id="i-think-communication-scholars-belong-in-this-conversation">I think communication scholars belong in this conversation</h2>
+<p>AI risk has understandably been shaped by computer science, as many of the problems require technical expertise. Security vulnerabilities need technical solutions. Models need rigorous evaluations. Robustness needs to be measured. Dangerous capabilities need to be understood.</p>
+<p>My stake here is not to replace any of that with communication theory, but to explore what happens when we acknowledge that technical evaluation cannot tell us everything about whether an AI system will be safe in the world. Because the moment an AI system encounters a person, a team, an organization, or an institution, communication begins doing causal work. People form expectations about the system, interpret outputs, they make decisions, they escalate concerns, they ignore warnings, they trust or distrust systems. Publics communicate back through resistance, adoption, reinterpretation, and demands for accountability. Communication is not a side effect of AI risk, but a part of the infrastructure through which AI risk becomes socially consequential.</p>
+</section>
+<section id="so-what-would-it-mean-to-take-communication-seriously" class="level2">
+<h2 class="anchored" data-anchor-id="so-what-would-it-mean-to-take-communication-seriously">So what would it mean to take communication seriously?</h2>
+<p>Perhaps AI evaluation would go beyond whether a model knows the right answer to whether it appropriately communicates when it does not. Or maybe red teaming would test both dangerous outputs and how people interpret those outputs. Perhaps model documentation would be evaluated with the people (or at least a representative sample of them) expected to use it. That organizations would evaluate whether risk information can actually go from technical teams to decision-makers. Maybe human oversight would be evaluated as an interaction and not just confirmed by the presence of a human somewhere in a workflow. Or that incident reporting would examine who knew what, when they knew it, whom they told, and where the information stopped moving. That global AI governance would expand focus from the existence of standards to how their meaning survives across institutional and cultural contexts. And perhaps communication researchers would stop researching AI primarily as another technology people talk about and begin examining communication as part of the safety architecture. I am especially excited about the last one.</p>
+</section>
+<section id="the-risk-is-not-only-in-the-model" class="level2">
+<h2 class="anchored" data-anchor-id="the-risk-is-not-only-in-the-model">The risk is not only in the model</h2>
+<p>I am not saying that every AI problem can be solved through better communication. A dnagerous model is a dangerous model. A security vulnerability, bias, or discriminatory system require more than better messaging. Some systems should not be deployed at all. But technical risk and communication risk are greatly intertwined.</p>
+<p>A system can fail technically and recover because people recognize the problem quickly and have the information and authority to intervene; while a system can be technically sound and still produce catastrophic consequences because people misinterpret its outputs, ignore warnings, or fail to escalate concerns.So maybe the focus should go beyond asking <em>How risky is this AI system?</em> to also asking <em>What happens to information about risk once this system enters the world?</em> Who sees it? Who understands or believes it? Who can communicate or challenge it? And, ultimately, who has the power to do something about it?</p>
+<p>AI risk is a technical problem, it is an organizational problem, it is an institutional problem, and it is a political problem. And much more than we currently acknowledge, <strong>AI risk is a communication problem.</strong></p>
+</section>
+<section id="further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="further-reading">Further reading</h2>
+<ul>
+<li>Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., &amp; Mané, D. (2016). <a href="https://arxiv.org/abs/1606.06565">Concrete Problems in AI Safety</a>.</li>
+<li>Elish, M. C. (2019). <a href="https://estsjournal.org/index.php/ests/article/view/260">Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction</a>. <em>Engaging Science, Technology, and Society, 5</em>, 40–60.</li>
+<li>Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., &amp; Crawford, K. (2021). <a href="https://arxiv.org/abs/1803.09010">Datasheets for Datasets</a>. <em>Communications of the ACM, 64</em>(12), 86–92.</li>
+<li>Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., &amp; Gebru, T. (2019). <a href="https://arxiv.org/abs/1810.03993">Model Cards for Model Reporting</a>. <em>Proceedings of the Conference on Fairness, Accountability, and Transparency</em>.</li>
+<li>Parasuraman, R., &amp; Riley, V. (1997). <a href="https://doi.org/10.1518/001872097778543886">Humans and Automation: Use, Misuse, Disuse, Abuse</a>. <em>Human Factors, 39</em>(2), 230–253.</li>
+<li>Slovic, P. (1987). <a href="https://www.science.org/doi/10.1126/science.3563507">Perception of Risk</a>. <em>Science, 236</em>(4799), 280–285.</li>
+</ul>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+  const revealElements = document.querySelectorAll(
+
+    ".reveal-section, .research-card, .work-item"
+
+  );
+
+
+
+  if (!("IntersectionObserver" in window)) {
+
+    revealElements.forEach(function (element) {
+
+      element.classList.add("is-visible");
+
+    });
+
+    return;
+
+  }
+
+
+
+  const revealObserver = new IntersectionObserver(
+
+    function (entries, observer) {
+
+      entries.forEach(function (entry) {
+
+        if (entry.isIntersecting) {
+
+          entry.target.classList.add("is-visible");
+
+          observer.unobserve(entry.target);
+
+        }
+
+      });
+
+    },
+
+    {
+
+      threshold: 0.12,
+
+      rootMargin: "0px 0px -45px 0px"
+
+    }
+
+  );
+
+
+
+  revealElements.forEach(function (element) {
+
+    revealObserver.observe(element);
+
+  });
+
+});
+
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/ahmypeace\.github\.io");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Amaka Peace Onebunne<br>
+Temple University · Philadelphia, PA</p>
+</div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&amp;hl=en">
+<p>Google Scholar</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0009-0000-3029-5987">
+<p>ORCID</p>
+</a>
+  </li>  
+</ul>
+    <div class="toc-actions"><ul><li><a href="https://github.com/ahmypeace/ahmypeace.github.io/blob/main/writing/essays/ai-risk-is-a-communication-problem.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ahmypeace">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/amakapeace/">
+      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/Ahmypeace">
+      <i class="bi bi-twitter-x" role="img" aria-label="X">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/@ahmypeace">
+      <i class="bi bi-youtube" role="img" aria-label="YouTube">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.facebook.com/amaka.peace.50">
+      <i class="bi bi-facebook" role="img" aria-label="Facebook">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:amaka.onebunne@temple.edu">
+      <i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

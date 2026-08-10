@@ -51,7 +51,7 @@ website:
             href: media.qmd
 
           - text: "Service and Leadership"
-            href: leadership.qmd
+            href: service.qmd
 
           - text: "Contact"
             href: contact.qmd

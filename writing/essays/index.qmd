@@ -1,0 +1,99 @@
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.essay-index-hero}
+::: {.site-container}
+
+<p class="essay-index-kicker">Essays</p>
+
+# Things I have been thinking about
+
+This is where I spend a little more time with ideas that keep following me around. I write about artificial intelligence, communication, journalism, governance, and the social worlds forming around new technologies.
+
+<div class="essay-index-count"><strong>3</strong> essays in the collection</div>
+
+:::
+:::
+
+::: {.essay-index-section}
+::: {.site-container}
+
+<p class="essay-index-label">Latest Essay</p>
+
+::: {.essay-feature-card}
+
+::: {.essay-feature-meta}
+<span>August 7, 2026</span>
+<span>12 min read</span>
+:::
+
+## Responsible AI Is Not Universal
+
+I have spent some time on what is lost or gained when AI governance travels, and why the Global South should help decide what responsible AI becomes.
+
+::: {.essay-tag-row}
+<span>AI Governance</span>
+<span>Global South</span>
+<span>Sociotechnical Systems</span>
+:::
+
+[Read the essay →](why-responsible-ai-needs-the-global-south.qmd){.essay-read-link}
+
+:::
+
+<p class="essay-index-label essay-index-label-spaced">More Essays</p>
+
+::: {.essay-card-grid}
+
+::: {.essay-archive-card}
+<p class="essay-card-date">July 7, 2026 · 13 min read</p>
+
+### Journalism After Generative AI
+
+With journalists increasingly working with generative AI. This essay looks at automation, verification, professional judgment, and public trust through newsroom experiences from the Global South.
+
+::: {.essay-tag-row}
+<span>Journalism</span>
+<span>Generative AI</span>
+<span>Global South</span>
+:::
+
+[Read the essay →](journalism-after-generative-ai.qmd){.essay-read-link}
+:::
+
+::: {.essay-archive-card}
+<p class="essay-card-date">June 8, 2026 · 15 min read</p>
+
+### AI Risk Is a Communication Problem
+
+We typically think of AI risk as a technical problem. In this essay, I provide alternative explanation for why it is necessary that we pay attention to how systems communicate, how people interpret their outputs, and how warnings actually reach someone who can act.
+
+::: {.essay-tag-row}
+<span>AI Risk</span>
+<span>Communication</span>
+<span>Sociotechnical Systems</span>
+:::
+
+[Read the essay →](ai-risk-is-a-communication-problem.qmd){.essay-read-link}
+:::
+
+:::
+
+::: {.essay-index-footer}
+<div>
+<p class="essay-index-label">Keep Exploring</p>
+
+## There is more to explore
+
+You can visit the main Writing page for commentary, research notes, and other pieces as I add them.
+</div>
+
+[Explore all writing](../index.qmd){.essay-index-button}
+:::
+
+:::
+:::

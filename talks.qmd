@@ -1,1 +1,22 @@
 
+---
+title: ""
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.coming-soon-page .coming-soon-talks}
+<div class="coming-soon-icon" aria-hidden="true">🎙️</div>
+<p class="coming-soon-kicker">Talks & Presentations</p>
+
+# Mic check. Slides loading.
+
+Conference presentations, invited talks, and research conversations are being
+gathered here. Please take your seat, the program will begin soon.
+
+::: {.coming-soon-actions}
+[Read the latest news](news.qmd){.coming-soon-button .coming-soon-button-primary}
+[Back home](index.qmd){.coming-soon-button}
+:::
+:::
