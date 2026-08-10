@@ -11,8 +11,7 @@ title-block-banner: false
 
 # The data is loading—responsibly.
 
-Dataset notes, documentation, provenance, and reuse guidance are being prepared.
-Because “just upload the CSV” is not always the whole story.
+You will get the dataset notes, documentation, provenance, and reuse guidance here, when they are ready. Because “just upload the CSV” cannot, unfortunately cut it.
 
 ::: {.coming-soon-actions}
 [Visit my GitHub](https://github.com/ahmypeace){.coming-soon-button .coming-soon-button-primary target="_blank"}

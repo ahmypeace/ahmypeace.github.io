@@ -12,8 +12,7 @@ title-block-banner: false
 
 # Mic check. Slides loading.
 
-Conference presentations, invited talks, and research conversations are being
-gathered here. Please take your seat, the program will begin soon.
+Conference presentations, invited talks, and research conversations are being gathered here. Please take your seat, the program will begin soon.
 
 ::: {.coming-soon-actions}
 [Read the latest news](news.qmd){.coming-soon-button .coming-soon-button-primary}

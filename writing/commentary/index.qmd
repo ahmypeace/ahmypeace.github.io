@@ -11,8 +11,7 @@ title-block-banner: false
 
 # Thoughtful takes are cooling on the counter.
 
-Short reflections on AI, technology policy, media, and academic life are on the
-way. No microwaved hot takes, just ideas given enough time to be useful. Chillax!
+Short reflections on AI, technology policy, media, and academic life are on the way. No microwaved hot takes, just ideas given enough time to be useful. Chillax!
 
 ::: {.coming-soon-actions}
 [Explore Writing](../index.qmd){.coming-soon-button .coming-soon-button-primary}

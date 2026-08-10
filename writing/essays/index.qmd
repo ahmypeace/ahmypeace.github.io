@@ -12,7 +12,7 @@ title-block-banner: false
 
 # Things I have been thinking about
 
-This is where I spend a little more time with ideas that keep following me around. I write about artificial intelligence, communication, journalism, governance, and the social worlds forming around new technologies.
+This is where I spend a little more time with ideas stuck in my head, includingnthe outrageous and ridiculous ones. I write about artificial intelligence, communication, journalism, governance, and the social worlds forming around new technologies.
 
 <div class="essay-index-count"><strong>3</strong> essays in the collection</div>
 

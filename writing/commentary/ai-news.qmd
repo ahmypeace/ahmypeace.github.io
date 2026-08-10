@@ -11,8 +11,7 @@ title-block-banner: false
 
 # Oh, you beat the news cycle.
 
-I am preparing clear, grounded notes on developments in artificial
-intelligence. Check back soon, preferably before the next model drops.
+I am preparing clear, grounded notes on developments in artificial intelligence. Check back soon, preferably before the next model drops.
 
 ::: {.coming-soon-actions}
 [Read current essays](../index.qmd){.coming-soon-button .coming-soon-button-primary}

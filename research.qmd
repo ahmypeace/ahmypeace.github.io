@@ -11,8 +11,7 @@ title-block-banner: false
 
 # You found the lab before opening day.
 
-The questions are here. The projects are underway. I am still arranging the
-findings, methods, and ideas into something you can spend time on. Check back soon.
+The questions are here, and the projects are underway. But I am still arranging the findings, methods, and ideas into something you can spend time on. Check back soon.
 
 ::: {.coming-soon-actions}
 [Meet the researcher](about.qmd){.coming-soon-button .coming-soon-button-primary}

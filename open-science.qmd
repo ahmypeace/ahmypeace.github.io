@@ -12,8 +12,7 @@ title-block-banner: false
 
 # The repository doors are almost open.
 
-I am preparing datasets, code, documentation, and reproducible research for
-public release. Good open research takes a little housekeeping first.
+I am preparing datasets, code, documentation, and reproducible research for public release. Good open research takes a little housekeeping first.
 
 ::: {.coming-soon-actions}
 [Visit my GitHub](https://github.com/ahmypeace){.coming-soon-button .coming-soon-button-primary target="_blank"}

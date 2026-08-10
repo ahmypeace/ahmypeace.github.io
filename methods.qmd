@@ -10,7 +10,7 @@ title-block-banner: false
 <div class="coming-soon-icon" aria-hidden="true">⚙️</div>
 <p class="coming-soon-kicker">Methods</p>
 
-# Calibration in progress.
+# Fine-tuning in progress.
 
 The models are modeling, the code is coding, and the methodological details are
 being documented. This page will soon explain how I move from questions to

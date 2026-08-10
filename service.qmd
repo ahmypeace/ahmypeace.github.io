@@ -12,10 +12,7 @@ title-block-banner: false
 
 # Building communities around scholarship, opportunity, and public service
 
-My service work brings together academic leadership, peer review, mentorship,
-and community engagement. Across these roles, I work to strengthen the
-institutions and relationships that make scholarship more rigorous, inclusive,
-and publicly meaningful.
+My service work aims to strengthen the institutions and relationships that make scholarship more rigorous, inclusive, and publicly meaningful.
 
 ::: {.leadership-stats}
 
@@ -55,8 +52,7 @@ and publicly meaningful.
 **Media and Communication Graduate Student Association**  
 *Temple University*
 
-Manage organizational finances and budgeting while supporting graduate student
-programming, events, and coordination among student leaders and faculty.
+Manage organizational finances and budgeting while supporting graduate student programming, events, and coordination among student leaders and faculty.
 :::
 
 ::: {.leadership-card}
@@ -67,8 +63,7 @@ programming, events, and coordination among student leaders and faculty.
 **Student Government Association**  
 *Northern Illinois University*
 
-Oversaw student government elections, managed election procedures and
-compliance, and coordinated election committees and volunteers.
+Oversaw student government elections, managed election procedures and compliance, and coordinated election committees and volunteers.
 :::
 
 ::: {.leadership-card}
@@ -79,8 +74,7 @@ compliance, and coordinated election committees and volunteers.
 **Graduate Communication Students Advisory Council**  
 *Northern Illinois University*
 
-Organized meetings, maintained official records, facilitated communication
-between students and faculty, and supported departmental initiatives.
+Organized meetings, maintained official records, facilitated communication between students and faculty, and supported departmental initiatives.
 :::
 
 ::: {.leadership-card}
@@ -91,8 +85,7 @@ between students and faculty, and supported departmental initiatives.
 **Department of Communication**  
 *Northern Illinois University*
 
-Contributed graduate student perspectives to curriculum discussions and
-departmental planning.
+Contributed graduate student perspectives to curriculum discussions and departmental planning.
 :::
 
 ::: {.leadership-card}
@@ -103,8 +96,7 @@ departmental planning.
 **Faculty Meetings, Department of Communication**  
 *Northern Illinois University*
 
-Represented graduate student interests and served as a liaison between students
-and faculty.
+Represented graduate student interests and served as a liaison between students and faculty.
 :::
 
 ::: {.leadership-card}
@@ -115,8 +107,7 @@ and faculty.
 **Diversity, Equity, and Inclusion Committee · Public Affairs Committee**  
 *NIU Student Government Association*
 
-Contributed to student-government initiatives focused on inclusion, public
-engagement, and campus affairs.
+Contributed to student-government initiatives focused on inclusion, public engagement, and campus affairs.
 :::
 
 :::
@@ -131,8 +122,7 @@ engagement, and campus affairs.
 ## Peer review and editorial service
 
 <p class="leadership-intro">
-I contribute to the scholarly community by reviewing research across artificial
-intelligence, media, communication, and digital society.
+I contribute to the scholarly community by reviewing research across artificial intelligence, media, communication, and digital society.
 </p>
 
 ::: {.service-columns}
@@ -147,8 +137,7 @@ intelligence, media, communication, and digital society.
 - **Editorial Board Member**, *Carl Advance Multidisciplinary Journal of Social Sciences* (2025)
 - **Reviewer**, *Cognexus*, Wenjibra University Press (2025)
 
-These roles include reviewing manuscripts on AI, media, technology, and digital
-communication and contributing constructive scholarly feedback.
+These roles include reviewing manuscripts on AI, media, technology, and digital communication and contributing constructive scholarly feedback.
 :::
 
 ::: {.service-panel}
@@ -162,8 +151,7 @@ communication and contributing constructive scholarly feedback.
 - **Reviewer**, Klein College Graduate Research Forum (2025)
 - **Convention Volunteer**, NCA 110th Annual Convention (2024)
 
-My conference service includes evaluating submissions, providing scholarly
-feedback, and supporting conference logistics and attendees.
+My conference service includes evaluating submissions, providing scholarly feedback, and supporting conference logistics and attendees.
 :::
 
 :::
@@ -184,8 +172,7 @@ feedback, and supporting conference logistics and attendees.
 
 ### Leadership Coach · Braven
 
-Mentor college students preparing for professional careers, facilitate
-leadership-development workshops, and provide career and professional guidance.
+Mentor college students preparing for professional careers, facilitate leadership-development workshops, and provide career and professional guidance.
 :::
 
 ::: {.community-item}
@@ -193,8 +180,7 @@ leadership-development workshops, and provide career and professional guidance.
 
 ### Judge Advisor · Technovation Girls Global
 
-Supported the evaluation of technology projects created by young women and
-girls addressing challenges in their communities.
+Supported the evaluation of technology projects created by young women and girls addressing challenges in their communities.
 :::
 
 ::: {.community-item}
@@ -202,8 +188,7 @@ girls addressing challenges in their communities.
 
 ### Scholarship Reviewer · Zeribe Nwosu Foundation
 
-Evaluated scholarship applications as part of an initiative supporting
-educational opportunity and student development.
+Evaluated scholarship applications as part of an initiative supporting educational opportunity and student development.
 :::
 
 ::: {.community-item}
@@ -211,8 +196,7 @@ educational opportunity and student development.
 
 ### Outreach Coordinator · Nigerian Red Cross Society
 
-Coordinated outreach, humanitarian engagement, community activities, and public
-awareness initiatives.
+Coordinated outreach, humanitarian engagement, community activities, and public awareness initiatives.
 :::
 
 :::
@@ -228,9 +212,7 @@ awareness initiatives.
 
 ## Leadership grounded in service
 
-My institutional and community contributions have been recognized with the
-**President’s Student Service and Leadership Award** and the **Champagne Award**
-from Northern Illinois University in 2024.
+My institutional and community contributions have been recognized with the **President’s Student Service and Leadership Award** and the **Champagne Award** from Northern Illinois University in 2024.
 </div>
 
 <a class="leadership-cv-button" href="assets/documents/amaka-onebunne-cv.pdf" target="_blank">
