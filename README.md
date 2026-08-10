@@ -104,6 +104,6 @@ This space hosts research code, datasets, computational experiments, analytical 
 
 **[Google Scholar](https://scholar.google.com/citations?user=UtUtPZwAAAAJ)** · **[LinkedIn](https://www.linkedin.com/in/amakapeace/)** · **[GitHub](https://github.com/ahmypeace)** · **[Algo Decode](https://www.youtube.com/@algo_decode)**
 
-For graduate education and HND-related resources, I also share opportunities and guidance through **[Ahamypeace](https://www.youtube.com/@ahamypeace)** and **[HNDScholarsHub](https://x.com/HNDScholarsHub)**.
+For graduate education and HND-related resources, I also share opportunities and guidance through **[Ahmypeace](https://www.youtube.com/@ahmypeace)** and **[HNDScholarsHub](https://x.com/HNDScholarsHub)**.
 
 **Email:** [amaka.onebunne@temple.edu](mailto:amaka.onebunne@temple.edu)
