@@ -22,7 +22,7 @@ title-block-banner: false
 </h1>
 
 <p class="hero-role">
-Computational Sociotechnical Systems Researcher
+Sociotechnical Systems Researcher
 </p>
 
 <p class="hero-affiliation">
@@ -32,7 +32,7 @@ Temple University · Philadelphia, Pennsylvania
 <p class="hero-summary">
 I study the relationships among people, emerging technologies, organizations, institutions, and society, with much of my current work centered on artificial intelligence. I look at how these technologies become part of communication, professional practice, decision-making, and everyday social and organizational life. Questions of human–machine interaction, trust, evaluation, information integrity, knowledge, and sociotechnical systems run across this work, including the growing presence of machines within shared social and information environments.
 
-My work brings together computational social science, experiments, human studies, media, and communication theories. Africa and the Global South are also important sites of my research, especially for understanding how technologies travel and also carry particular visions of the technological future across contexts, whose experiences and assumptions shape them, and how different societies encounter and shape technological change.
+My work brings together computational social science, experiments, human studies, media, and communication theories. Africa and the Global South are also important sites for my research, especially for understanding how technologies travel and also carry particular visions of the technological future across contexts, whose experiences and assumptions shape them, and how different societies encounter and shape technological change.
 
 </p>
 
@@ -317,8 +317,7 @@ Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsr
 </h3>
 
 <p class="work-description">
-A qualitative study of how Nigerian journalists understand, adopt,
-and negotiate artificial intelligence within newsroom practice.
+A qualitative study of how Nigerian journalists understand, adopt, and negotiate artificial intelligence within newsroom practice.
 </p>
 
 </div>
@@ -373,8 +372,7 @@ Updates from my research, conference activities, publications, and writing on ar
 
 ### Recent Updates
 
-Paper acceptances, conference presentations, awards, fellowships,
-research milestones, and other professional updates.
+Paper acceptances, conference presentations, awards, fellowships, research milestones, and other professional updates.
 
 <a class="research-card-link" href="news.html">
 View news
@@ -387,8 +385,7 @@ View news
 
 ### Essays and Commentary
 
-Research explainers, Medium articles, conference reflections,
-and public-facing writing on AI and society.
+Research explainers, Medium articles, conference reflections, and public-facing writing on AI and society.
 
 <a class="research-card-link" href="writing/index.html">
 Read my writing
