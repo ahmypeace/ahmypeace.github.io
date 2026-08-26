@@ -64,7 +64,7 @@ Working ideas, methodological reflections, conference takeaways, datasets, and b
 
 </div>
 
-[Browse Research Notes →](research-notes/index.qmd)
+[Browse Research Notes →](notebook/index.qmd)
 
 :::
 

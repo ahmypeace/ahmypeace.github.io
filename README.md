@@ -4,7 +4,7 @@
 
 Ph.D. Researcher · Computational Social Science · Human–Machine Communication
 
-I am a Ph.D. student at Temple University's Lew Klein College of Media and Communication. I study the relationships among people, emerging technologies, institutions, and knowledge, with artificial intelligence at the center of much of my current work. 
+I am a Ph.D. student at Temple University's Lew Klein College of Media and Communication. I study the relationships among people, emerging technologies, and institutions, with artificial intelligence at the center of much of my current work. 
 
 My research examines human–machine interaction, knowledge systems, algorithmic visibility, information integrity, technological risk and responsibility, and the social and institutional environments developing around increasingly autonomous systems. I use computational, qualitative, and mixed methods across this work.
 
