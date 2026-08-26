@@ -1,6 +1,7 @@
 # Amaka Peace Onebunne
 
 **Technology, Communication & Sociotechnical Systems**
+
 Ph.D. Researcher · Computational Social Science · Human–Machine Communication
 
 I am a Ph.D. student at Temple University's Lew Klein College of Media and Communication. I study the relationships among people, emerging technologies, institutions, and knowledge, with artificial intelligence at the center of much of my current work. 
@@ -26,9 +27,6 @@ Questions of culture and geography also run through my research, particularly ho
 
 ## Current Research
 
-### Human–Machine Knowledge Systems
-
-Studying the production and circulation of machine-generated knowledge, including provenance, authority, recursive information flows, and interactions among people and intelligent systems.
 
 ### Human–AI Evaluation
 
@@ -37,6 +35,10 @@ Developing research on synthetic users, persona-based evaluation, and the use of
 ### Agentic Systems, Failure, and Resilience
 
 Modeling failure propagation across interacting AI agents and studying the system structures that influence cascading failure, recovery, and resilience.
+
+### Human–Machine Knowledge Systems
+
+Studying the production and circulation of machine-generated knowledge, including provenance, authority, recursive information flows, and interactions among people and intelligent systems.
 
 ### Journalism, Synthetic Media, and Information Integrity
 
@@ -88,7 +90,7 @@ A comparative computational study of European and African governance frameworks 
 
 I work across computational, qualitative, and mixed methods, including natural language processing, network analysis, statistical modeling, computational text analysis, experiments, interviews, and discourse analysis.
 
-My computational work is primarily in **Python and R**, with an emphasis on reproducible datasets, analytical workflows, and research infrastructure.
+My computational work is primarily in **Python and R**.
 
 [Read more about my research →](about.qmd)
 
@@ -96,7 +98,7 @@ My computational work is primarily in **Python and R**, with an emphasis on repr
 
 ## This Repository
 
-This space hosts research code, datasets, computational experiments, analytical pipelines, and reproducible workflows from my ongoing projects.
+This space hosts research code, datasets, computational experiments, pipelines, and workflows from my ongoing projects.
 
 ---
 

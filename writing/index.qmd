@@ -102,7 +102,7 @@ Short reflections on current developments in artificial intelligence, technology
 
 ### Why Responsible AI Needs the Global South
 
-Artificial intelligence governance, and truthfully, a huge chunk of technological endeavours is often discussed through the lens of Western technological and regulatory centers. This essay argues that many of today's governance frameworks look past the social, political, and technological realities of the Global South, and that these regions should have a rather active role in shaping the future of responsible AI.
+Artificial intelligence governance, and truthfully, a huge chunk of technological endeavours is usually discussed through the lens of Western technological and regulatory centers. This essay argues that many of today's governance frameworks look past the social, political, and technological realities of the Global South, and that these regions should have a rather active role in shaping the future of responsible AI.
 
 *12 min read · Essay*
 
@@ -125,8 +125,7 @@ With the increasing integration of automated generative systems in the newsroom,
 ::: {.featured-writing}
 
 ### AI Risk Is a Communication Problem
-
-AI risk is often framed as a technical problem, but many failures emerge through communication: what systems tell us, what they leave out, how people interpret their outputs, and whether warnings reach someone who can act.
+More often than not, AI risk is framed as a technical problem, but many failures form around communication, that is, what systems tell us- or not, how people interpret their outputs, and whether, if at all, risk communication reach someone who can act.
 
 *15 min read · Essay*
 
@@ -142,6 +141,6 @@ AI risk is often framed as a technical problem, but many failures emerge through
 
 Research papers answer specific questions, but writing creates space to ask new ones.
 
-Specifically, these essays and notes allow me to think beyond the rigid walls of academic publishing, reflect on work in progress, and engage broader conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.
+Specifically, these essays and notes allow me to think beyond the rigid walls of academic publishing, reflect on work in progress, and engage conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.
 
 :::

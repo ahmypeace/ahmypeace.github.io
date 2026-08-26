@@ -28,20 +28,20 @@ title-block-banner: false
 
 I am a Ph.D. student in the [Lew Klein College of Media and Communication](https://www.temple.edu/academics/degree-programs/media-communication-phd-co-mdcm-phd) at Temple University, where I study emerging technology as part of the social, communicative, and institutional systems through which people produce knowledge, make decisions, coordinate work, and understand the world around them.
 
-My research is broadly sociotechnical and grounded in communication. I am interested in the relationships that form around AI systems-between people and machines, among people whose interactions are increasingly mediated by technology, between workers and organizations, between technical systems and institutional rules, and increasingly, among AI systems participating in the same social and information environments. Much of what I think about comes back to knowledge. Who produces it? What is treated as credible? How is it communicated and contested? The growing role of machines in summarizing, recommending, evaluating, generating, and acting on information raises new questions about authority, judgment, and how knowledge moves. I study how these systems reshape relationships, professional roles, cultural practices, forms of expression, and the ways people understand themselves and others.
+My research is broadly sociotechnical and grounded in communication. I am interested in the relationships that form around AI systems, i.e. between people and machines, among people whose interactions are increasingly mediated by technology, between workers and organizations, between technical systems and institutional rules, and increasingly, among AI systems participating in the same social and information environments. I look at how these systems reshape relationships, professional roles, cultural practices, forms of expression, and the ways people understand themselves and others.
 
-I use computational methods to study these questions at scale, drawing on natural language processing, network science, machine learning, statistical modeling, and computational social science. Computation gives me ways to identify relationships, patterns, structures, and forms of coordination that can be difficult to observe at smaller scales. I also build datasets, analytical pipelines, knowledge graphs, and research infrastructure as part of this work.
+I am especially interested in human-machine communication and the larger sociotechnical systems in which they occur. How people communicate with and through AI, rely on it, question it, work around it, assign responsibility around it, and reorganize their practices in response to it. This includes questions of trust, risk, professional judgment, organizational accountability, and the movement of information across human and technical networks. I am also interested in emerging settings where AI systems communicate, coordinate, and exchange information with one another, becoming participants in shared social and informational environments.
 
-I am especially interested in human-machine relationships and the larger sociotechnical systems in which they take shape. How people communicate with and through AI, rely on it, question it, work around it, assign responsibility around it, and reorganize their practices in response to it. These relationships raise questions about trust, risk, evaluation, professional judgment, organizational decision-making, and the movement of information across human and technical systems. I am also interested in the growing role of AI as a participant within larger social and information environments, including systems where machines increasingly communicate, coordinate, evaluate, and exchange information with one another.
+I use computational methods to investigate these phenomena at scale, including natural language processing, network science, machine learning, statistical modeling, and computational social science. These approaches allow me to identify patterns, structures, and forms of coordination that may be difficult to observe through smaller-scale analysis. I also build datasets, analytical pipelines, knowledge graphs, and other research infrastructure to support this work.
 
-Some of my work examines these questions through journalism, organizations, and knowledge infrastructures. Other projects examine AI systems and governance frameworks across different social and institutional contexts, particularly in Africa and the Global South. Across these projects, I am trying to understand how emerging technologies reorganize relationships among people, institutions, communication, and knowledge, and the kinds of social worlds taking shape around them.
+Some of my work examines these questions through journalism, organizations, and knowledge infrastructures. Other projects examine AI systems and governance frameworks across different social and institutional contexts, particularly in Africa and the Global South. Across these projects, I am trying to understand how emerging technologies reorganize relationships among people, institutions, communication, and contribute to the formation of new social worlds.
 
 
 ## Federal Polytechnic Oko to Graduate Study
 
-My academic journey began at [Federal Polytechnic Oko](https://federalpolyoko.edu.ng/), where I earned a Higher National Diploma in Mass Communication. I was trained in journalism, broadcasting, public communication, and media production. That training also made me curious about the systems behind communication: how information moves, who shapes it, what becomes visible, and how media institutions influence the way people understand the world around them.
+My academic journey began at [Federal Polytechnic Oko](https://federalpolyoko.edu.ng/), where I earned a Higher National Diploma in Mass Communication. I was trained in journalism, broadcasting, public communication, and media production. That training also made me curious about the systems behind communication. In particular, how information moves, who shapes it, what becomes visible, and how media institutions influence the way people understand the world around them.
 
-During my master's degree in Communication Studies at [Northern Illinois University](https://www.niu.edu/comm/), those questions followed me into my interest in artificial intelligence. AI was beginning to find its way into newsroom work, and I wanted to know what journalists were actually doing with it and how its presence was changing the work itself. I became especially interested in AI's growing role in producing, interpreting, and communicating information.
+During my master's degree in Communication Studies at [Northern Illinois University](https://www.niu.edu/comm/), those questions followed me into my interest in artificial intelligence. AI was beginning to find its way into newsroom work, and I wanted to know what journalists were actually doing with it and how its presence was changing the work. I became especially interested in AI's growing role in producing, interpreting, and communicating information.
 
 My master's research was advised by [Dr. Andrea L. Guzman](https://www.niu.edu/comm/contact-us/directory/guzman-andrea.shtml), whose work in Human–Machine Communication gave me a way to think seriously about the changing relationships between people and intelligent machines.
 
@@ -49,7 +49,7 @@ For my thesis, *Journalists’ Perception of Artificial Intelligence: The Case o
 
 I was interested in the changes taking shape around its use. Journalists talked about speed and creative assistance alongside verification, professional judgment, cultural accuracy, newsroom expectations, and systems that sometimes struggled with contexts they are familiar with. AI was entering an existing social and professional environment, where journalists had to decide when to trust it, when to question it, how to work around its limitations, and how much space it should occupy within their professional practice.
 
-That study changed the kinds of questions I wanted to ask about technology. I became increasingly interested in the relationships people, machines, organizations, and institutions form around emerging technologies. Journalism was where I first encountered many of these questions, and they have since grown into a broader interest in human–machine communication, sociotechnical systems, knowledge, trust, and the changing ways information is produced, interpreted, and acted upon.
+That study changed the kinds of questions I subsequently started asking about technology. I became increasingly interested in the relationships people, machines, organizations, and institutions form around emerging technologies. Journalism was where I first encountered many of these questions, and they have since grown into a broader interest in human–machine communication, sociotechnical systems, knowledge, trust, and the changing ways information is produced, interpreted, and acted upon.
 
 Africa is key to how I think about these questions. Many ideas about technological progress, adoption, risk, and responsibility travel in a supposedly universal manner. Studying technology from African contexts gives me a place to examine those assumptions, see how well they hold up - or not, and think about technological futures from contexts that have too often been treated as peripheral to their making.
 
@@ -58,11 +58,7 @@ Africa is key to how I think about these questions. Many ideas about technologic
 
 I am now pursuing my Ph.D. under the guidance of [Dr. Andrew Iliadis](https://andrewiliadis.com/) at Temple University's Lew Klein College of Media and Communication.
 
-My doctoral work expands many of the questions that first brought me to the study of technology and society. I am interested in what happens as emerging technologies, including artificial intelligence, become embedded in the systems through which people communicate, produce knowledge, make decisions, and organize work. I think about these technologies as part of larger sociotechnical systems involving people, organizations, institutions, infrastructures, and machines.
-
-I look at how people decide when to trust or question technologies, how professional judgment and expertise change around automation, how responsibility is distributed across people and technical systems, and what happens to knowledge and authority as machines take on more communicative and decision-making roles.
-
-Some of these questions begin with an interaction between a person and a machine. Others emerge inside organizations, across information networks, or through the institutions and infrastructures that shape how technologies are developed and used. Cultural, political, and geographic contexts are also central to my work, especially when technologies developed within one environment become part of social life somewhere else.
+My doctoral work expands many of the questions that first brought me to the study of technology and society. I am interested in what happens as emerging technologies, including artificial intelligence, become embedded in the systems through which people communicate, produce knowledge, make decisions, and organize work.
 
 Across my projects, I typically ask:
 
@@ -74,17 +70,17 @@ Across my projects, I typically ask:
 * How do technologies carry particular assumptions about people, knowledge, and society into the environments where they are used?
 * What happens when technologies move across cultural, political, and institutional contexts?
 
-I approach these questions in different ways depending on the problem. What connects them is my interest in the changing relationships among people, technology, institutions, and knowledge.
+I approach these questions in different ways depending on the problem. What connects them is my interest in the changing relationships among people, technology, and institutions.
 
 ## Current Research
 
-My research sits across human–machine communication, computational social science, and sociotechnical systems. Artificial intelligence is central to much of my current work, alongside a broader interest in algorithms, automation, synthetic media, and emerging technologies and their place in social and institutional life.
-
-* **Human–machine knowledge systems:** A growing part of my research examines the role of machines in producing, organizing, evaluating, and circulating knowledge. I am currently developing work on the recursive circulation of AI-generated information, particularly how machine-generated material can be retrieved, cited, reproduced, and incorporated into subsequent outputs. I am interested in the implications for evidence, authority, provenance, and the integrity of shared knowledge environments.
+My research sits across human–machine communication, and sociotechnical systems. Artificial intelligence is central to much of my current work, alongside a broader interest in algorithms, automation, synthetic media, and emerging technologies and their place in social and institutional life.
 
 * **Human–machine interaction and evaluation:** I am developing research on the evaluation of intelligent systems and the growing use of AI to approximate human judgment. This includes work with synthetic users and persona-based evaluators to examine variation in how simulated perspectives assess the same system behavior, the stability of those judgments, and the validity of using machines to represent human experiences in evaluation.
 
 * **Agentic systems, failure, and resilience:** I am working on a computational study of failure propagation in multi-agent AI systems. The project models interactions and dependencies among agents to examine how local failures develop into system-level problems, which structures make cascading failures more likely, and which forms of redundancy and coordination improve resilience and recovery.
+  
+* **Human–machine knowledge systems:** A growing part of my research examines the role of machines in producing, organizing, evaluating, and circulating knowledge. I am currently developing work on the recursive circulation of AI-generated information, particularly how machine-generated material can be retrieved, cited, reproduced, and incorporated into subsequent outputs. I am interested in the implications for source, authority, provenance, and the integrity of shared knowledge environments.
 
 * **Technology, journalism, and information integrity:** My published research has examined journalists' experiences with AI in Nigerian newsrooms, including its implications for professional practice, cultural context, and the changing relationship between journalists and intelligent technologies. I am continuing this line of research through an ongoing study of deepfakes and synthetic media in African news coverage across six countries, with attention to media framing, verification, public trust, and the actors shaping these conversations.
 
@@ -97,16 +93,13 @@ My research sits across human–machine communication, computational social scie
 * **Responsible AI and organizational accountability:** My ongoing work examines how technology companies define and communicate responsible AI. I study the language organizations use to make commitments, assign responsibility, describe governance processes, and establish expectations around safety, evaluation, transparency, and accountability. This work also considers the strength of those commitments and the extent to which responsibility is placed on organizations, technical systems, users, or governance processes.
 
 
-These projects reflect my broader interest in the relationships among technology, people, institutions, and knowledge. They span different stages of development, from published research to ongoing empirical studies and newer projects that I am currently building. Across them, I am interested in how emerging technologies reorganize communication, authority, professional practice, knowledge, and responsibility across social and technical systems.
-
+These projects mirror my far-reaching interest in the relationships among technology, people, and institutions. They span different stages of development, from published research to ongoing empirical studies and newer projects that I am currently building. 
 
 ## Methods & Research Practice
 
-My research combines computational, qualitative, and mixed methods, depending on the questions I am asking. I work with large-scale text and network data using natural language processing, statistical modeling, text analysis, network analysis, computational experiments, and AI evaluation.
+My research combines computational, qualitative, and mixed methods, depending on the questions I am asking. I work with text and network analysis, statistical modeling, computational experiments, AI evaluation, interviews, and discourse analysis.
 
-I primarily work in Python and R, using tools such as pandas, spaCy, scikit-learn, quanteda, Jupyter, Git, and GitHub. I also have experience with interviews, thematic analysis, discourse analysis, and human studies.
-
-I care about reproducible research and often build the datasets, code, analytical workflows, and research infrastructure my projects require. I am especially interested in methods that allow me to move between large-scale computational patterns and the social and institutional contexts that give those patterns meaning.
+I primarily work in Python and R to build the datasets, code, and workflows my projects require, using tools such as pandas, spaCy, scikit-learn, quanteda, Jupyter, Git, and GitHub. I also have experience with interviews, thematic analysis, discourse analysis, and human studies.
 
 
 ## Beyond Research
@@ -121,9 +114,7 @@ Having worked across these spaces also keeps me interested in the distance betwe
 
 I want to build a research career around understanding the changing relationships among people, technology, organizations, and knowledge. Artificial intelligence is a major part of that work today, alongside my general interest in emerging technologies and the social systems that develop around them.
 
-I am particularly interested in human–machine interaction, knowledge systems, computational social science, AI evaluation, information integrity, and sociotechnical approaches to technology. I want to continue working across computational research, experiments, human studies, and theory, choosing methods that fit the questions I am trying to answer.
-
-Ultimately, I want my work to contribute to how we understand, evaluate, and live with increasingly intelligent technologies, especially as the boundaries between human and machine communication, knowledge, judgment, and action become harder to draw.
+I want my work to contribute to how we understand, evaluate, and live with increasingly intelligent technologies, especially as the boundaries between human and machine communication, knowledge, judgment, and action become harder to draw.
 
 :::
 
@@ -228,10 +219,10 @@ Journalism, media sociology, influences on media content, and content analysis.
 
 <span class="experience-period">2026–Present</span>
 
-**Duckworth Scholars Studio Extern**  
+**Teaching Assistant**  
 <em>Temple University</em>
 
-Conducting interdisciplinary computational media research through the Loretta C. Duckworth Scholars Studio while collaborating on digital scholarship and computational communication projects.
+Supporting undergraduate instruction, grading assignments, and assisting students in media and communication courses.
 
 </div>
 
@@ -325,11 +316,9 @@ Having navigated graduate education with an HND myself, I know how very difficul
 
 I founded [HNDScholarsHub](https://x.com/HNDScholarsHub), a nonprofit and peer-support initiative that helps HND holders find graduate programs, scholarships, application resources, and practical guidance. I also share graduate admissions guidance, opportunities, and lessons from my own journey through [Ahmypeace](https://www.youtube.com/@ahmypeace) on YouTube.
 
-I also founded *Back to School with Amy*, an initiative that provides school supplies and educational resources to children and families.
+I also founded *Back to School with Amy*, an initiative that provides school supplies and educational resources to children and families in Nigeria.
 
 Beyond education access, I create videos on AI, research, and emerging technologies through [Algo Decode](https://www.youtube.com/@algo_decode). The channel is another space where I share what I am learning and thinking about technology with people outside academic research.
-
-Across these projects, I care about making knowledge and educational opportunities easier to reach and helping others find paths that may not always be made obvious to them.
 
 ## Academic & Professional Service
 
