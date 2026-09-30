@@ -1,6 +1,94 @@
 /* AMAKA PEACE ONEBUNNE
    Academic portfolio */
 
+/* Blog: post archive, readable posts, and related articles. */
+body.blog-post #quarto-document-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4rem) max(1.25rem, env(safe-area-inset-left));
+}
+body.blog-post .quarto-title-block {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+body.blog-post .quarto-title h1 {
+  font-family: var(--serif);
+  font-size: clamp(2.1rem, 5vw, 3.6rem);
+  line-height: 1.12;
+  letter-spacing: -.035em;
+  color: var(--ink);
+}
+body.blog-post .quarto-title .description {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  margin-top: 1.3rem;
+}
+body.blog-post .quarto-title-meta {
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+.blog-back-link {
+  display: inline-block;
+  font-size: .9rem;
+  font-weight: 600;
+  margin-bottom: .75rem;
+}
+body.blog-post main.content > section:not(.blog-related) {
+  max-width: 720px;
+  margin: 0 auto;
+}
+body.blog-post main.content > section > h2 {
+  margin-top: 2.75rem;
+  font-family: var(--serif);
+  line-height: 1.3;
+  border: 0;
+}
+.blog-related {
+  border-top: 1px solid var(--border);
+  margin-top: 4rem;
+  padding-top: 2rem;
+}
+.blog-related h2,
+.blog-content > section > h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.9rem, 3vw, 2.7rem);
+  font-weight: 720;
+  letter-spacing: -.035em;
+  line-height: 1.2;
+  color: var(--ink);
+  border: 0;
+}
+.blog-content > section > h2 {
+  margin: 0 0 1.8rem;
+  padding: 0;
+}
+.blog-content > section + section {
+  margin-top: clamp(3.5rem, 7vw, 6rem);
+}
+.blog-content .quarto-listing {
+  padding-bottom: 0;
+}
+.blog-index .quarto-grid-item .card-body,
+.blog-post .quarto-grid-item .card-body {
+  padding: 0;
+}
+.blog-index .listing-description, .blog-post .listing-description {
+  line-height: 1.65;
+}
+.blog-index a:focus-visible, .blog-post a:focus-visible {
+  outline: 3px solid var(--temple-crimson);
+  outline-offset: 4px;
+}
+@media (max-width: 767px) {
+  .blog-index .quarto-listing .grid,
+  .blog-post .quarto-listing .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  body.blog-post #title-block-header .quarto-title-meta {
+    grid-template-columns: 1fr;
+  }
+}
+
 /*  Theme variables  */
 
 :root {
@@ -2693,7 +2781,9 @@ button:focus-visible,
   gap: 1.5rem;
 }
 
-.essay-archive-card {
+.essay-archive-card,
+.blog-index .quarto-grid-item,
+.blog-post .quarto-grid-item {
   display: flex;
   min-width: 0;
   flex-direction: column;
@@ -2711,7 +2801,9 @@ button:focus-visible,
   box-shadow: 0 22px 48px rgba(35, 31, 32, 0.08);
 }
 
-.essay-card-date {
+.essay-card-date,
+.blog-index .listing-date,
+.blog-post .listing-date {
   margin: 0 0 1.1rem;
   color: var(--temple-crimson);
   font-size: 0.74rem;
@@ -2720,7 +2812,9 @@ button:focus-visible,
   text-transform: uppercase;
 }
 
-.essay-archive-card h3 {
+.essay-archive-card h3,
+.blog-index .quarto-grid-item .card-title,
+.blog-post .quarto-grid-item .card-title {
   margin: 0 0 0.9rem;
   color: var(--ink);
   font-family: var(--serif);
@@ -2733,6 +2827,14 @@ button:focus-visible,
 .essay-archive-card > p:not(.essay-card-date) {
   color: var(--muted);
   line-height: 1.7;
+}
+
+/* Three-column blog cards use the same typography at a smaller scale. */
+.blog-index .quarto-grid-item .card-title {
+  font-size: clamp(1.4rem, 2vw, 1.65rem);
+  line-height: 1.2;
+  overflow-wrap: normal;
+  word-break: normal;
 }
 
 .essay-tag-row {
@@ -3005,7 +3107,8 @@ button:focus-visible,
    Service & Leadership
 =========================== */
 
-.leadership-hero {
+.leadership-hero,
+.blog-hero {
   padding: clamp(4rem, 9vw, 8rem) 0 clamp(3.5rem, 7vw, 6rem);
   background:
     radial-gradient(circle at 85% 20%, rgba(164, 30, 53, 0.11), transparent 28rem),
@@ -3023,7 +3126,8 @@ button:focus-visible,
   text-transform: uppercase;
 }
 
-.leadership-hero h1 {
+.leadership-hero h1,
+.blog-hero h1 {
   max-width: 950px;
   margin: 0 0 1.6rem;
   color: var(--ink);
@@ -3034,7 +3138,8 @@ button:focus-visible,
   letter-spacing: -0.055em;
 }
 
-.leadership-hero > .site-container > p:not(.leadership-kicker) {
+.leadership-hero > .site-container > p:not(.leadership-kicker),
+.blog-hero > .site-container > p {
   max-width: 770px;
   color: var(--muted);
   font-size: clamp(1.02rem, 1.6vw, 1.2rem);

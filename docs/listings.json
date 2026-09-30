@@ -1,0 +1,49 @@
+[
+  {
+    "listing": "/blog/essays/why-responsible-ai-needs-the-global-south.html",
+    "items": [
+      "/blog/commentary/were-building-it-do-we-know-why.html",
+      "/blog/essays/journalism-after-generative-ai.html",
+      "/blog/essays/ai-risk-is-a-communication-problem.html"
+    ]
+  },
+  {
+    "listing": "/blog/commentary/were-building-it-do-we-know-why.html",
+    "items": [
+      "/blog/essays/why-responsible-ai-needs-the-global-south.html",
+      "/blog/essays/journalism-after-generative-ai.html",
+      "/blog/essays/ai-risk-is-a-communication-problem.html"
+    ]
+  },
+  {
+    "listing": "/blog/commentary/index.html",
+    "items": [
+      "/blog/commentary/were-building-it-do-we-know-why.html"
+    ]
+  },
+  {
+    "listing": "/blog/essays/ai-risk-is-a-communication-problem.html",
+    "items": [
+      "/blog/commentary/were-building-it-do-we-know-why.html",
+      "/blog/essays/why-responsible-ai-needs-the-global-south.html",
+      "/blog/essays/journalism-after-generative-ai.html"
+    ]
+  },
+  {
+    "listing": "/blog/essays/journalism-after-generative-ai.html",
+    "items": [
+      "/blog/commentary/were-building-it-do-we-know-why.html",
+      "/blog/essays/why-responsible-ai-needs-the-global-south.html",
+      "/blog/essays/ai-risk-is-a-communication-problem.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/commentary/were-building-it-do-we-know-why.html",
+      "/blog/essays/why-responsible-ai-needs-the-global-south.html",
+      "/blog/essays/journalism-after-generative-ai.html",
+      "/blog/essays/ai-risk-is-a-communication-problem.html"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+---
+title: "Blog"
+page-layout: full
+toc: false
+body-classes: blog-index
+listing:
+  id: blog-posts
+  contents: "**/*.qmd"
+  include:
+    blog-post: true
+  type: grid
+  sort: "date desc"
+  fields: [title, description, date, reading-time]
+  date-format: long
+  grid-columns: 3
+  sort-ui: false
+  filter-ui: false
+---
+
+:::: {.blog-hero}
+::: {.site-container}
+
+# Blog
+
+Ideas take long to hatch before coming to fruition and probably become journal articles. This collection brings together essays, research notes, and commentary on artificial intelligence, communication, journalism, governance, and society. Some pieces expand on published research, while others explore questions as they coagulate in my head in response to exposure to literature.
+
+:::
+::::
+
+::::: {.essay-index-section}
+:::: {.site-container .blog-content}
+
+## Latest Posts
+
+::: {#blog-posts}
+:::
+
+## Explore
+
+::: {.writing-grid}
+
+::: {.writing-category}
+
+### Essays
+
+Long-form pieces that develop original arguments, synthesize research, and examine the broader implications of technology and society.
+
+<div class="writing-tags">
+
+<span class="writing-tag">AI Governance</span>
+
+<span class="writing-tag">Journalism</span>
+
+<span class="writing-tag">Trust & Safety</span>
+
+<span class="writing-tag">Global South</span>
+
+<span class="writing-tag">Human–Machine Communication</span>
+
+<span class="writing-tag">Platform Governance</span>
+
+</div>
+
+[Browse Essays →](essays/index.qmd)
+
+:::
+
+::: {.writing-category}
+
+### Research Notes
+
+Working ideas, methodological reflections, conference takeaways, datasets, and behind-the-scenes insights from ongoing research projects.
+
+<div class="writing-tags">
+
+<span class="writing-tag">Computational Methods</span>
+
+<span class="writing-tag">Natural Language Processing</span>
+
+<span class="writing-tag">Datasets</span>
+
+<span class="writing-tag">Methodological Notes</span>
+
+<span class="writing-tag">Conference Notes</span>
+
+<span class="writing-tag">Reading Notes</span>
+
+</div>
+
+[Browse Research Notes →](/blog/notebook/)
+
+:::
+
+::: {.writing-category}
+
+### Commentary
+
+Short reflections on current developments in artificial intelligence, technology policy, digital media, and emerging technologies.
+
+<div class="writing-tags">
+
+<span class="writing-tag">AI News</span>
+
+<span class="writing-tag">Technology Policy</span>
+
+<span class="writing-tag">Emerging Technologies</span>
+
+<span class="writing-tag">Research Reactions</span>
+
+<span class="writing-tag">Academic Life</span>
+
+</div>
+
+[Browse Commentary →](commentary/index.qmd)
+
+:::
+
+:::
+
+---
+
+## Why I Write
+
+::: {.writing-purpose} 
+
+Research papers answer specific questions, but writing creates space to ask new ones.
+
+Specifically, these essays and notes allow me to think beyond the rigid walls of academic publishing, reflect on work in progress, and engage conversations around artificial intelligence, communication, and society. While some ideas eventually become conference papers or journal articles, others remain exploratory by design.
+
+:::
+::::
+:::::

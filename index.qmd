@@ -383,14 +383,14 @@ View news
 
 
 ::: {.research-card}
-<span class="research-number">Writing</span>
+<span class="research-number">Blog</span>
 
 ### Essays and Commentary
 
 Research explainers, Medium articles, conference reflections, and public-facing writing on AI and society.
 
-<a class="research-card-link" href="writing/index.html">
-Read my writing
+<a class="research-card-link" href="blog/index.html">
+Read the blog
 </a>
 :::
 

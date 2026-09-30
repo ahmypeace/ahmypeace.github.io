@@ -15,7 +15,7 @@ title-block-banner: false
 Articles, chapters, and research contributions are being organized into a proper scholarly wardrobe. Everything will be citation-ready soon.
 
 ::: {.coming-soon-actions}
-[Read my essays](writing/index.qmd){.coming-soon-button .coming-soon-button-primary}
+[Read my essays](blog/index.qmd){.coming-soon-button .coming-soon-button-primary}
 [About me](about.qmd){.coming-soon-button}
 :::
 :::

@@ -30,8 +30,8 @@ website:
       - text: "Publications"
         href: publications.qmd
 
-      - text: "Writing"
-        href: writing/
+      - text: "Blog"
+        href: blog/
 
       - text: "News"
         href: news.qmd

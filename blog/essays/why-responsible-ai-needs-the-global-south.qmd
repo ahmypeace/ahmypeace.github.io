@@ -1,0 +1,154 @@
+---
+title: "Responsible AI Is Not Universal"
+description: "Thinking about what is lost when AI governance travels, and why the Global South should help determine what responsible AI becomes."
+date: "2026-08-07"
+categories:
+  - Artificial Intelligence
+  - AI Governance
+  - Global South
+  - Sociotechnical Systems
+blog-post: true
+body-classes: blog-post
+author: "Amaka Peace Onebunne"
+date-format: long
+listing:
+  id: related-posts
+  contents: "../**/*.qmd"
+  include:
+    blog-post: true
+  exclude:
+    title: "Responsible AI Is Not Universal"
+  type: grid
+  sort: "date desc"
+  max-items: 2
+  grid-columns: 2
+  fields: [title, description, date]
+  date-format: long
+  max-description-length: 140
+  sort-ui: false
+  filter-ui: false
+---
+
+[Back to Blog](../index.qmd){.blog-back-link}
+
+## I keep coming back to the word "responsible"
+
+When we say or call for use of artificial intelligence in a *responsible* way, what exactly do we mean?.
+
+It is one of those words that has become almost impossible to escape when lost in the labyrinths of technical discourse. Responsible AI. Trustworthy AI. Ethical AI. Human-centered AI. We have developed principles around fairness, transparency, accountability, privacy, safety, and human oversight. Governments are writing strategies around them. Companies are building governance programs around them. Researchers are developing increasingly sophisticated ways of evaluating whether AI systems meet them.
+
+All of this work are important. But the more I read about it, the more I keep asking: **responsible according to whom, and responsible under what conditions?**
+
+
+Artificial intelligence governance, and truthfully, a huge chunk of technological endeavours is often discussed through the lens of Western technological and regulatory centers. This essay front-lines the argument that many of today's governance frameworks look past the social, political, and technological realities of the Global South, and that these regions should have a rather active role in shaping the future of responsible AI.
+
+To be clear, I do not mean that there should be one form of responsible AI for Europe, another for Africa, and another for Latin America. Because, human rights do not become negotiable all of a sudden when we cross a border. So, neither should concerns about discrimination, exploitation, safety, or accountability.
+
+What I am questioning is the assumption that we can decide what responsible AI looks like in a small number of powerful technological and regulatory centers and then export that understanding elsewhere. That is a very different proposition.
+
+## Governance always comes from somewhere
+
+No governance framework appears from nowhere. They come mostly from particular institutions, histories, political systems, technological capabilities, economic priorities, and understandings of risk. Even the problems that are eventually *problematic enough* to warrant our *beloved* governable attention are shaped by these conditions.
+
+Think about some of the frameworks that now structure global conversations about AI.
+
+The [UNESCO Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) was adopted in 2021 and remains one of the most ambitious attempts to articulate a genuinely global approach to AI ethics. It centers human rights and dignity and identifies principles including fairness, transparency, human oversight, environmental sustainability, diversity, and inclusion. Importantly, it also goes beyond abstract principles to recommend action in areas like data governance, education, health, gender, culture, and international cooperation.
+
+This recognizes something that can very well easily disappear in technical conversations about AI. Because these systems enter societies, they interact with institutions that already exist, inequalities that already exist, languages that already exist, and histories that certainly did not begin with artificial intelligence. Still, international agreement on principles does not cancel out differences in the conditions under which those principles have to become material.
+
+Technical transparency means little when the institutions expected to demand it lack the technical capacity to. Privacy protections mean something different where large portions of the population are only beginning to enter formal digital infrastructures (think of the challenges in sub-Saharan Africa). Human oversight assumes not just the presence of a human being, but people with the authority, knowledge, resources, and institutional support to intervene. This is where and why I think our conversations about responsible AI sometimes become too neat, ignoring conditions requires to activate them. All I am saying is that these principles travel much more easily than the conditions required to implement them.
+
+## The Global South is not an empty space waiting for governance
+
+There is yet another assumption that bothers me. Discussions about AI governance in the Global South sometimes make these regions sound like places waiting for governance to arrive. The language gives it away. *capacity building*, *technology transfer*, *regulatory readiness*, *adoption*, *catching up*.
+
+Some of these are legitimate concerns because infrastructure are truly needed, technical capacity is required, investment is necessary. But the framing of these concepts tend to establish a hierarchy in which some parts of the world produce technology, standards, and knowledge while others receive them.
+
+Shakir Mohamed, Marie-Therese Png, and William Isaac challenged this relationship directly in their 2020 paper, ["Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence"](https://arxiv.org/abs/2007.04068). Their argument provides impetus for us to examine how histories of power continue to shape which knowledge matter more, who participates in technological development, and who bears its consequences. They propose, among other things, critical technical practice and what they call "reverse tutelage": creating conditions in which communities usually positioned as recipients of technological knowledge become sources from whom technologists must learn. 
+
+Importantly, this allows us to move beyond asking *How do we bring responsible AI to the Global South?* to asking *What could the rest of the world learn about responsible AI from the Global South?*
+
+## Technology travels. Context does not travel with it.
+
+AI systems can cross borders almost instantly, but the social worlds into which they arrive do not. A model developed primarily using English-language data can be deployed in a country containing hundreds of languages. So is an automated decision system developed within one administrative tradition which then enter another where documentation, institutional capacity, or relationships between citizens and the state are fundamentally different. A governance framework built around individual privacy can encounter communities where understandings of data, identity, responsibility, and social harm are not exclusively individual.
+
+These are not peripheral implementation problems, for they affect whether a system can be considered responsible ab initio. The work of [Masakhane](https://arxiv.org/abs/2003.11529) offers a concrete example from African natural language processing. The researchers began from an obvious but consequential imbalance, that Africa contains more than 2,000 languages, yet African languages have historically accounted for only a small fraction of NLP resources and research. Instead of waiting for better representation to emerge from the dominant centers of machine learning, Masakhane built a distributed, continent-wide research community around African machine translation.
+
+There is something larger than machine translation here. Masakhane shows what changes when people closest to a technological problem are not just consulted after systems have been designed but participate in defining the problem, building the infrastructure, producing the knowledge, and determining what progress should look like. That, to me, is also a governance question.
+
+## Data has a geography too
+
+The same problem becomes even more complicated when we think about data. AI systems do not just use data. They depend on enormous infrastructures for collecting, classifying, storing, transferring, and monetizing it. Nick Couldry and Ulises Mejias describe this broader process as **data colonialism** in *[The Costs of Connection](https://www.degruyter.com/document/doi/10.1515/9781503609754/html)*. Their argument connects contemporary data extraction to much older histories of appropriation. The resource being captured has changed, but questions about who extracts value, who controls infrastructure, and who gets to determine the terms of participation are ultimately the same.
+
+Thinking about AI globally. Where are the data coming from? Where are they processed? Where are the models trained? Where are the profits captured? Where are the harms experienced? Who owns the infrastructure? Whose languages are training data? Whose creative work are training material? Where are data centers located? Who receives the economic value produced from these resources? And when something goes wrong, which institutions actually have enough power to demand an answer?
+
+Responsible AI cannot only concern what a model does at the moment someone interacts with it. Responsibility also has to extend backward into the infrastructures and relationships that made the model possible. Otherwise, there is a risk of governing the visible system while leaving the political economy underneath it largely untouched.
+
+## Africa is already writing its own AI future
+
+This is also why I think it is becoming inaccurate to describe African countries just as recipients of global AI governance. In 2024, the African Union endorsed its [Continental Artificial Intelligence Strategy](https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy). The strategy explicitly describes its approach as Africa-centric and development-focused, connecting AI to Agenda 2063 and priorities including education, healthcare, agriculture, innovation, employment, cultural preservation, infrastructure, and economic development.
+
+This is significant given that the ordering of priorities is not identical to what is obtained in every Western AI policy conversation. And why should it be? A society thinking about frontier-model catastrophic risk, another thinking about automating an already highly digitized labor market, and another thinking about whether AI could expand access to healthcare in areas with severe physician shortages are all discussing AI risk. But they are not necessarily discussing the same configuration of risks.
+
+Development too can be an AI governance concern. So can linguistic inclusion, technological dependency, access to compute, the concentration of AI infrastructure outside the continent, the ability of local researchers to build rather than perpetually consume.
+
+The challenge is not to replace safety with development or rights with innovation. It is to resist the idea that the hierarchy of AI problems established elsewhere must automatically become the hierarchy of AI problems everywhere.
+
+## I am also uncomfortable with the word "localization"
+
+Even *localization*, a word I have used myself, steadily seem to be insufficient.
+
+Localization can imply that the important intellectual work has already happened. Meaning that someone develops the framework, and someone else adapts it. Or probably change a few provisions, add local examples, translate the document, consult some stakeholders, and now it is localized.
+
+But what if the starting assumptions need to change? The [Decolonial AI Manyfesto](https://manyfesto.ai/) pushes this question further by challenging both the actors who has the power to define, build, and govern AI, as well as the language through which AI is imagined. It asks us to recognize artificial intelligence as more than a technical object, to look at it as a knowledge system, a collection of narratives and relationships, and an imaginary about what kinds of futures are possible.
+
+The significance of this is that governance does not restrict technology, it tells us what technology is *for*. It makes provisions about what should be optimized, which harms deserve intervention, which benefits justify risk, whose knowledge counts as source, and which futures are worth investing in. These are first political and social questions before they are technical ones. 
+
+## Representation is not the same as power
+
+Of course, the obvious response is that global AI governance is becoming more inclusive. And it is. Do not get me wrong. In fact, there are more conversations about the Global South. More international organizations are emphasizing geographic representation. African governments are developing national AI strategies. Researchers from historically underrepresented regions are increasingly visible in global AI debates. This is progress.
+
+But I think we need to differentiate between **being represented in a conversation and having the power to structure the conversation**. This is like inviting someone to a meeting after the agenda has already been written, or like making a decision and then asking for feedback on it. It is not the same as having the power to set the agenda, define the problems, and determine what the appropriate solution should be. That is what adding researchers from the Global South to a governance initiative whose fundamental assumptions about risk, development, infrastructure, and responsibility have already been decided does.
+
+
+While all of those things technically are forms of participation, but they do not necessarily redistribute power. Therefore, the question of responsible AI cannot end with representation. It has to include agenda-setting. Setting agendas that allow these regions to define what responsible AI means in their own contexts. To ask questions like: Who gets to decide what the important AI problems are? Who defines the categories through which those problems are measured? Who writes the standards? Who owns the infrastructure needed to comply with those standards? Who can afford compliance? And who is described as irresponsible when they cannot?
+
+These questions become particularly important as governance frameworks steadily move from voluntary principles toward standards, audits, evaluations, and legal requirements.
+
+## Maybe universality should be the destination, not the starting point
+
+I am not arguing against global AI governance, quite the opposite. Artificial intelligence is too interconnected for purely national approaches to be sufficient. Models, data, companies, workers, and harms cross borders. There are good reasons to develop shared standards around human rights, safety, accountability, and dignity. But perhaps we have the process backward. Instead of beginning with a supposedly universal understanding of responsible AI and asking how the rest of the world can implement it, we might begin with different social realities and ask what principles can survive serious conversation among them.
+
+Universality, then, would not mean that one framework successfully traveled everywhere. It would mean that something genuinely shared was produced through negotiation among different ways of understanding technology and society. That, I believe, is harder. It is also slower and more likely to produce disagreements. But, maybe, responsible AI should be difficult.
+
+
+## The Global South should not only be governed
+
+The future of artificial intelligence will not belong exclusively to the countries currently building the largest models. AI systems will enter classrooms in Onitsha, hospitals in Nairobi, government offices in Delhi, farms in Brazil, newsrooms in Johannesburg, financial systems in Accra, and homes everywhere in between. People in these places will encounter possibilities that were not anticipated in Silicon Valley or Brussels. They will also encounter failures that existing evaluation frameworks may never have been designed to detect. So their experiences should not become case studies that we collect after deployment. They should become knowledge from which AI is governed ab initio.
+
+So, a somewhat controversial stance in this piece is that the Global South does not need to reject ideas developed elsewhere just because they were developed elsewhere, nor should every difference be romanticized as local knowledge. Some principles deserve to travel, but they should not travel unexamined. They should be interrogated, tested, and adapted to the conditions in which they are deployed.
+
+If responsible AI is actually going to mean something globally, then the regions in which AI is deployed must have the power to question its assumptions, redefine its risks, contribute their own knowledge, and shape the institutions that govern it.
+
+The Global South should not just be where the future of AI arrives. It should be one of the places from which that future is imagined.
+
+## Further reading
+
+* Mohamed, S., Png, M.-T., & Isaac, W. (2020). [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/abs/2007.04068).
+* Couldry, N., & Mejias, U. A. (2019). [*The Costs of Connection: How Data Is Colonizing Human Life and Appropriating It for Capitalism*](https://www.degruyter.com/document/doi/10.1515/9781503609754/html).
+* Orife, I., et al. (2020). [Masakhane: Machine Translation for Africa](https://arxiv.org/abs/2003.11529).
+* UNESCO. (2021). [Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics).
+* African Union. (2024). [Continental Artificial Intelligence Strategy](https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy).
+* [AI Decolonial Manyfesto](https://manyfesto.ai/).
+
+
+::: {.blog-related}
+
+## You may be interested in {.unnumbered}
+
+::: {#related-posts}
+:::
+
+[View all posts](../index.qmd){.blog-back-link}
+
+:::

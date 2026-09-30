@@ -1,0 +1,41 @@
+---
+title: "Commentary"
+page-layout: full
+toc: false
+body-classes: blog-index
+listing:
+  id: commentary-posts
+  contents: "*.qmd"
+  include:
+    blog-post: true
+  type: grid
+  sort: "date desc"
+  fields: [title, description, date, reading-time]
+  date-format: long
+  grid-columns: 2
+  sort-ui: false
+  filter-ui: false
+---
+
+:::: {.blog-hero}
+::: {.site-container}
+
+# Commentary
+
+Reflections on artificial intelligence, technology policy, media, and society.
+
+:::
+::::
+
+::::: {.essay-index-section}
+:::: {.site-container .blog-content}
+
+## Latest Commentary
+
+::: {#commentary-posts}
+:::
+
+[Explore the Blog](../index.qmd){.blog-back-link}
+
+::::
+:::::
