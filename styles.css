@@ -3837,6 +3837,46 @@ body:has(.writing-hero) main.content > hr {
   }
 }
 
+.article-share {
+  margin: 2.5rem 0;
+  padding: clamp(1.25rem, 4vw, 2rem);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--temple-crimson);
+  border-radius: 12px;
+  background: var(--temple-crimson-soft);
+}
+
+.article-share h2 { margin: 0 0 .65rem; font-size: 1.5rem; }
+.article-share p { color: var(--ink-soft); }
+.article-share-actions { display: flex; flex-wrap: wrap; gap: .65rem; }
+.article-share-actions a,
+.article-share-actions button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: .5rem .95rem;
+  border: 1px solid var(--temple-crimson);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--temple-crimson-dark);
+  font: 600 .9rem var(--sans);
+  text-decoration: none;
+  cursor: pointer;
+}
+.article-share-actions a:hover,
+.article-share-actions button:hover {
+  background: var(--temple-crimson);
+  color: #fff;
+}
+.article-share-actions :focus-visible {
+  outline: 3px solid var(--temple-crimson);
+  outline-offset: 3px;
+}
+.article-share-status:empty { display: none; }
+.article-share .article-share-status { margin: 1rem 0 0; font-size: .9rem; }
+.article-share-copy-field { width: 100%; margin-top: .75rem; padding: .6rem; }
+
 /* Reduced motion */
 
 @media (prefers-reduced-motion: reduce) {

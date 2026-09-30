@@ -8,6 +8,8 @@ website:
   description: "Amaka Peace Onebunne is a researcher studying artificial intelligence, communication, trust, governance, and sociotechnical systems."
 
   favicon: assets/images/favicon.png
+  image: /assets/images/amaka-headshot.jpg
+  image-alt: "Portrait of Amaka Peace Onebunne"
 
   navbar:
     pinned: true
@@ -31,7 +33,13 @@ website:
         href: publications.qmd
 
       - text: "Blog"
-        href: blog/
+        menu:
+          - text: "Commentary"
+            href: blog/commentary/index.qmd
+          - text: "Essays"
+            href: blog/essays/index.qmd
+          - text: "Notebook"
+            href: blog/notebook/index.qmd
 
       - text: "News"
         href: news.qmd
@@ -103,6 +111,8 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   open-graph: true
+  twitter-card:
+    card-style: summary_large_image
 
   repo-url: "https://github.com/ahmypeace/ahmypeace.github.io"
   repo-actions:
@@ -121,6 +131,7 @@ format:
 
     include-after-body:
       - assets/includes/reveal.html
+      - assets/includes/sharing.html
 
     toc: false
     page-layout: full

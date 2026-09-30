@@ -142,7 +142,14 @@ window.Quarto = {
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="We’re building it. Do we know why? – Amaka Peace Onebunne">
 <meta property="og:description" content="The White House just signed a pledge on superintelligence. Nobody in the room could say what it is, or what we want it to do.">
+<meta property="og:image" content="https://ahmypeace.github.io/assets/images/amaka-headshot.jpg">
 <meta property="og:site_name" content="Amaka Peace Onebunne">
+<meta property="og:image:alt" content="Portrait of Amaka Peace Onebunne">
+<meta name="twitter:title" content="We’re building it. Do we know why? – Amaka Peace Onebunne">
+<meta name="twitter:description" content="The White House just signed a pledge on superintelligence. Nobody in the room could say what it is, or what we want it to do.">
+<meta name="twitter:image" content="https://ahmypeace.github.io/assets/images/amaka-headshot.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Portrait of Amaka Peace Onebunne">
 </head>
 
 <body class="nav-fixed blog-post quarto-light">
@@ -184,10 +191,25 @@ window.Quarto = {
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../blog/"> 
-<span class="menu-text">Blog</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-blog" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Blog</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-blog">    
+        <li>
+    <a class="dropdown-item" href="../../blog/commentary/index.html">
+ <span class="dropdown-text">Commentary</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../blog/essays/index.html">
+ <span class="dropdown-text">Essays</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../blog/notebook/index.html">
+ <span class="dropdown-text">Notebook</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News</span></a>
@@ -287,7 +309,7 @@ window.Quarto = {
 
 <p><a href="../../blog/commentary/index.html" class="blog-back-link">Back to Commentary</a></p>
 <p>Today, some of the most powerful people in technology sat down for lunch at the White House and signed a pledge. Trump called it <a href="https://thehill.com/homenews/administration/6118906-tech-ceos-sign-white-house-ai-accord/">“morally binding,”</a> almost like a constitution. The White House billed the event as a <a href="https://finance.yahoo.com/technology/article/trump-gathers-with-ai-leaders-floats-self-regulation-as-the-way-to-deal-with-the-technologys-dangers-193745293.html">meeting and luncheon on Super Intelligence</a>, and Trump said the technology has now been officially renamed SI.</p>
-<p>The renaming got my attention first. I wasn’t exactly why that took national priority at a time of heightened international tensions. But perhaps that was exactly the point. To lead, to be first, or to dominate the international race for technological supremacy. Naming it was itself a way of claiming the lead, even before anyone had clearly explained what we were racing toward or why it was worth getting there. I. J. Good imagined an <a href="https://languagelog.ldc.upenn.edu/myl/Good1964.pdf">“ultraintelligent machine”</a> back in 1965, one that could design better machines and would be the last invention we’d ever need to make. Bostrom later defined superintelligence in <a href="https://www.oup.com.au/books/general-interest/art-technology/9780198739838"><em>Superintelligence</em></a> as an intellect that greatly exceeds ours in practically every domain. Nobody at that table could tell you how we’d recognize the day it finally arrives, if at all. But a name does a lot. Calling a technology “superintelligence” tells people to lean in and stop asking questions.</p>
+<p>The renaming got my attention first. I wasn’t exactly sure why that took national priority at a time of heightened international tensions. But perhaps that was exactly the point. To lead, to be first, or to dominate the international race for technological supremacy. Naming it was itself a way of claiming the lead, even before anyone had clearly explained what we were racing toward or why it was worth getting there. I. J. Good imagined an <a href="https://languagelog.ldc.upenn.edu/myl/Good1964.pdf">“ultraintelligent machine”</a> back in 1965, one that could design better machines and would be the last invention we’d ever need to make. Bostrom later defined superintelligence in <a href="https://www.oup.com.au/books/general-interest/art-technology/9780198739838"><em>Superintelligence</em></a> as an intellect that greatly exceeds ours in practically every domain. Nobody at that table could tell you how we’d recognize the day it finally arrives, if at all. But a name does a lot. Calling a technology “superintelligence” tells people to lean in and stop asking questions.</p>
 <section id="why-do-we-want-it" class="level2">
 <h2 class="anchored" data-anchor-id="why-do-we-want-it">Why do we want it?</h2>
 <p>The answer you hear most is that it will cure disease and end scarcity. Some people mean that sincerely. The answer you can actually see in the room is different. Trump said <a href="https://www.foxnews.com/live-news/trump-ai-white-house-meeting-september-29">whoever wins superintelligence wins</a>. He also argued the government can’t slow development for fear of <a href="https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump">falling behind China</a>.</p>
@@ -465,6 +487,92 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Include raw HTML links and footer links as well as Markdown references.
+  document.querySelectorAll('a[href]').forEach(function (link) {
+    const destination = new URL(link.href, window.location.href);
+    if (/^https?:$/.test(destination.protocol) &&
+        (destination.origin !== window.location.origin || /\.pdf$/i.test(destination.pathname))) {
+      link.target = "_blank";
+      link.relList.add("noopener", "noreferrer");
+    }
+  });
+
+  if (!document.body.classList.contains("blog-post")) return;
+  const main = document.querySelector("main.content");
+  if (!main) return;
+  const canonical = document.querySelector('meta[property="og:url"]');
+  const url = canonical ? canonical.content : window.location.href.split(/[?#]/)[0];
+  const heading = document.querySelector("h1.title");
+  const title = heading ? heading.textContent.trim() : document.title;
+  const encodedURL = encodeURIComponent(url);
+  const encodedTitle = encodeURIComponent(title);
+  const panel = document.createElement("aside");
+  panel.className = "article-share";
+  panel.setAttribute("aria-labelledby", "article-share-title");
+  panel.innerHTML = '<h2 id="article-share-title">Keep the conversation going</h2>' +
+    '<p>Found this useful? Share it with someone who would enjoy it.</p>' +
+    '<div class="article-share-actions"></div>' +
+    '<p class="article-share-status" role="status" aria-live="polite"></p>';
+  const actions = panel.querySelector(".article-share-actions");
+  const status = panel.querySelector(".article-share-status");
+  const platforms = [
+    ["WhatsApp", "https://wa.me/?text=" + encodeURIComponent(title + "\n" + url)],
+    ["Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + encodedURL],
+    ["LinkedIn", "https://www.linkedin.com/sharing/share-offsite/?url=" + encodedURL],
+    ["X", "https://twitter.com/intent/tweet?url=" + encodedURL + "&text=" + encodedTitle],
+    ["Reddit", "https://www.reddit.com/submit?url=" + encodedURL + "&title=" + encodedTitle]
+  ];
+  platforms.forEach(function (platform) {
+    const link = document.createElement("a");
+    link.textContent = platform[0];
+    link.href = platform[1];
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.setAttribute("aria-label", "Share on " + platform[0] + " (opens in a new tab)");
+    actions.appendChild(link);
+  });
+
+  async function copyLink(platform) {
+    const instructions = {
+      Instagram: "Paste it into an Instagram message or a Story link sticker.",
+      Substack: "Paste it into a Substack Note or post.",
+      Medium: "Paste it into your Medium draft."
+    };
+    const hint = instructions[platform] || "It's ready to share.";
+    const previous = panel.querySelector(".article-share-copy-field");
+    if (previous) previous.remove();
+    try {
+      await navigator.clipboard.writeText(url);
+      status.textContent = "Link copied. " + hint;
+    } catch (error) {
+      status.textContent = "Copy the link below. " + hint;
+      const field = document.createElement("input");
+      field.className = "article-share-copy-field";
+      field.type = "text";
+      field.readOnly = true;
+      field.value = url;
+      field.setAttribute("aria-label", "Article link to copy");
+      panel.appendChild(field);
+      field.focus();
+      field.select();
+    }
+  }
+  ["Instagram", "Substack", "Medium", "Copy link"].forEach(function (platform) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = platform;
+    button.setAttribute("aria-label", platform === "Copy link" ? "Copy article link" : "Copy link to share on " + platform);
+    button.title = platform === "Copy link" ? "Copy article link" : "Copy link to share on " + platform;
+    button.addEventListener("click", function () { copyLink(platform); });
+    actions.appendChild(button);
+  });
+  const related = main.querySelector(".blog-related");
+  if (related) related.before(panel);
+  else main.appendChild(panel);
+});
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
