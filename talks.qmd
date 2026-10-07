@@ -12,7 +12,7 @@ title-block-banner: false
 
 # Talks & Presentations
 
-Invited talks, conference presentations, and academic outreach from my [CV](assets/documents/amaka-onebunne-cv.pdf). Acceptance and presentation statuses reflect the CV.
+Invited talks, conference presentations, and academic outreach.
 
 ## Invited talks
 

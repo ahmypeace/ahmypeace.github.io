@@ -5,25 +5,25 @@ toc: false
 title-block-banner: false
 ---
 
-::: {.site-section .section-light .scholarship-page}
+::: {.site-section .section-light .scholarship-page .publications-page}
 ::: {.site-container}
 
 <p class="section-label">Research & Scholarship</p>
 
 # Publications
 
-Articles, conference papers, and ongoing research. Entries and statuses are drawn from my [CV](assets/documents/amaka-onebunne-cv.pdf).
+Articles, conference papers, and ongoing research.
 
-::: {.hero-links .hero-links-inline}
-[Email](mailto:amaka.onebunne@temple.edu){.hero-link}
-[Google Scholar](https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en){.hero-link target="_blank"}
-[ORCID](https://orcid.org/0009-0000-3029-5987){.hero-link target="_blank"}
-[Academia.edu](https://niu.academia.edu/AmakaOnebunne){.hero-link target="_blank"}
-[ResearchGate](https://www.researchgate.net/profile/Amaka-Onebunne){.hero-link target="_blank"}
-[GitHub](https://github.com/ahmypeace){.hero-link target="_blank"}
-[LinkedIn](https://www.linkedin.com/in/amakapeace/){.hero-link target="_blank"}
-[Download CV](assets/documents/amaka-onebunne-cv.pdf){.hero-link target="_blank"}
-:::
+<div class="hero-links hero-links-inline">
+<a class="hero-link" href="mailto:amaka.onebunne@temple.edu"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
+<a class="hero-link" href="https://scholar.google.com/citations?user=UtUtPZwAAAAJ&amp;hl=en" target="_blank" rel="noopener"><i class="bi bi-google" aria-hidden="true"></i> Google Scholar</a>
+<a class="hero-link" href="https://orcid.org/0009-0000-3029-5987" target="_blank" rel="noopener"><i class="bi bi-journal" aria-hidden="true"></i> ORCID</a>
+<a class="hero-link" href="https://niu.academia.edu/AmakaOnebunne" target="_blank" rel="noopener"><i class="bi bi-mortarboard" aria-hidden="true"></i> Academia.edu</a>
+<a class="hero-link" href="https://www.researchgate.net/profile/Amaka-Onebunne" target="_blank" rel="noopener"><i class="bi bi-diagram-3" aria-hidden="true"></i> ResearchGate</a>
+<a class="hero-link" href="https://github.com/ahmypeace" target="_blank" rel="noopener"><i class="bi bi-github" aria-hidden="true"></i> GitHub</a>
+<a class="hero-link" href="https://www.linkedin.com/in/amakapeace/" target="_blank" rel="noopener"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
+<a class="hero-link" href="assets/documents/amaka-onebunne-cv.pdf" target="_blank" rel="noopener"><i class="bi bi-download" aria-hidden="true"></i> Download CV</a>
+</div>
 
 [Published articles](#published-articles) · [Under review](#under-review) · [Conference papers](#conference-papers) · [Work in progress](#work-in-progress)
 
@@ -95,7 +95,7 @@ Onebunne, A. P., & Okocha, M. **Revise and resubmit.**
 
 ## Conference papers {#conference-papers}
 
-Statuses reflect the CV. See [Talks & Presentations](talks.qmd) for presentations and invited talks.
+See [Talks & Presentations](talks.qmd) for presentations and invited talks.
 
 ### Does the Brussels Effect Extend from Data Protection to AI Governance in Africa? Examining the Relationship Between European Frameworks and African Policy Adoption {#brussels-effect}
 

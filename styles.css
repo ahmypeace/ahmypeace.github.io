@@ -10,6 +10,13 @@
 .scholarship-page .hero-links p { display: flex; flex-wrap: wrap; gap: .5rem; flex: 1 1 100%; }
 .scholarship-page li { margin-bottom: 1.2rem; }
 
+/* Compact publication entries with hanging citation indents. */
+.publications-page section.level3 { margin: 0 0 1.25rem; }
+.publications-page section.level3 > h3 { margin: 1.25rem 0 .4rem; font-size: 1.08rem; }
+.publications-page section.level3 > p { margin: 0 0 .35rem; padding-left: 1.5rem; }
+.publications-page section.level3 > h3 + p { text-indent: -1.5rem; line-height: 1.6; }
+.publications-page h2 { margin: 2rem 0 1rem; }
+
 /* Blog: post archive, readable posts, and related articles. */
 body.blog-post #quarto-document-content {
   max-width: 900px;
