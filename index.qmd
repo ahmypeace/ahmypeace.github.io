@@ -153,8 +153,8 @@ Examining how AI companies define safety, responsibility, evaluation,
 and institutional accountability in official governance documents.
 
 <a class="research-card-link"
-   href="projects/responsible-ai-framing.html">
-  Explore project
+   href="publications.qmd#responsible-ai-framing">
+  View publication
   <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
 
@@ -174,8 +174,8 @@ Studying how Africa and Latin America are constructed as emerging markets,
 testing grounds, and strategic frontiers for artificial intelligence.
 
 <a class="research-card-link"
-   href="projects/speculative-markets.html">
-  Explore project
+   href="publications.qmd#speculative-markets">
+  View publication
   <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
 
@@ -195,8 +195,8 @@ Investigating how African news organizations frame deepfakes, political risk,
 criminality, governance, and emerging forms of synthetic media.
 
 <a class="research-card-link"
-   href="projects/deepfake-framing.html">
-  Explore project
+   href="publications.qmd">
+  View publications
   <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
 
@@ -216,8 +216,8 @@ Exploring how people interpret intelligent technologies and how digital media
 create new forms of intimacy, identity, knowledge, and social interaction.
 
 <a class="research-card-link"
-   href="research.qmd">
-  View research
+   href="publications.qmd">
+  View publications
   <i class="bi bi-arrow-right" aria-hidden="true"></i>
 </a>
 
@@ -227,8 +227,8 @@ create new forms of intimacy, identity, knowledge, and social interaction.
 
 
 <div class="research-footer">
-  <a class="view-all-projects" href="research.qmd">
-    View All Projects
+  <a class="view-all-projects" href="publications.qmd">
+    View All Publications
     <i class="bi bi-arrow-right" aria-hidden="true"></i>
   </a>
 </div>
@@ -267,7 +267,7 @@ Research across AI, media, institutions, and society
 <div>
 
 <h3 class="work-title">
-Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market
+<a href="publications.qmd#speculative-markets">Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market</a>
 </h3>
 
 <p class="work-description">
@@ -292,7 +292,7 @@ intelligence.
 <div>
 
 <h3 class="work-title">
-Algorithmic Visibility and the Feedback Loop of Othering: A Case for Africa
+<a href="publications.qmd#algorithmic-visibility">Algorithmic Visibility and the Feedback Loop of Othering: The Case for Africa</a>
 </h3>
 
 <p class="work-description">
@@ -315,7 +315,7 @@ Research Article
 <div>
 
 <h3 class="work-title">
-Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms
+<a href="publications.qmd#nigerian-newsrooms">Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms</a>
 </h3>
 
 <p class="work-description">
@@ -334,7 +334,7 @@ Digital Journalism
 
 <div class="hero-actions">
 <a class="hero-button button-secondary"
-   href="publications.html">
+   href="publications.qmd">
 View All Publications
 </a>
 </div>

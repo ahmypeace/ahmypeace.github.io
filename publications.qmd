@@ -1,21 +1,147 @@
-
----
-title: ""
+﻿---
+title: "Publications"
 page-layout: full
 toc: false
 title-block-banner: false
 ---
 
-::: {.coming-soon-page .coming-soon-publications}
-<div class="coming-soon-icon" aria-hidden="true">📚</div>
-<p class="coming-soon-kicker">Publications</p>
+::: {.site-section .section-light .scholarship-page}
+::: {.site-container}
 
-# The bibliography is getting dressed.
+<p class="section-label">Research & Scholarship</p>
 
-Articles, chapters, and research contributions are being organized into a proper scholarly wardrobe. Everything will be citation-ready soon.
+# Publications
 
-::: {.coming-soon-actions}
-[Read my essays](blog/index.qmd){.coming-soon-button .coming-soon-button-primary}
-[About me](about.qmd){.coming-soon-button}
+Articles, conference papers, and ongoing research. Entries and statuses are drawn from my [CV](assets/documents/amaka-onebunne-cv.pdf).
+
+::: {.hero-links .hero-links-inline}
+[Email](mailto:amaka.onebunne@temple.edu){.hero-link}
+[Google Scholar](https://scholar.google.com/citations?user=UtUtPZwAAAAJ&hl=en){.hero-link target="_blank"}
+[ORCID](https://orcid.org/0009-0000-3029-5987){.hero-link target="_blank"}
+[Academia.edu](https://niu.academia.edu/AmakaOnebunne){.hero-link target="_blank"}
+[ResearchGate](https://www.researchgate.net/profile/Amaka-Onebunne){.hero-link target="_blank"}
+[GitHub](https://github.com/ahmypeace){.hero-link target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/amakapeace/){.hero-link target="_blank"}
+[Download CV](assets/documents/amaka-onebunne-cv.pdf){.hero-link target="_blank"}
+:::
+
+[Published articles](#published-articles) · [Under review](#under-review) · [Conference papers](#conference-papers) · [Work in progress](#work-in-progress)
+
+## Published articles {#published-articles}
+
+### Algorithmic visibility and the feedback loop of othering: The case for Africa {#algorithmic-visibility}
+
+Onebunne, A. P., Nwachukwu, P. C., Essien, E. O., & Yusuf, Z. B. (2026). *African Journal of Science, Technology, Innovation and Development, 18*(3), 308–315.
+
+[Read article](https://doi.org/10.1080/20421338.2026.2652078)
+
+### From Aristotle to AI: Exploring the Convergence of Deepfakes and Persuasion and Their Societal Consequences {#aristotle-to-ai}
+
+Onebunne, A. P. (2025a). *International Journal of Arts and Humanities, 6*(1), 288–296.
+
+[Read article](https://doi.org/10.25082/ijah.2025.01.003)
+
+### Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms {#nigerian-newsrooms}
+
+Onebunne, A. P. (2025b). *Digital Journalism*, 1–20.
+
+[Read article](https://doi.org/10.1080/21670811.2025.2577127)
+
+### Women Political Underrepresentation in Nigeria: The Key Issues and the Way Forward {#women-political-underrepresentation}
+
+Udoh, E., Udoh, O. P., Onebunne, A. P., Balouboye, M. E., Oboh, S., & Nosakhare, I. N. (2025). *International Journal of Sub-Saharan African Research, 2*(4), 179–197.
+
+[Read article](https://www.ijssar.com/uploads/368111_1737906553.pdf)
+
+### Rethinking Section 230: Toward alternative strategies for protecting user privacy in the age of surveillance capitalism {#rethinking-section-230}
+
+Onebunne, A. P. (2024). *World Journal of Advanced Research and Reviews, 24*(3), 3339–3345.
+
+[Read article](https://doi.org/10.30574/wjarr.2024.24.3.3445)
+
+### Bias and Fairness in AI Models: Addressing Disparities in Machine Learning Applications {#bias-and-fairness}
+
+Onebunne, A. P., & Alade, B. (2024). *International Research Journal of Modernization in Engineering Technology and Science, 6*(09).
+
+[Read article](https://doi.org/10.56726/irjmets61692)
+
+### Leveraging Artificial Intelligence for Intellectual Property Compliance and Global Regulatory Adherence {#intellectual-property-compliance}
+
+Adeniran, A. A., & Onebunne, A. P. (2024). *International Journal of Engineering Technology Research & Management, 8*(11), 14.
+
+[Read article](https://doi.org/10.5281/zenodo.14098906)
+
+### Explainable AI (XAI) in healthcare: Enhancing trust and transparency in critical decision-making {#explainable-ai-healthcare}
+
+Adeniran, A. A., Onebunne, A. P., & William, P. (2024). *World Journal of Advanced Research and Reviews, 23*(3), 2447–2658.
+
+[Read article](https://doi.org/10.30574/wjarr.2024.23.3.2936)
+
+### Algorithmic bias and media manipulation: A systematic review of AI’s Role in shaping public perception and political discourse {#algorithmic-bias-media}
+
+Onebunne, A. P. (2022). *World Journal of Advanced Research and Reviews, 16*(3), 1239–1249.
+
+[Read article](https://doi.org/10.30574/wjarr.2022.16.3.1332)
+
+## Under review {#under-review}
+
+### Reproducing Roles, Reinforcing Bias? Generative AI’s Representations of Journalists {#representations-of-journalists}
+
+Okocha, M., & Onebunne, A. P. **Revise and resubmit.**
+
+### ‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms {#cultural-reality}
+
+Onebunne, A. P., & Okocha, M. **Revise and resubmit.**
+
+## Conference papers {#conference-papers}
+
+Statuses reflect the CV. See [Talks & Presentations](talks.qmd) for presentations and invited talks.
+
+### Does the Brussels Effect Extend from Data Protection to AI Governance in Africa? Examining the Relationship Between European Frameworks and African Policy Adoption {#brussels-effect}
+
+Onebunne, A. P. (2026). Accepted paper, 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), Malmö, Sweden.
+
+### Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market {#speculative-markets}
+
+Onebunne, A. P. (2026). Accepted paper, Annual Meeting of the Society for Social Studies of Science (4S), Toronto, Canada.
+
+### Competing Justification Models in Corporate Responsible AI Discourse: A Computational Framing Analysis {#responsible-ai-framing}
+
+Onebunne, A. P., & Iliadis, A. (2026, June). Manuscript accepted for presentation, International Communication Association Conference, Cape Town, South Africa.
+
+### I Said What I Said and Beyond: Parasocial Intimacy, Pragmatic Feminism, and the Digital Re-scripting of Nigerian Womanhood in the Nigerian Podcast Arena {#nigerian-podcast-arena}
+
+Onebunne, A. P. (2026, April). Proposal accepted, Popular Culture Association Conference, Atlanta, GA.
+
+### Modeling Cognitive, Behavioral, and Emotional Predictors of Perceived Control Over Personal Data Under Digital Surveillance {#personal-data-control}
+
+Onebunne, A. P. (2026, March). Manuscript accepted for presentation, MCGSA Graduate Research Forum, Klein College of Media and Communication, Temple University, Philadelphia, PA.
+
+### Allocating Responsibility in Corporate Responsible AI: A Computational Framing Analysis {#allocating-responsibility}
+
+Onebunne, A. P. (2026, March). Manuscript accepted for presentation, MCGSA Graduate Research Forum, Klein College of Media and Communication, Temple University, Philadelphia, PA.
+
+### ‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms {#cultural-reality-conference}
+
+Onebunne, A. P., & Okocha, M. (2026, March). Manuscript accepted for presentation, AEJMC Southeast Colloquium, Tampa, FL.
+
+### Central States Communication Association paper {#csca-2024}
+
+Onebunne, A. P. (2024, April). Manuscript presented, Central States Communication Association, Grand Rapids, MI. **Top 3 graduate student papers.** The title is incomplete in the CV.
+
+### Algorithmic Gaze and the Feedback Loop of Othering: The Case for Africa {#algorithmic-gaze}
+
+Onebunne, A. (2024, March). Manuscript presented, AEJMC Southeast Colloquium, Lexington, KY.
+
+## Work in progress {#work-in-progress}
+
+### Lost in Translation: AI Governance and the Reordering of Technological Futures in Africa {#lost-in-translation}
+
+Onebunne, A. P. Manuscript in preparation.
+
+### Framing Synthetic Media Across African Newspapers {#synthetic-media}
+
+Work in progress.
+
 :::
 :::

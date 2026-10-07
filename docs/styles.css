@@ -1,6 +1,15 @@
 /* AMAKA PEACE ONEBUNNE
    Academic portfolio */
 
+.scholarship-page .site-container { max-width: 960px; }
+.scholarship-page h1 { font-family: var(--serif); font-size: clamp(2.5rem, 5vw, 4rem); color: var(--ink); }
+.scholarship-page h2 { margin-top: 3rem; font-family: var(--serif); color: var(--ink); }
+.scholarship-page h3 { margin-top: 2rem; font-size: 1.2rem; line-height: 1.45; color: var(--ink); }
+.scholarship-page section[id] { scroll-margin-top: 110px; }
+.scholarship-page .hero-links { margin: 1.5rem 0; flex-wrap: wrap; }
+.scholarship-page .hero-links p { display: flex; flex-wrap: wrap; gap: .5rem; flex: 1 1 100%; }
+.scholarship-page li { margin-bottom: 1.2rem; }
+
 /* Blog: post archive, readable posts, and related articles. */
 body.blog-post #quarto-document-content {
   max-width: 900px;

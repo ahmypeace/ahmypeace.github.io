@@ -1,21 +1,54 @@
-
----
-title: ""
+﻿---
+title: "Talks & Presentations"
 page-layout: full
 toc: false
 title-block-banner: false
 ---
 
-::: {.coming-soon-page .coming-soon-talks}
-<div class="coming-soon-icon" aria-hidden="true">🎙️</div>
-<p class="coming-soon-kicker">Talks & Presentations</p>
+::: {.site-section .section-light .scholarship-page}
+::: {.site-container}
 
-# Mic check. Slides loading.
+<p class="section-label">Research in Conversation</p>
 
-Conference presentations, invited talks, and research conversations are being gathered here. Please take your seat, the program will begin soon.
+# Talks & Presentations
 
-::: {.coming-soon-actions}
-[Read the latest news](news.qmd){.coming-soon-button .coming-soon-button-primary}
-[Back home](index.qmd){.coming-soon-button}
+Invited talks, conference presentations, and academic outreach from my [CV](assets/documents/amaka-onebunne-cv.pdf). Acceptance and presentation statuses reflect the CV.
+
+## Invited talks
+
+### Allocating responsibility in corporate responsible AI: A computational framing analysis
+
+**February 2026 · Temple University · Philadelphia, PA**
+
+Onebunne, A. P. Invited research talk at *Intersections: An Interdisciplinary Research Forum*.
+
+## Conference papers and presentations
+
+### 2026
+
+- **AIES · Malmö, Sweden.** Onebunne, A. P. [Does the Brussels Effect Extend from Data Protection to AI Governance in Africa? Examining the Relationship Between European Frameworks and African Policy Adoption](publications.qmd#brussels-effect). Accepted paper, 9th AAAI/ACM Conference on AI, Ethics, and Society.
+- **4S · Toronto, Canada.** Onebunne, A. P. [Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market](publications.qmd#speculative-markets). Accepted paper, Annual Meeting of the Society for Social Studies of Science.
+- **June · ICA · Cape Town, South Africa.** Onebunne, A. P., & Iliadis, A. [Competing Justification Models in Corporate Responsible AI Discourse: A Computational Framing Analysis](publications.qmd#responsible-ai-framing). Manuscript accepted for presentation, International Communication Association Conference.
+- **April · PCA · Atlanta, GA.** Onebunne, A. P. [I Said What I Said and Beyond: Parasocial Intimacy, Pragmatic Feminism, and the Digital Re-scripting of Nigerian Womanhood in the Nigerian Podcast Arena](publications.qmd#nigerian-podcast-arena). Proposal accepted, Popular Culture Association Conference.
+- **March · MCGSA Graduate Research Forum · Temple University, Philadelphia, PA.** Onebunne, A. P. [Modeling Cognitive, Behavioral, and Emotional Predictors of Perceived Control Over Personal Data Under Digital Surveillance](publications.qmd#personal-data-control). Manuscript accepted for presentation, Klein College of Media and Communication.
+- **March · MCGSA Graduate Research Forum · Temple University, Philadelphia, PA.** Onebunne, A. P. [Allocating Responsibility in Corporate Responsible AI: A Computational Framing Analysis](publications.qmd#allocating-responsibility). Manuscript accepted for presentation, Klein College of Media and Communication.
+- **March · AEJMC Southeast Colloquium · Tampa, FL.** Onebunne, A. P., & Okocha, M. [‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms](publications.qmd#cultural-reality-conference). Manuscript accepted for presentation.
+
+### 2024
+
+- **April · CSCA · Grand Rapids, MI.** Onebunne, A. P. Manuscript presented, Central States Communication Association. **Top 3 graduate student papers.** The title is incomplete in the CV.
+- **March · AEJMC Southeast Colloquium · Lexington, KY.** Onebunne, A. [Algorithmic Gaze and the Feedback Loop of Othering: The Case for Africa](publications.qmd#algorithmic-gaze). Manuscript presented.
+
+## Academic outreach
+
+### 2023
+
+- **Staff Professional Development Academy Program** — Student panelist, Northern Illinois University.
+- **The Real Talk Conference: Bridging Race, Identity, and Community** — Student panelist, Northern Illinois University.
+- **International Conference on Turning the Knowledge of Science into Development** — Covenant University, Ota, Nigeria.
+- **International Graduate Students’ Orientation** — Northern Illinois University.
+
+[View publications](publications.qmd){.hero-button .button-primary}
+
 :::
 :::

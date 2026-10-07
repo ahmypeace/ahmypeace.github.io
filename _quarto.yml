@@ -26,9 +26,6 @@ website:
       - text: "About"
         href: about.qmd
 
-      - text: "Research"
-        href: research.qmd
-
       - text: "Publications"
         href: publications.qmd
 
@@ -46,17 +43,8 @@ website:
 
       - text: "More"
         menu:
-          - text: "Open Research"
-            href: open-science.qmd
-
-          - text: "Methods"
-            href: methods.qmd
-
           - text: "Talks and Presentations"
             href: talks.qmd
-
-          - text: "Media"
-            href: media.qmd
 
           - text: "Service and Leadership"
             href: service.qmd
