@@ -761,5 +761,12 @@
     "title": "Service & Leadership",
     "section": "Leadership grounded in service",
     "text": "Leadership grounded in service\nMy institutional and community contributions have been recognized with the President’s Student Service and Leadership Award and the Champagne Award from Northern Illinois University in 2024."
+  },
+  {
+    "objectID": "about.html#what-im-building",
+    "href": "about.html#what-im-building",
+    "title": "Amaka Peace Onebunne",
+    "section": "What I’m Building",
+    "text": "What I’m Building\n\nChota: A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. (Source on GitHub)"
   }
 ]

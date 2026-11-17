@@ -82,6 +82,10 @@ My research broadly examines the relationships among technology, people, knowled
 These projects are at different stages, from published work and ongoing empirical studies to newer ideas I am still building.
 mpirical studies and newer projects that I am currently building. 
 
+## What I'm Building
+
+* **[Chota](https://ahmypeace.github.io/Chota/):** A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. ([Source on GitHub](https://github.com/ahmypeace/Chota))
+
 ## Methods & Research Practice
 
 My research combines computational, qualitative, and mixed methods, depending on the questions I am asking. I work with text and network analysis, statistical modeling, computational experiments, AI evaluation, interviews, and discourse analysis.
