@@ -80,7 +80,6 @@ My research broadly examines the relationships among technology, people, knowled
 * **Risk, responsibility, and organizations:** I examine how organizations define and communicate technological risk, who gets to decide that something is a problem, and where responsibility is placed when intelligent systems fail or cause harm.
 
 These projects are at different stages, from published work and ongoing empirical studies to newer ideas I am still building.
-mpirical studies and newer projects that I am currently building. 
 
 ## What I'm Building
 
