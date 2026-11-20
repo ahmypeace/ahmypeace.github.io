@@ -3,7 +3,7 @@ blog-post: true
 body-classes: blog-post
 author: Amaka Peace Onebunne
 date-format: long
-title: "We're building it. Do we know why?"
+title: "Do we even know why we're building this?"
 date: 2026-09-29
 categories: [Commentary, superintelligence, AI, philosophy, policy]
 description: "The White House just signed a pledge on superintelligence. Nobody in the room could say what it is, or what we want it to do."
@@ -29,7 +29,7 @@ listing:
 
 Today, some of the most powerful people in technology sat down for lunch at the White House and signed a pledge. Trump called it ["morally binding,"](https://thehill.com/homenews/administration/6118906-tech-ceos-sign-white-house-ai-accord/) almost like a constitution. The White House billed the event as a [meeting and luncheon on Super Intelligence](https://finance.yahoo.com/technology/article/trump-gathers-with-ai-leaders-floats-self-regulation-as-the-way-to-deal-with-the-technologys-dangers-193745293.html), and Trump said the technology has now been officially renamed SI.
 
-The renaming got my attention first. I wasn't exactly sure why that took national priority at a time of heightened international tensions. But perhaps that was exactly the point. To lead, to be first, or to dominate the international race for technological supremacy. Naming it was itself a way of claiming the lead, even before anyone had clearly explained what we were racing toward or why it was worth getting there. I. J. Good imagined an ["ultraintelligent machine"](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf) back in 1965, one that could design better machines and would be the last invention we'd ever need to make. Bostrom later defined superintelligence in [*Superintelligence*](https://www.oup.com.au/books/general-interest/art-technology/9780198739838) as an intellect that greatly exceeds ours in practically every domain. Nobody at that table could tell you how we'd recognize the day it finally arrives, if at all. But a name does a lot. Calling a technology "superintelligence" tells people to lean in and stop asking questions. 
+The renaming got my attention first. I wasn't exactly sure why that took national priority at a time of heightened international tensions. But perhaps that was exactly the point. To lead, to be first, or to dominate the international race for technological supremacy. Naming it was itself a way of claiming the lead, even before, I presume, anyone had clearly explained what we were racing toward or why getting there was a worthy race. I. J. Good imagined an ["ultraintelligent machine"](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf) back in 1965, one that could design better machines and would be the last invention we'd ever need to make. Bostrom later defined superintelligence in [*Superintelligence*](https://www.oup.com.au/books/general-interest/art-technology/9780198739838) as an intellect that greatly exceeds ours in practically every domain. But I can bet that nobody at that table during this charade could tell you how we'd recognize the day this becomes material, if at all. But I tell you, a name does a lot. Calling a technology "superintelligence" tells people to lean in and stop asking questions, to surrender your critical judgement, intellectual freedom, and by extension, to wholly trust the process. 
 
 ## Why do we want it?
 
