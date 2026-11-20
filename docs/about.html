@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -241,7 +241,13 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Technological futures and the Global South:</strong> I study how governments, technology companies, and other institutions imagine the Global South within emerging technological futures, particularly through narratives of AI expansion, development, opportunity, and responsibility.</p></li>
 <li><p><strong>Risk, responsibility, and organizations:</strong> I examine how organizations define and communicate technological risk, who gets to decide that something is a problem, and where responsibility is placed when intelligent systems fail or cause harm.</p></li>
 </ul>
-<p>These projects are at different stages, from published work and ongoing empirical studies to newer ideas I am still building. mpirical studies and newer projects that I am currently building.</p>
+<p>These projects are at different stages, from published work and ongoing empirical studies to newer ideas I am still building.</p>
+</section>
+<section id="what-im-building" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-building">What I’m Building</h2>
+<ul>
+<li><strong><a href="https://ahmypeace.github.io/Chota/">Chota</a>:</strong> A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. (<a href="https://github.com/ahmypeace/Chota">Source on GitHub</a>)</li>
+</ul>
 </section>
 <section id="methods-research-practice" class="level2">
 <h2 class="anchored" data-anchor-id="methods-research-practice">Methods &amp; Research Practice</h2>
@@ -510,91 +516,177 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 <script>
+
 document.addEventListener("DOMContentLoaded", function () {
+
   // Include raw HTML links and footer links as well as Markdown references.
+
   document.querySelectorAll('a[href]').forEach(function (link) {
+
     const destination = new URL(link.href, window.location.href);
+
     if (/^https?:$/.test(destination.protocol) &&
+
         (destination.origin !== window.location.origin || /\.pdf$/i.test(destination.pathname))) {
+
       link.target = "_blank";
+
       link.relList.add("noopener", "noreferrer");
+
     }
+
   });
+
+
 
   if (!document.body.classList.contains("blog-post")) return;
+
   const main = document.querySelector("main.content");
+
   if (!main) return;
+
   const canonical = document.querySelector('meta[property="og:url"]');
+
   const url = canonical ? canonical.content : window.location.href.split(/[?#]/)[0];
+
   const heading = document.querySelector("h1.title");
+
   const title = heading ? heading.textContent.trim() : document.title;
+
   const encodedURL = encodeURIComponent(url);
+
   const encodedTitle = encodeURIComponent(title);
+
   const panel = document.createElement("aside");
+
   panel.className = "article-share";
+
   panel.setAttribute("aria-labelledby", "article-share-title");
+
   panel.innerHTML = '<h2 id="article-share-title">Keep the conversation going</h2>' +
+
     '<p>Found this useful? Share it with someone who would enjoy it.</p>' +
+
     '<div class="article-share-actions"></div>' +
+
     '<p class="article-share-status" role="status" aria-live="polite"></p>';
+
   const actions = panel.querySelector(".article-share-actions");
+
   const status = panel.querySelector(".article-share-status");
+
   const platforms = [
+
     ["WhatsApp", "https://wa.me/?text=" + encodeURIComponent(title + "\n" + url)],
+
     ["Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + encodedURL],
+
     ["LinkedIn", "https://www.linkedin.com/sharing/share-offsite/?url=" + encodedURL],
+
     ["X", "https://twitter.com/intent/tweet?url=" + encodedURL + "&text=" + encodedTitle],
+
     ["Reddit", "https://www.reddit.com/submit?url=" + encodedURL + "&title=" + encodedTitle]
+
   ];
+
   platforms.forEach(function (platform) {
+
     const link = document.createElement("a");
+
     link.textContent = platform[0];
+
     link.href = platform[1];
+
     link.target = "_blank";
+
     link.rel = "noopener noreferrer";
+
     link.setAttribute("aria-label", "Share on " + platform[0] + " (opens in a new tab)");
+
     actions.appendChild(link);
+
   });
 
+
+
   async function copyLink(platform) {
+
     const instructions = {
+
       Instagram: "Paste it into an Instagram message or a Story link sticker.",
+
       Substack: "Paste it into a Substack Note or post.",
+
       Medium: "Paste it into your Medium draft."
+
     };
+
     const hint = instructions[platform] || "It's ready to share.";
+
     const previous = panel.querySelector(".article-share-copy-field");
+
     if (previous) previous.remove();
+
     try {
+
       await navigator.clipboard.writeText(url);
+
       status.textContent = "Link copied. " + hint;
+
     } catch (error) {
+
       status.textContent = "Copy the link below. " + hint;
+
       const field = document.createElement("input");
+
       field.className = "article-share-copy-field";
+
       field.type = "text";
+
       field.readOnly = true;
+
       field.value = url;
+
       field.setAttribute("aria-label", "Article link to copy");
+
       panel.appendChild(field);
+
       field.focus();
+
       field.select();
+
     }
+
   }
+
   ["Instagram", "Substack", "Medium", "Copy link"].forEach(function (platform) {
+
     const button = document.createElement("button");
+
     button.type = "button";
+
     button.textContent = platform;
+
     button.setAttribute("aria-label", platform === "Copy link" ? "Copy article link" : "Copy link to share on " + platform);
+
     button.title = platform === "Copy link" ? "Copy article link" : "Copy link to share on " + platform;
+
     button.addEventListener("click", function () { copyLink(platform); });
+
     actions.appendChild(button);
+
   });
+
   const related = main.querySelector(".blog-related");
+
   if (related) related.before(panel);
+
   else main.appendChild(panel);
+
 });
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -96,6 +96,12 @@ My computational work is primarily in **Python and R**.
 
 ---
 
+## What I'm Building
+
+**[Chota](https://ahmypeace.github.io/Chota/)**: A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python.
+
+---
+
 ## This Repository
 
 This space hosts research code, datasets, computational experiments, pipelines, and workflows from my ongoing projects.

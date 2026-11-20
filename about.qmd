@@ -80,7 +80,10 @@ My research broadly examines the relationships among technology, people, knowled
 * **Risk, responsibility, and organizations:** I examine how organizations define and communicate technological risk, who gets to decide that something is a problem, and where responsibility is placed when intelligent systems fail or cause harm.
 
 These projects are at different stages, from published work and ongoing empirical studies to newer ideas I am still building.
-mpirical studies and newer projects that I am currently building. 
+
+## What I'm Building
+
+* **[Chota](https://ahmypeace.github.io/Chota/):** A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. ([Source on GitHub](https://github.com/ahmypeace/Chota))
 
 ## Methods & Research Practice
 
