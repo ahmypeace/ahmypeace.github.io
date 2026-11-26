@@ -767,6 +767,6 @@
     "href": "about.html#what-im-building",
     "title": "Amaka Peace Onebunne",
     "section": "What I’m Building",
-    "text": "What I’m Building\n\nChota: A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. (Source on GitHub)"
+    "text": "What I’m Building\n\nChota: A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. (Source on GitHub)\nGIS Lab Portfolio: A GIS lab portfolio made in ArcGIS Pro, with maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia. (Source on GitHub)"
   }
 ]

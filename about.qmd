@@ -84,6 +84,7 @@ These projects are at different stages, from published work and ongoing empirica
 ## What I'm Building
 
 * **[Chota](https://ahmypeace.github.io/Chota/):** A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. ([Source on GitHub](https://github.com/ahmypeace/Chota))
+* **[GIS Lab Portfolio](https://ahmypeace.github.io/gis-lab-report/):** A GIS lab portfolio made in ArcGIS Pro, with maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia. ([Source on GitHub](https://github.com/ahmypeace/gis-lab-report))
 
 ## Methods & Research Practice
 
