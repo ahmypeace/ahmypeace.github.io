@@ -1,23 +1,53 @@
-
 ---
-title: ""
+title: "Methods"
 page-layout: full
 toc: false
 title-block-banner: false
 ---
 
-::: {.coming-soon-page .coming-soon-methods}
-<div class="coming-soon-icon" aria-hidden="true">⚙️</div>
-<p class="coming-soon-kicker">Methods</p>
+::: {.site-section .section-light .scholarship-page}
+::: {.site-container}
 
-# Fine-tuning in progress.
+<p class="section-label">Research Practice</p>
 
-The models are modeling, the code is coding, and the methodological details are
-being documented. This page will soon explain how I move from questions to
-findings.
+# Methods
 
-::: {.coming-soon-actions}
-[See my background](about.qmd){.coming-soon-button .coming-soon-button-primary}
-[Back home](index.qmd){.coming-soon-button}
+I choose methods based on the question. Most of my projects pair computational analysis of large text collections with close qualitative reading, and some add statistical modeling, experiments, or spatial analysis.
+
+## Computational text analysis
+
+I use computational framing analysis to study how corporate AI governance documents justify their commitments and assign responsibility. For news coverage at scale, I work with dictionary methods, named entity recognition, sentiment scaling, and clustering. In R, I have built the full pipeline from cleaning raw text to building corpora, applying psycholinguistic norms, and comparing word embeddings with human ratings of meaning.
+
+[NLP in R course portfolio](https://ahmypeace.github.io/CSD5730_NLP_R_Spring2026/){target="_blank"}
+
+## Qualitative and interpretive methods
+
+My master's thesis drew on in-depth interviews with 18 Nigerian news workers, analyzed through thematic analysis. I also use discourse and framing analysis to read policy documents, news stories, and corporate texts closely, often alongside a computational pass over the same material.
+
+## Statistical modeling and experiments
+
+I use statistical modeling to test predictors of attitudes and behavior, including a study of the cognitive, behavioral, and emotional predictors of perceived control over personal data. Newer work uses computational experiments and AI evaluation, including synthetic users and persona-based evaluators, to test how stable machine judgments are.
+
+## Spatial analysis
+
+I use GIS to map social and environmental problems. Recent work in ArcGIS Pro screened Flint for drinking-water risk, located Los Angeles schools near methane-producing landfills, and searched for a site for a healthy food store in Philadelphia.
+
+[GIS lab portfolio](https://ahmypeace.github.io/gis-lab-report/){target="_blank"}
+
+## Tools
+
+- **Python:** pandas, spaCy, scikit-learn, Jupyter
+- **R:** quanteda, tidyverse, ggplot2, textstem, R Markdown
+- **Mapping:** ArcGIS Pro and the ArcGIS Maps SDK for JavaScript
+- **Workflow:** Git, GitHub, and Quarto
+
+## Tools I have built
+
+[Chota](https://ahmypeace.github.io/Chota/){target="_blank"} is a browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. I built it to code news coverage for my own studies, and the [source is on GitHub](https://github.com/ahmypeace/Chota){target="_blank"}.
+
+---
+
+See the [Research](research.qmd) page for the questions these methods serve, and [Publications](publications.qmd) for the resulting work.
+
 :::
 :::

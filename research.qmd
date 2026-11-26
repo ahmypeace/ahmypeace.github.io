@@ -1,20 +1,84 @@
 ---
-title: ""
+title: "Research"
 page-layout: full
 toc: false
 title-block-banner: false
 ---
 
-::: {.coming-soon-page .coming-soon-research}
-<div class="coming-soon-icon" aria-hidden="true">🔬</div>
-<p class="coming-soon-kicker">Research in progress</p>
+::: {.site-section .section-light .scholarship-page .publications-page}
+::: {.site-container}
 
-# You found the lab before opening day.
+<p class="section-label">Research</p>
 
-The questions are here, and the projects are underway. But I am still arranging the findings, methods, and ideas into something you can spend time on. Check back soon.
+# Research
 
-::: {.coming-soon-actions}
-[Meet the researcher](about.qmd){.coming-soon-button .coming-soon-button-primary}
-[Back home](index.qmd){.coming-soon-button}
+I study how emerging technologies, especially artificial intelligence, become part of the ways people communicate, produce knowledge, make decisions, and organize work. Much of this work focuses on Africa and the Global South, where many assumptions about technology, risk, and progress arrive from elsewhere.
+
+[AI and journalism](#journalism) · [The Global South](#global-south) · [Risk and responsibility](#responsibility) · [Human–machine judgment](#judgment) · [Agentic systems](#agentic) · [Machines and knowledge](#knowledge) · [Digital culture](#digital-culture)
+
+## AI, journalism, and representation {#journalism}
+
+My work on AI began in newsrooms. For my master's thesis, I interviewed 18 Nigerian news workers about how AI was entering their daily work, and a follow-up study looks at how they verify what it produces and decide when to trust it. Related projects examine how generative AI represents journalists, how African newspapers frame deepfakes, and how algorithms shape the way Africa is made visible online.
+
+**Related work**
+
+- [Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms](publications.qmd#nigerian-newsrooms). *Digital Journalism*, 2025.
+- [‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms](publications.qmd#cultural-reality). Under review.
+- [Reproducing Roles, Reinforcing Bias? Generative AI’s Representations of Journalists](publications.qmd#representations-of-journalists). Under review.
+- [Algorithmic visibility and the feedback loop of othering: The case for Africa](publications.qmd#algorithmic-visibility). 2026.
+- [From Aristotle to AI: Exploring the Convergence of Deepfakes and Persuasion and Their Societal Consequences](publications.qmd#aristotle-to-ai). 2025.
+- [Framing Synthetic Media Across African Newspapers](publications.qmd#synthetic-media). Work in progress.
+
+## Technological futures and the Global South {#global-south}
+
+I study how governments, technology companies, and international bodies imagine the Global South within plans for AI expansion. One project traces how corporate, policy, and investment narratives present Africa and Latin America as emerging markets and testing grounds for AI. Another asks whether the Brussels Effect, the spread of European Union rules to other regions, carries over from data protection to AI governance in African policy.
+
+**Related work**
+
+- [Sociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market](publications.qmd#speculative-markets). 4S, 2026.
+- [Does the Brussels Effect Extend from Data Protection to AI Governance in Africa?](publications.qmd#brussels-effect) AIES, 2026.
+- [Lost in Translation: AI Governance and the Reordering of Technological Futures in Africa](publications.qmd#lost-in-translation). In preparation.
+
+## Risk, responsibility, and corporate AI {#responsibility}
+
+I examine how organizations define and communicate technological risk, and where they place responsibility when intelligent systems fail or cause harm. Using computational framing analysis, I study how AI companies justify their responsible AI commitments in official governance documents and how those documents assign responsibility.
+
+**Related work**
+
+- [Competing Justification Models in Corporate Responsible AI Discourse: A Computational Framing Analysis](publications.qmd#responsible-ai-framing). With Andrew Iliadis. ICA, 2026.
+- [Allocating Responsibility in Corporate Responsible AI: A Computational Framing Analysis](publications.qmd#allocating-responsibility). MCGSA Graduate Research Forum, 2026.
+
+## Human–machine judgment {#judgment}
+
+I am developing work with synthetic users and persona-based evaluators to test whether their judgments stay stable and whether machines can stand in for human experience in evaluation.
+
+*In development.*
+
+## Agentic systems and failure {#agentic}
+
+I am studying how failures move through multi-agent AI systems, how small errors grow into system-level problems, and whether coordination and redundancy help these systems recover.
+
+*In development.*
+
+## Machines and knowledge {#knowledge}
+
+AI-generated information reenters the information environment and becomes part of later outputs. I am interested in what this does to sources and authority, and to what people eventually accept as knowledge.
+
+*In development.*
+
+## Digital culture and everyday technology {#digital-culture}
+
+Other projects look at how digital media shape intimacy, identity, and privacy. One studies how Nigerian podcasts build parasocial intimacy and rewrite public ideas of womanhood. Another models the cognitive, behavioral, and emotional factors behind people's sense of control over their personal data under surveillance.
+
+**Related work**
+
+- [I Said What I Said and Beyond: Parasocial Intimacy, Pragmatic Feminism, and the Digital Re-scripting of Nigerian Womanhood in the Nigerian Podcast Arena](publications.qmd#nigerian-podcast-arena). Popular Culture Association, 2026.
+- [Modeling Cognitive, Behavioral, and Emotional Predictors of Perceived Control Over Personal Data Under Digital Surveillance](publications.qmd#personal-data-control). MCGSA Graduate Research Forum, 2026.
+- [Rethinking Section 230: Toward alternative strategies for protecting user privacy in the age of surveillance capitalism](publications.qmd#rethinking-section-230). *World Journal of Advanced Research and Reviews*, 2024.
+
+---
+
+The full list of papers is on the [Publications](publications.qmd) page, and the [Methods](methods.qmd) page explains how I approach these questions.
+
 :::
 :::

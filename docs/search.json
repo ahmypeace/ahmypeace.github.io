@@ -30,9 +30,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "You found the lab before opening day.",
+    "title": "Research",
     "section": "",
-    "text": "🔬\n\n\nResearch in progress\n\n\nYou found the lab before opening day.\nThe questions are here, and the projects are underway. But I am still arranging the findings, methods, and ideas into something you can spend time on. Check back soon.\n\nMeet the researcher Back home\n\n\n\n\n\n\n Back to top"
+    "text": "Research\n\n\n\nI study how emerging technologies, especially artificial intelligence, become part of the ways people communicate, produce knowledge, make decisions, and organize work. Much of this work focuses on Africa and the Global South, where many assumptions about technology, risk, and progress arrive from elsewhere.\nAI and journalism · The Global South · Risk and responsibility · Human–machine judgment · Agentic systems · Machines and knowledge · Digital culture\n\n\nMy work on AI began in newsrooms. For my master’s thesis, I interviewed 18 Nigerian news workers about how AI was entering their daily work, and a follow-up study looks at how they verify what it produces and decide when to trust it. Related projects examine how generative AI represents journalists, how African newspapers frame deepfakes, and how algorithms shape the way Africa is made visible online.\nRelated work\n\nJournalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms. Digital Journalism, 2025.\n‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms. Under review.\nReproducing Roles, Reinforcing Bias? Generative AI’s Representations of Journalists. Under review.\nAlgorithmic visibility and the feedback loop of othering: The case for Africa. 2026.\nFrom Aristotle to AI: Exploring the Convergence of Deepfakes and Persuasion and Their Societal Consequences. 2025.\nFraming Synthetic Media Across African Newspapers. Work in progress.\n\n\n\n\nI study how governments, technology companies, and international bodies imagine the Global South within plans for AI expansion. One project traces how corporate, policy, and investment narratives present Africa and Latin America as emerging markets and testing grounds for AI. Another asks whether the Brussels Effect, the spread of European Union rules to other regions, carries over from data protection to AI governance in African policy.\nRelated work\n\nSociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market. 4S, 2026.\nDoes the Brussels Effect Extend from Data Protection to AI Governance in Africa? AIES, 2026.\nLost in Translation: AI Governance and the Reordering of Technological Futures in Africa. In preparation.\n\n\n\n\nI examine how organizations define and communicate technological risk, and where they place responsibility when intelligent systems fail or cause harm. Using computational framing analysis, I study how AI companies justify their responsible AI commitments in official governance documents and how those documents assign responsibility.\nRelated work\n\nCompeting Justification Models in Corporate Responsible AI Discourse: A Computational Framing Analysis. With Andrew Iliadis. ICA, 2026.\nAllocating Responsibility in Corporate Responsible AI: A Computational Framing Analysis. MCGSA Graduate Research Forum, 2026.\n\n\n\n\nI am developing work with synthetic users and persona-based evaluators to test whether their judgments stay stable and whether machines can stand in for human experience in evaluation.\nIn development.\n\n\n\nI am studying how failures move through multi-agent AI systems, how small errors grow into system-level problems, and whether coordination and redundancy help these systems recover.\nIn development.\n\n\n\nAI-generated information reenters the information environment and becomes part of later outputs. I am interested in what this does to sources and authority, and to what people eventually accept as knowledge.\nIn development.\n\n\n\nOther projects look at how digital media shape intimacy, identity, and privacy. One studies how Nigerian podcasts build parasocial intimacy and rewrite public ideas of womanhood. Another models the cognitive, behavioral, and emotional factors behind people’s sense of control over their personal data under surveillance.\nRelated work\n\nI Said What I Said and Beyond: Parasocial Intimacy, Pragmatic Feminism, and the Digital Re-scripting of Nigerian Womanhood in the Nigerian Podcast Arena. Popular Culture Association, 2026.\nModeling Cognitive, Behavioral, and Emotional Predictors of Perceived Control Over Personal Data Under Digital Surveillance. MCGSA Graduate Research Forum, 2026.\nRethinking Section 230: Toward alternative strategies for protecting user privacy in the age of surveillance capitalism. World Journal of Advanced Research and Reviews, 2024.\n\n\nThe full list of papers is on the Publications page, and the Methods page explains how I approach these questions."
   },
   {
     "objectID": "publications.html",
@@ -709,16 +709,16 @@
   {
     "objectID": "methods.html",
     "href": "methods.html",
-    "title": "Fine-tuning in progress.",
+    "title": "Methods",
     "section": "",
-    "text": "⚙️\n\n\nMethods\n\n\nFine-tuning in progress.\nThe models are modeling, the code is coding, and the methodological details are being documented. This page will soon explain how I move from questions to findings.\n\nSee my background Back home\n\n\n\n\n\n\n Back to top"
+    "text": "Research Practice\n\n\n\nI choose methods based on the question. Most of my projects pair computational analysis of large text collections with close qualitative reading, and some add statistical modeling, experiments, or spatial analysis.\n\n\nI use computational framing analysis to study how corporate AI governance documents justify their commitments and assign responsibility. For news coverage at scale, I work with dictionary methods, named entity recognition, sentiment scaling, and clustering. In R, I have built the full pipeline from cleaning raw text to building corpora, applying psycholinguistic norms, and comparing word embeddings with human ratings of meaning.\nNLP in R course portfolio\n\n\n\nMy master’s thesis drew on in-depth interviews with 18 Nigerian news workers, analyzed through thematic analysis. I also use discourse and framing analysis to read policy documents, news stories, and corporate texts closely, often alongside a computational pass over the same material.\n\n\n\nI use statistical modeling to test predictors of attitudes and behavior, including a study of the cognitive, behavioral, and emotional predictors of perceived control over personal data. Newer work uses computational experiments and AI evaluation, including synthetic users and persona-based evaluators, to test how stable machine judgments are.\n\n\n\nI use GIS to map social and environmental problems. Recent work in ArcGIS Pro screened Flint for drinking-water risk, located Los Angeles schools near methane-producing landfills, and searched for a site for a healthy food store in Philadelphia.\nGIS lab portfolio\n\n\n\n\nPython: pandas, spaCy, scikit-learn, Jupyter\nR: quanteda, tidyverse, ggplot2, textstem, R Markdown\nMapping: ArcGIS Pro and the ArcGIS Maps SDK for JavaScript\nWorkflow: Git, GitHub, and Quarto\n\n\n\n\nChota is a browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. I built it to code news coverage for my own studies, and the source is on GitHub.\n\nSee the Research page for the questions these methods serve, and Publications for the resulting work."
   },
   {
     "objectID": "open-science.html",
     "href": "open-science.html",
-    "title": "The repository doors are almost open.",
+    "title": "Open Science",
     "section": "",
-    "text": "🔓\n\n\nOpen Research\n\n\nThe repository doors are almost open.\nI am preparing datasets, code, documentation, and research for public release. Good open research takes a little housekeeping first.\n\nVisit my GitHub Back home\n\n\n\n\n\n\n Back to top"
+    "text": "Open Research\n\n\n\nI share code, course work, and research tools where I can, so others can check and reuse them. Data and code from ongoing studies will follow as those projects are published.\n\n\nChota. A browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. Source on GitHub\n\n\n\nNLP in R. Text cleaning, corpus analysis, dictionary methods, psycholinguistic norms, and semantic distance in R, with every report and its R Markdown source. Source on GitHub\nGIS Lab Portfolio. Maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia, made in ArcGIS Pro. Source on GitHub\n\n\n\nThis site is built with Quarto, and its source is on GitHub.\n\n\n\nFor data or code from a published study, email me at amaka.onebunne@temple.edu."
   },
   {
     "objectID": "rai-project.html",
@@ -768,5 +768,124 @@
     "title": "Amaka Peace Onebunne",
     "section": "What I’m Building",
     "text": "What I’m Building\n\nChota: A browser app for manual content analysis that lets you read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R or Python. (Source on GitHub)\nGIS Lab Portfolio: A GIS lab portfolio made in ArcGIS Pro, with maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia. (Source on GitHub)"
+  },
+  {
+    "objectID": "research.html#journalism",
+    "href": "research.html#journalism",
+    "title": "Research",
+    "section": "",
+    "text": "My work on AI began in newsrooms. For my master’s thesis, I interviewed 18 Nigerian news workers about how AI was entering their daily work, and a follow-up study looks at how they verify what it produces and decide when to trust it. Related projects examine how generative AI represents journalists, how African newspapers frame deepfakes, and how algorithms shape the way Africa is made visible online.\nRelated work\n\nJournalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms. Digital Journalism, 2025.\n‘AI Sometimes Lack Cultural Reality’: Trust, Verification, and Constraint in Nigerian Newsrooms. Under review.\nReproducing Roles, Reinforcing Bias? Generative AI’s Representations of Journalists. Under review.\nAlgorithmic visibility and the feedback loop of othering: The case for Africa. 2026.\nFrom Aristotle to AI: Exploring the Convergence of Deepfakes and Persuasion and Their Societal Consequences. 2025.\nFraming Synthetic Media Across African Newspapers. Work in progress."
+  },
+  {
+    "objectID": "research.html#global-south",
+    "href": "research.html#global-south",
+    "title": "Research",
+    "section": "",
+    "text": "I study how governments, technology companies, and international bodies imagine the Global South within plans for AI expansion. One project traces how corporate, policy, and investment narratives present Africa and Latin America as emerging markets and testing grounds for AI. Another asks whether the Brussels Effect, the spread of European Union rules to other regions, carries over from data protection to AI governance in African policy.\nRelated work\n\nSociotechnical Imaginaries of AI Expansion: Constructing the Global South as Speculative Market. 4S, 2026.\nDoes the Brussels Effect Extend from Data Protection to AI Governance in Africa? AIES, 2026.\nLost in Translation: AI Governance and the Reordering of Technological Futures in Africa. In preparation."
+  },
+  {
+    "objectID": "research.html#responsibility",
+    "href": "research.html#responsibility",
+    "title": "Research",
+    "section": "",
+    "text": "I examine how organizations define and communicate technological risk, and where they place responsibility when intelligent systems fail or cause harm. Using computational framing analysis, I study how AI companies justify their responsible AI commitments in official governance documents and how those documents assign responsibility.\nRelated work\n\nCompeting Justification Models in Corporate Responsible AI Discourse: A Computational Framing Analysis. With Andrew Iliadis. ICA, 2026.\nAllocating Responsibility in Corporate Responsible AI: A Computational Framing Analysis. MCGSA Graduate Research Forum, 2026."
+  },
+  {
+    "objectID": "research.html#judgment",
+    "href": "research.html#judgment",
+    "title": "Research",
+    "section": "",
+    "text": "I am developing work with synthetic users and persona-based evaluators to test whether their judgments stay stable and whether machines can stand in for human experience in evaluation.\nIn development."
+  },
+  {
+    "objectID": "research.html#agentic",
+    "href": "research.html#agentic",
+    "title": "Research",
+    "section": "",
+    "text": "I am studying how failures move through multi-agent AI systems, how small errors grow into system-level problems, and whether coordination and redundancy help these systems recover.\nIn development."
+  },
+  {
+    "objectID": "research.html#knowledge",
+    "href": "research.html#knowledge",
+    "title": "Research",
+    "section": "",
+    "text": "AI-generated information reenters the information environment and becomes part of later outputs. I am interested in what this does to sources and authority, and to what people eventually accept as knowledge.\nIn development."
+  },
+  {
+    "objectID": "research.html#digital-culture",
+    "href": "research.html#digital-culture",
+    "title": "Research",
+    "section": "",
+    "text": "Other projects look at how digital media shape intimacy, identity, and privacy. One studies how Nigerian podcasts build parasocial intimacy and rewrite public ideas of womanhood. Another models the cognitive, behavioral, and emotional factors behind people’s sense of control over their personal data under surveillance.\nRelated work\n\nI Said What I Said and Beyond: Parasocial Intimacy, Pragmatic Feminism, and the Digital Re-scripting of Nigerian Womanhood in the Nigerian Podcast Arena. Popular Culture Association, 2026.\nModeling Cognitive, Behavioral, and Emotional Predictors of Perceived Control Over Personal Data Under Digital Surveillance. MCGSA Graduate Research Forum, 2026.\nRethinking Section 230: Toward alternative strategies for protecting user privacy in the age of surveillance capitalism. World Journal of Advanced Research and Reviews, 2024.\n\n\nThe full list of papers is on the Publications page, and the Methods page explains how I approach these questions."
+  },
+  {
+    "objectID": "methods.html#computational-text-analysis",
+    "href": "methods.html#computational-text-analysis",
+    "title": "Methods",
+    "section": "",
+    "text": "I use computational framing analysis to study how corporate AI governance documents justify their commitments and assign responsibility. For news coverage at scale, I work with dictionary methods, named entity recognition, sentiment scaling, and clustering. In R, I have built the full pipeline from cleaning raw text to building corpora, applying psycholinguistic norms, and comparing word embeddings with human ratings of meaning.\nNLP in R course portfolio"
+  },
+  {
+    "objectID": "methods.html#qualitative-and-interpretive-methods",
+    "href": "methods.html#qualitative-and-interpretive-methods",
+    "title": "Methods",
+    "section": "",
+    "text": "My master’s thesis drew on in-depth interviews with 18 Nigerian news workers, analyzed through thematic analysis. I also use discourse and framing analysis to read policy documents, news stories, and corporate texts closely, often alongside a computational pass over the same material."
+  },
+  {
+    "objectID": "methods.html#statistical-modeling-and-experiments",
+    "href": "methods.html#statistical-modeling-and-experiments",
+    "title": "Methods",
+    "section": "",
+    "text": "I use statistical modeling to test predictors of attitudes and behavior, including a study of the cognitive, behavioral, and emotional predictors of perceived control over personal data. Newer work uses computational experiments and AI evaluation, including synthetic users and persona-based evaluators, to test how stable machine judgments are."
+  },
+  {
+    "objectID": "methods.html#spatial-analysis",
+    "href": "methods.html#spatial-analysis",
+    "title": "Methods",
+    "section": "",
+    "text": "I use GIS to map social and environmental problems. Recent work in ArcGIS Pro screened Flint for drinking-water risk, located Los Angeles schools near methane-producing landfills, and searched for a site for a healthy food store in Philadelphia.\nGIS lab portfolio"
+  },
+  {
+    "objectID": "methods.html#tools",
+    "href": "methods.html#tools",
+    "title": "Methods",
+    "section": "",
+    "text": "Python: pandas, spaCy, scikit-learn, Jupyter\nR: quanteda, tidyverse, ggplot2, textstem, R Markdown\nMapping: ArcGIS Pro and the ArcGIS Maps SDK for JavaScript\nWorkflow: Git, GitHub, and Quarto"
+  },
+  {
+    "objectID": "methods.html#tools-i-have-built",
+    "href": "methods.html#tools-i-have-built",
+    "title": "Methods",
+    "section": "",
+    "text": "Chota is a browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. I built it to code news coverage for my own studies, and the source is on GitHub.\n\nSee the Research page for the questions these methods serve, and Publications for the resulting work."
+  },
+  {
+    "objectID": "open-science.html#research-tools",
+    "href": "open-science.html#research-tools",
+    "title": "Open Science",
+    "section": "",
+    "text": "Chota. A browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. Source on GitHub"
+  },
+  {
+    "objectID": "open-science.html#course-portfolios",
+    "href": "open-science.html#course-portfolios",
+    "title": "Open Science",
+    "section": "",
+    "text": "NLP in R. Text cleaning, corpus analysis, dictionary methods, psycholinguistic norms, and semantic distance in R, with every report and its R Markdown source. Source on GitHub\nGIS Lab Portfolio. Maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia, made in ArcGIS Pro. Source on GitHub"
+  },
+  {
+    "objectID": "open-science.html#this-website",
+    "href": "open-science.html#this-website",
+    "title": "Open Science",
+    "section": "",
+    "text": "This site is built with Quarto, and its source is on GitHub."
+  },
+  {
+    "objectID": "open-science.html#requests",
+    "href": "open-science.html#requests",
+    "title": "Open Science",
+    "section": "",
+    "text": "For data or code from a published study, email me at amaka.onebunne@temple.edu."
   }
 ]

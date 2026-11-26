@@ -1,21 +1,36 @@
-
 ---
-title: ""
+title: "Open Science"
 page-layout: full
 toc: false
 title-block-banner: false
 ---
 
-::: {.coming-soon-page .coming-soon-open}
-<div class="coming-soon-icon" aria-hidden="true">🔓</div>
-<p class="coming-soon-kicker">Open Research</p>
+::: {.site-section .section-light .scholarship-page}
+::: {.site-container}
 
-# The repository doors are almost open.
+<p class="section-label">Open Research</p>
 
-I am preparing datasets, code, documentation, and research for public release. Good open research takes a little housekeeping first.
+# Open Science
 
-::: {.coming-soon-actions}
-[Visit my GitHub](https://github.com/ahmypeace){.coming-soon-button .coming-soon-button-primary target="_blank"}
-[Back home](index.qmd){.coming-soon-button}
+I share code, course work, and research tools where I can, so others can check and reuse them. Data and code from ongoing studies will follow as those projects are published.
+
+## Research tools
+
+**[Chota](https://ahmypeace.github.io/Chota/){target="_blank"}.** A browser app for manual content analysis. Coders read each article PDF and code it on the same screen, then export the data to SPSS, Excel, CSV, R, or Python. [Source on GitHub](https://github.com/ahmypeace/Chota){target="_blank"}
+
+## Course portfolios
+
+**[NLP in R](https://ahmypeace.github.io/CSD5730_NLP_R_Spring2026/){target="_blank"}.** Text cleaning, corpus analysis, dictionary methods, psycholinguistic norms, and semantic distance in R, with every report and its R Markdown source. [Source on GitHub](https://github.com/ahmypeace/CSD5730_NLP_R_Spring2026){target="_blank"}
+
+**[GIS Lab Portfolio](https://ahmypeace.github.io/gis-lab-report/){target="_blank"}.** Maps of drinking-water risk in Flint, schools near methane-producing landfills in Los Angeles, and a site search for a healthy food store in Philadelphia, made in ArcGIS Pro. [Source on GitHub](https://github.com/ahmypeace/gis-lab-report){target="_blank"}
+
+## This website
+
+This site is built with Quarto, and its [source is on GitHub](https://github.com/ahmypeace/ahmypeace.github.io){target="_blank"}.
+
+## Requests
+
+For data or code from a published study, email me at [amaka.onebunne@temple.edu](mailto:amaka.onebunne@temple.edu).
+
 :::
 :::
